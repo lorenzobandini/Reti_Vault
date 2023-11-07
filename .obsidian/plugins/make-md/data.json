@@ -47,8 +47,8 @@
   "expandedSpaces": [
     "/",
     null,
-    "Reti_Vault",
-    null
+    null,
+    "Reti_Vault"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -79,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698413290429,
+  "spacesAutoBackupLast": 1699367691867,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
