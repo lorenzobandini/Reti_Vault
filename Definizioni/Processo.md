@@ -1,0 +1,1 @@
+Programma in esecuzione

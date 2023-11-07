@@ -1,0 +1,3 @@
+Se non diversamente indicato, il client può assumere che il server manterrà una connessione persistente cioè una connessione di rete che rimane aperta e attiva per un periodo prolungato, consentendo la comunicazione continua tra due dispositivi o sistemi senza la necessità di aprire e chiudere la connessione per ogni singolo scambio di dati.
+Lo standard specifica un meccanismo con cui client e server possono indicare la chiusura della connessione [[TCP]], il connection header field.
+Dopo la chiusura, il client non deve più inviare richeste su quella connessione.

@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Capitoli  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "file:\"Indice\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Definizioni  ",
+      "color": {
+        "a": 1,
+        "rgb": 4015078
+      }
+    },
+    {
+      "query": "path:Network  ",
+      "color": {
+        "a": 1,
+        "rgb": 8684254
+      }
+    },
+    {
+      "query": "path:\"Reti a commutazione\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3401386
+      }
+    },
+    {
+      "query": "path:\"Singole Metriche\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6144267
+      }
+    },
+    {
+      "query": "path:\"Protocolli Internet\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1711979
+      }
+    },
+    {
+      "query": "path:\"Protocollo HTTP\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11141375
+      }
+    },
+    {
+      "query": "path:\"Metodi HTTP\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 29954
+      }
+    },
+    {
+      "query": "path:Posta  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "path:\"Server DNS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.391891891891892,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6409399258454228,
+  "close": true
+}

@@ -1,0 +1,1 @@
+Quantità di bit trasmessi o elaborati in un dato periodo di tempo. Si misura in bit al secondo (bps).

@@ -1,0 +1,1 @@
+Modulo interamente definito attraverso i servizi, [[Protocollo|Protocolli]] e le interfacce che lo caratterizzano, spesso indicato con il nome di livello

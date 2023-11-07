@@ -1,0 +1,1 @@
+Meccanismo per selezionare la rappresentazione appropriata quando viene servita una richiesta in base agli [[Header HTTP]], in particolare il Request Header e l'Entity Header.

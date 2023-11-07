@@ -1,0 +1,1 @@
+Dispositivo di rete progettato per instradare il traffico dati tra reti diverse, consentendo la comunicazione tra dispositivi in [[Local Area Netword (LAN)]] e reti esterne, come Internet o altre LAN.

@@ -1,0 +1,3 @@
+Organizzazione internazionale per la normazione che sviluppa standard internazionali per una vasta gamma di prodotti, servizi e processi.
+A partire dal 1976 la ISO (in collaborazione con ITU-T) ha dato il via a lavori per giungere ad una serie di standard unificati per la realizzazione di reti di calcolatori aperte.
+La Iso ha per prima cosa proposto un modello di riferimento [[Open System Interconnector (OSI)]] che è diventato standard internazionale nel 1938

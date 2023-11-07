@@ -1,0 +1,1 @@
+Principio di progettazione software che nasconde i dettagli implementativi di un'entità da altri componenti del sistema. Questo consente di mantenere l'indipendenza tra le diverse parti del sistema e di facilitare la manutenzione e l'evoluzione del software.

@@ -1,0 +1,1 @@
+Il [[Client]] chiede di cancellare una risorsa identificata dalla Request-[[URI]]

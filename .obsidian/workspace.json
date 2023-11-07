@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "f4e2a69f3da6edfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "546c9a1edd728d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cadc243361644d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segmento TCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cd201958a9e1643",
+    "type": "split",
+    "children": [
+      {
+        "id": "8084b46d6069c0fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5571fc3c38f1a975",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53a1ce07b32683b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da79ae4dbead58a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ea05b30b8d50dc1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.50418853759766,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a5433327233dd63b",
+    "type": "split",
+    "children": [
+      {
+        "id": "228e1a1d91b1336f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "945046cc4c35e27f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Segmento TCP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8435956c0538db6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Segmento TCP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1a0b551d9fe474c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "570dfcf8772f28bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Segmento TCP.md"
+              }
+            }
+          },
+          {
+            "id": "589830f4a8955ac8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3ea05b30b8d50dc1",
+  "lastOpenFiles": [
+    "Trasporto affidabile TCP.md",
+    "Pasted image 20231027152809.png",
+    "Pasted image 20231025112707.png",
+    "Pasted image 20231025112709.png",
+    "Pasted image 20231025115252.png",
+    "Pasted image 20231025114054.png",
+    "Pasted image 20231025121923.png",
+    "Pasted image 20231025145713.png",
+    "Pasted image 20231025124431.png",
+    "Pasted image 20231025145732.png",
+    "Pasted image 20231025144425.png",
+    "Handshake TCP.md",
+    "Protocolli Internet/TCP.md",
+    "Segmento TCP.md",
+    "Server DNS/Record DNS.md",
+    "Protocollo HTTP/Metodi HTTP.md",
+    "Protocollo HTTP/Pipelining.md",
+    "Definizioni/Idempotenza.md",
+    "Indice.md",
+    "Server DNS/Servizi DNS.md",
+    "Server DNS/Name Servers.md",
+    "Server DNS/Gerarchia dei Server.md",
+    "Server DNS/Messaggi DNS.md",
+    "Posta/Protocollo SMTP.md",
+    "Posta/Handshake SMTP.md",
+    "Metodi HTTP/GET.md",
+    "Metodi HTTP/HEAD.md",
+    "Definizioni/Concetto di Multiplexing-Demultiplexing.md",
+    "Capitoli/Strato di Trasporto.md",
+    "Definizioni/Porta.md",
+    "Concetto di Multiplexing/Demultiplexing.md",
+    "Concetto di Multiplexing",
+    "Protocollo HTTP/Header HTTP.md",
+    "Definizioni/Control Connection.md",
+    "Definizioni/Data Connection.md",
+    "Capitoli/FTP.md",
+    "Server DNS",
+    "Posta",
+    "Metodi HTTP",
+    "Protocollo HTTP",
+    "1",
+    "Protocolli Internet",
+    "2",
+    "Lezione_1",
+    "Modello ISO$",
+    "Senza nome.canvas"
+  ]
+}

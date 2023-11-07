@@ -1,0 +1,2 @@
+Rete di computer che collega i computer all'interno di un'area metropolitana caratterizzata da un unica zona geografica di qualsiasi dimensione con molta densità di edifici.
+Più grande di una rete locale LAN ma più piccola di una rete geografica WAN,

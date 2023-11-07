@@ -1,0 +1,1 @@
+Dal nome completo Uniform Resource Name, è un sottoinsieme di URI che devono rimanere globalmente unici e persistente anche quando la risorsa cessa di esistere e diventa non disponibile

@@ -1,0 +1,1 @@
+Il servizio è legato al sistema postale. Non comprende l'instaurazione e l'interruzione della connessione e non fornisce garanzia di affidabilità. Inoltre, i pacchetti non seguono lo stesso percorso per raggiungere la loro destinazione.

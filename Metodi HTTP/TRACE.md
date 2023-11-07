@@ -1,0 +1,2 @@
+Metodo che permette a un [[client]] di richiedere al [[server]] di tracciare o registrare tute le modifiche che sono state apportate alla richiesta durante il suo percorso attraverso un server [[Server Proxy]].
+Utilizzato principalmente per scopi di debugging e test di rete

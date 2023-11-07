@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "f4e2a69f3da6edfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bfb9ec564404cc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c83080ad3adee4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cd201958a9e1643",
+    "type": "split",
+    "children": [
+      {
+        "id": "8084b46d6069c0fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5571fc3c38f1a975",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53a1ce07b32683b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "commutazione",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da79ae4dbead58a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "301ac64ea71d60df",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a5433327233dd63b",
+    "type": "split",
+    "children": [
+      {
+        "id": "228e1a1d91b1336f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c05f37f88b40e31b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "945046cc4c35e27f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1a0b551d9fe474c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "570dfcf8772f28bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "589830f4a8955ac8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "01c83080ad3adee4",
+  "lastOpenFiles": [
+    "Senza nome.md",
+    "Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
+    "Reti a commutazione/Reti a commutazione di pacchetto.md",
+    "Reti a commutazione/Time Division Multiplexing (TDM).md",
+    "Reti a commutazione/Reti a commutazione di circuito.md",
+    "Network/Rete GARR.md",
+    "Network/Local Area Netword (LAN).md",
+    "Network/Wide Area Network (WAN).md",
+    "Network/Metropolitan Area Network (MAN).md",
+    "Reti a commutazione/Frequency Division Multiplexing (FDM).md",
+    "Capitoli/Metriche.md",
+    "Senza nome.canvas",
+    "Indice.md",
+    "Definizioni/Commutatore.md",
+    "Definizioni/Internet eXchange Point (IXP).md",
+    "Definizioni/Internet Service Provider (ISP).md",
+    "Definizioni/Router.md",
+    "Singole Metriche/Prodotto Rate-Ritardo.md",
+    "Singole Metriche/Transmission-Rate.md",
+    "Singole Metriche/Throughput.md",
+    "Singole Metriche/Jitter.md",
+    "Singole Metriche/Latenza.md",
+    "Singole Metriche/Bandwidth.md",
+    "Singole Metriche/Bitrate.md",
+    "Definizioni/Switch.md",
+    "Singole Metriche",
+    "Images/Immagine 2023-09-26 175448.png",
+    "Capitoli/Commutazione.md",
+    "Reti a commutazione",
+    "Images/Pasted image 20230926152228.png",
+    "Images/Pasted image 20230926151915.png",
+    "Capitoli/Internet.md",
+    "Network",
+    "Capitoli",
+    "Definizioni",
+    "Image/Screenshot 2023-09-19 160941.png",
+    "Images",
+    "Context/spacesLastSync.log",
+    "Context"
+  ]
+}

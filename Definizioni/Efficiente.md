@@ -1,0 +1,1 @@
+Sistema che riesce a raggiungere lo scopo prefissato con la maggior frequenza possibile

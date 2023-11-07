@@ -1,0 +1,2 @@
+Insieme di regole che governano il formato e il significato delle unità di dati che vengono scambiati tra due strati adiacenti della stessa entità.
+Punto di incontro, spesso standardizzato per consentire modularità, tra due o più sistemi o dispositivi che gli consente di comunicare e interagire tra loro.

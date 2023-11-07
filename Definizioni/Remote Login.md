@@ -1,0 +1,2 @@
+Consente a un utente di connettersi a un computer o a un dispositivo situato in una posizione geograficamente diversa e di interagire con esso come se fosse fisicamente presente di fronte a esso.
+Fa uso di uno Pseudoterminal-driver che funge da entry point del sistema operativo della macchina remota ed ha il compito di accettare i caratteri dal [[Server]] [[Telnet]] e trasmetterli al sistema operativo che a sua volta consegna i caratteri all'applicazione opportuna.

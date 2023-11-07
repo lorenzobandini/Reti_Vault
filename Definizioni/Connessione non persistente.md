@@ -1,0 +1,1 @@
+Viene stabilita una connessione [[TCP]] separata per recuperare ciascuna [[URL]]

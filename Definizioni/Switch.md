@@ -1,0 +1,1 @@
+Dispositivo di rete utilizzato per instradare il traffico dati all'interno di una [[Local Area Netword (LAN)]] o tra reti

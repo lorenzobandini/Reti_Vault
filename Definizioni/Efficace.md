@@ -1,0 +1,1 @@
+Sistema che riesce a raggiungere lo scopo prefissato con il minor sforzo possibile

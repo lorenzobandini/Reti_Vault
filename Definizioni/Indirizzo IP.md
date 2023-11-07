@@ -1,0 +1,2 @@
+Identifica dove tale oggetto è situato. I dispositivi connessi in rete vengono individuati mediante i loro indirizzi IP, una sequenza di 4 byte (32 bit) usati per instradare i datagrammi a livello di rete.
+Il formato indirizzo IP è progettato per garantire l'efficienza nell'istradamento.

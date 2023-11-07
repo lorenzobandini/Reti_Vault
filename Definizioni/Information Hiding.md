@@ -1,0 +1,1 @@
+Le informazioni sono nascoste a chi non è di competenza

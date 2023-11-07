@@ -1,0 +1,2 @@
+Dispositivo di rete che collega due o più reti di computer. Esso funziona instradando i pacchetti di dati dal mittente al destinatario sulla base degli indirizzi di destinazione dei pacchetti.
+In pratica riceve un pacchetto dalla porta di ingresso e decide su che porta farlo uscire.

@@ -1,0 +1,1 @@
+Flusso di dati che viene elaborato uno dopo l'altro. Gli stream possono essere dati di qualsiasi tipo, come testo, immagini, audio o video.
