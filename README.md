@@ -5,5 +5,7 @@ by Lorenzo Bandini
 
 --- 
 
-Repository completamente realizzata con l'utilizzo di Obsidian. Per sfruttare al meglio la documentazione aprire l'intera repository come vault in Obsidian.
+## Utilizzo
+
+Repository completamente realizzata con l'utilizzo di Obsidian. Per sfruttare al meglio la documentazione scaricare e aprire l'intera repository come vault in Obsidian.
 
