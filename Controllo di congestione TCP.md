@@ -1,0 +1,1 @@
+Il fenomeno della congestione è originato dal tentativo della/e sorgente/i di richiedere più banda di quella disponibile sul percorso

@@ -1,8 +1,8 @@
 Acronimo per Transmission control protocol, è un servizio internet di trasporto dati:
 - [[Connection-Oriented]]: setup richiesto tra client e server
 - [[Trasporto affidabile TCP]] tra processo mittente e destinatario
-- Controllo del flusso: il mittente non “inonderà” di dati il destinatario. Evita di spedire più dati di quanti il ricevitore sia in grado di trattare
-- Controllo di congestione: “strangola” il mittente quando la rete è sovraccarica e recupera le situazioni in stato di sovraccarico
+- [[Controllo del flusso TCP]]: il mittente non “inonderà” di dati il destinatario. Evita di spedire più dati di quanti il ricevitore sia in grado di trattare
+- [[Controllo di congestione TCP]]: “strangola” il mittente quando la rete è sovraccarica e recupera le situazioni in stato di sovraccarico
 - Non offre garanzie di timing né di ampiezza minima di banda
 
 Il processo TCP gode di alcune proprietà:
@@ -57,3 +57,5 @@ La trasmissione dei dati si basa sulla finestra di trasmissione (sliding window)
 - Viene fatta avanzare alla ricezione di un ACK
 
 ![[Schermata 2023-11-09 alle 19.38.28.png]]
+
+Come sua controparte c'è il buffer di ricezione che riceve dati con la stessa modalità
