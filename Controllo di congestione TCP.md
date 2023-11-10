@@ -26,4 +26,5 @@ L'andamento macroscopico della finestra di congestione quindi segue un "andament
 
 ![[Pasted image 20231110143700.png]]
 
-Partendo da queste considerazioni, su un andamento macroscopico, possiamo fare una stima del [[Throughput]] e vediamo che dipende molto dall'_RTT_. Indicando con $W$ il valore massimo in byte della finestra, ovvero quando si verifica l'errore, la formula del throughput medio è: $$Throughput=\frac{0.75\cdot W}{RTT}$$
+Partendo da queste considerazioni, su un andamento macroscopico, possiamo fare una stima del [[Throughput]] e vediamo che dipende molto dall'_RTT_. Indicando con $W$ il valore massimo in byte della finestra, ovvero quando si verifica l'errore, sappiamo che quando la finestra è $W$ il throughput è $W/RTT$ mentre dopo l'evento di perdita la finestra va a $W/2$, quindi il throughput è $W/2RTT$ e quindi la formula del throughput medio che si ricava è: $$Throughput=\frac{0.75\cdot W}{RTT}$$
+Il TCP cerca anche di essere equo tra _K_ connessioni con stessi valori _MSS_ e _RTT_ che insistono su un unico link di capacità _R bit/s_ facendo trasmettere da ogni connessione _R/K bit/s_

@@ -4,3 +4,5 @@ Acronimo per User Datagram Protocol, è un servizio internet di trasporto dati:
 - NO controllo di [[Stream]]
 - NO controllo congestione
 - No garanzie timing né ampiezza minima di banda
+
+Servizio di consegna a massimo sforzo ci
