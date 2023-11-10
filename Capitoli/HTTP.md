@@ -14,6 +14,7 @@ Le risorse possono essere disponibili in più rappresentazioni così usiamo il [
 
 HTTP è server-less cioè non mantengono informazioni sui clienti, quindi si usano i [[Cookie]].
 
-
-
+Con le varie versioni di HTTP ci sono sempre stati dei tentativi per migliorare il tempo di caricamento di una pagina agendo a livello di protocollo.
+Con HTTP/1.1 venivano fatte più [[GET]] in pipeline su una singola connessione [[TCP]] così che il server rispondesse in ordine (FCFS: first-come-first-served scheduling) ma il problema è che un oggetto più piccolo dovesse attendere la trasmissione dietro a oggetti di grandi dimensioni (HOL: head of line blocking) ed il ripristino delle perdite per i [[Segmento TCP|Segmenti TCP]] persi introduceva un altro ritardo.
+Un altra soluzione con HTTP1.1 i browser iniziarono ad insturare più connnessioni T
 
