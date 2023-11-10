@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "822152f1aa7b2b94",
+        "id": "d3f9e344068e8272",
         "type": "tabs",
         "children": [
           {
-            "id": "a32e87b027bf39d4",
+            "id": "4d7ddbcdb6449123",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocollo TCP/Controllo di congestione TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ab66799c1b461bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocollo TCP/TCP CUBIC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "445ba051e2b5f12e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocollo TCP/AIMD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16617ddde84f7dec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocollo TCP/TCP Tahoe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocollo TCP/TCP CUBIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocollo TCP/TCP CUBIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Protocollo TCP/TCP CUBIC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,12 +148,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,14 +165,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ab66799c1b461bd",
+  "active": "a0022b0643ea7049",
   "lastOpenFiles": [
     "Protocollo TCP/Controllo di congestione TCP.md",
+    "Protocollo TCP/Explicit Congestion Notification.md",
+    "Pasted image 20231110184331.png",
+    "Protocollo TCP/TCP Tahoe.md",
+    "Protocollo TCP/AIMD.md",
     "Protocollo TCP/TCP CUBIC.md",
+    "Images/Pasted image 20231110184119.png",
     "Indice.md",
     "Capitoli/TCP.md",
-    "Protocollo TCP/AIMD.md",
-    "Protocollo TCP/TCP Tahoe.md",
     "Protocollo TCP/TCP RENO.md",
     "Protocolli Internet/Sistemi Aperti.md",
     "Protocolli Internet/International Organization for Standards (ISO).md",
@@ -234,7 +191,6 @@
     "Capitoli/UDP.md",
     "Protocollo UDP/Attacco UDP Flood.md",
     "Protocollo UDP/Datagramma UDP.md",
-    "Protocollo TCP/Explicit Congestion Notification.md",
     "Capitoli/HTTP.md",
     "Protocollo UDP",
     "Protocollo TCP",
@@ -246,11 +202,8 @@
     "Images/Pasted image 20231110152525.png",
     "Images/Pasted image 20231110152343.png",
     "Images/Pasted image 20231110152336.png",
-    "Images/Pasted image 20231110152237.png",
-    "Images/Pasted image 20231110152231.png",
     "Protocollo UDP/Attacco UDP Amplification.md",
     "Capitoli/DNS.md",
-    "README.md",
     "Concetto di Multiplexing",
     "Server DNS",
     "Posta",

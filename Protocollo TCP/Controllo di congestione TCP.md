@@ -19,7 +19,7 @@ La finestra di congestione (_cwnd_) impone un vincola alla frequenza di immissio
 La finestra di congestion (_cwnd_) si misura tipicamente in $MSS$ dove 1 $MSS$ è la quantità massima di dati trasportabili da un segmento ed è determinato in base alla $MTU$ (unità trasmissiva massima) cioè la lunghezza massima del payload del frame di collegamento inviabile dall'host mittente. Viene scelto in modo tale che il [[Segmento TCP]], incapsulato in pacchetto [[Indirizzo IP|IP]] stia dentro un singolo frame di collegamento.
 
 Un modo migliore di AIMD per "testare" la banda utilizzabile è [[TCP CUBIC]].
-Un approccio totalmente diverso è quello dell'[[Explicit Congestion Notification]]
+Un approccio totalmente diverso è quello dell'[[Explicit Congestion Notification]], un metodo implementato per il controllo di gestione però network-assisted.
 
 L'andamento macroscopico della finestra di congestione quindi segue un "andamento a dente di sega".
 
