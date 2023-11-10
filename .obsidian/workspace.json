@@ -11,8 +11,11 @@
             "id": "4d7ddbcdb6449123",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/make-md/Spaces.mdb",
+                "staged": true
+              }
             }
           }
         ]
@@ -74,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50418853759766,
-    "collapsed": true
+    "width": 297.50418853759766
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -165,11 +167,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0022b0643ea7049",
+  "active": "3ea05b30b8d50dc1",
   "lastOpenFiles": [
     "Protocollo TCP/Controllo di congestione TCP.md",
     "Protocollo TCP/Explicit Congestion Notification.md",
-    "Pasted image 20231110184331.png",
+    "Images/Pasted image 20231110184331.png",
     "Protocollo TCP/TCP Tahoe.md",
     "Protocollo TCP/AIMD.md",
     "Protocollo TCP/TCP CUBIC.md",
