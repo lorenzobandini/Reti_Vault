@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a5fc39bcad217a7",
+            "id": "a32e87b027bf39d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indice.md",
+                "file": "Protocollo TCP/Controllo di congestione TCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ab66799c1b461bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocollo TCP/TCP CUBIC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "445ba051e2b5f12e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocollo TCP/AIMD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16617ddde84f7dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocollo TCP/TCP Tahoe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50418853759766
+    "width": 297.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -94,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Protocollo TCP/TCP CUBIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,13 +144,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Protocollo TCP/TCP CUBIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -134,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Protocollo TCP/TCP CUBIC.md"
               }
             }
           },
@@ -173,10 +211,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a5fc39bcad217a7",
+  "active": "9ab66799c1b461bd",
   "lastOpenFiles": [
-    "Capitoli/TCP.md",
+    "Protocollo TCP/Controllo di congestione TCP.md",
+    "Protocollo TCP/TCP CUBIC.md",
     "Indice.md",
+    "Capitoli/TCP.md",
+    "Protocollo TCP/AIMD.md",
+    "Protocollo TCP/TCP Tahoe.md",
+    "Protocollo TCP/TCP RENO.md",
     "Protocolli Internet/Sistemi Aperti.md",
     "Protocolli Internet/International Organization for Standards (ISO).md",
     "Protocolli Internet/Sistemi Chiusi.md",
@@ -192,8 +235,6 @@
     "Protocollo UDP/Attacco UDP Flood.md",
     "Protocollo UDP/Datagramma UDP.md",
     "Protocollo TCP/Explicit Congestion Notification.md",
-    "Protocollo TCP/AIMD.md",
-    "Protocollo TCP/TCP Tahoe.md",
     "Capitoli/HTTP.md",
     "Protocollo UDP",
     "Protocollo TCP",
@@ -210,9 +251,6 @@
     "Protocollo UDP/Attacco UDP Amplification.md",
     "Capitoli/DNS.md",
     "README.md",
-    "Protocollo TCP/TCP CUBIC.md",
-    "Protocollo TCP/Controllo di congestione TCP.md",
-    "Protocollo TCP/TCP RENO.md",
     "Concetto di Multiplexing",
     "Server DNS",
     "Posta",
