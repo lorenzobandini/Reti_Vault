@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "634e5e3a18509426",
+            "id": "0f9fa21f72011109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Controllo di congestione TCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6182f268a561c1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIMD.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,11 +199,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "634e5e3a18509426",
+  "active": "0f9fa21f72011109",
   "lastOpenFiles": [
-    "Pasted image 20231110111601.png",
-    "Protocolli Internet/TCP.md",
+    "AIMD.md",
     "Controllo di congestione TCP.md",
+    "Protocolli Internet/TCP.md",
+    "Pasted image 20231110113732.png",
+    "Pasted image 20231110111601.png",
     "Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
     "Controllo del flusso TCP.md",
     "Pasted image 20231110105146.png",
@@ -207,8 +221,6 @@
     "Pasted image 20231025112709.png",
     "Pasted image 20231025115252.png",
     "Pasted image 20231025114054.png",
-    "Pasted image 20231025121923.png",
-    "Pasted image 20231025145713.png",
     "Server DNS/Record DNS.md",
     "Protocollo HTTP/Metodi HTTP.md",
     "Protocollo HTTP/Pipelining.md",
@@ -224,7 +236,6 @@
     "Definizioni/Concetto di Multiplexing-Demultiplexing.md",
     "Capitoli/Strato di Trasporto.md",
     "Definizioni/Porta.md",
-    "Concetto di Multiplexing/Demultiplexing.md",
     "Concetto di Multiplexing",
     "Server DNS",
     "Posta",
