@@ -20,61 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "17ade40f27b7682e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "909b42f7424ef232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocolli Internet/TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f9fa21f72011109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Controllo di congestione TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6182f268a561c1c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIMD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "958fd204051d6918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP Tahoe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP Tahoe.md",
+                "file": "TCP RENO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP Tahoe.md",
+                "file": "TCP RENO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP Tahoe.md"
+                "file": "TCP RENO.md"
               }
             }
           },
@@ -211,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,16 +173,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "958fd204051d6918",
+  "active": "a0022b0643ea7049",
   "lastOpenFiles": [
-    "TCP RENO.md",
-    "TCP Tahoe.md",
-    "Pasted image 20231110121841.png",
+    "Protocolli Internet/TCP.md",
+    "Controllo di congestione TCP.md",
     "AIMD.md",
+    "TCP Tahoe.md",
+    "TCP RENO.md",
+    "Pasted image 20231110121841.png",
     "Screenshot 2023-11-10 121321.png",
     "Definizioni/Protocollo.md",
-    "Controllo di congestione TCP.md",
-    "Protocolli Internet/TCP.md",
     "Pasted image 20231110113732.png",
     "Pasted image 20231110111601.png",
     "Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
