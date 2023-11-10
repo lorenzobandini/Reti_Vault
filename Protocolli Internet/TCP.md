@@ -41,3 +41,19 @@ La chiusura della connessione avviene quando client e server chiudono ciascuno i
 Lo stato *TIME_WAIT* viene utilizzato dal protocollo per due motivi principali:
 - Implementare in maniera affidabile la terminazione della connessione in entrambe le direzioni. Se l'ultimo _ACK_ viene perso, chi esegue la chiusura passiva manderà un ulteriore _FIN_ e chi esegue la chiusura attiva dovrà mantenere lo stato della connessione per poter rinviare l'_ACK_ 
 - Consentire l'eliminazione dei segmenti duplicati in rete
+
+Il calcolo del timeout (RTO) è fondamentale per il funzionamento di TCP. Prima di tutto il RTO deve essere maggiore del Round Trip Time (RTT) cioè il tempo trascorso da quando si invia un segmento a quando se ne riceve il riscontro.
+Viene calcolato analizzando gli RTT dei segmenti non ritrasmessi ($SampleRTT$ stimato per un segmento trasmesso e non per ogni invio).
+$$Estimed RTT = (1-\alpha)*EstimedRTT + \alpha*SampleRTT$$
+$SampleRTT$ può fluttuare.
+Si considera $EstimatedRTT$ la combinazione dei precedenti valori di $EstimatedRTT$ con il nuovo valore $SamleRTT$.
+Il valore di $\alpha$  viene posto a $1/8$ in modo da rendere via via meno importanti gli RTT dei pacchetti più vecchi. Quindi: $$EstimatedRTT = 0.875*EstimatedRTT+0.125*SampleRTT$$
+Oltre al valore $RTT$ stimato è necessario anche una stima della **variabilità** di $RTT$ data dalla seguente formula: $$RTT_{DEV}=(1-\beta)RTT_{DEV}+\beta|RTT_{SAMPLE}-RTT_{ESTIMED}|$$
+Stima di quanto $SampleRTT$ si discosta $EstimatedRTT$. Il valore di $\beta$ viene posto a $1/4$. Una volta ottenuti questi valori, il timeout viene normalmente calcolato come: $$RTO=RTT_{ESTIMATED} + 4RTT_{DEV}$$
+I dati inviati dal processo a livello applicativo sono mantenuti nel buffer di invio.
+La trasmissione dei dati si basa sulla finestra di trasmissione (sliding window):
+- Finestra sovrapposta sulla sequenza da trasmettere
+- Negoziata dinamicamente
+- Viene fatta avanzare alla ricezione di un ACK
+
+![[Schermata 2023-11-09 alle 19.38.28.png]]
