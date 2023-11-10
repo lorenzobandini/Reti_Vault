@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/HTTP.md",
+                "file": "Protocolli Internet/UDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc7d49c195c4130a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datagramma UDP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/HTTP.md",
+                "file": "Datagramma UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/HTTP.md",
+                "file": "Datagramma UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/HTTP.md"
+                "file": "Datagramma UDP.md"
               }
             }
           },
@@ -174,13 +187,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67c90d13148ceb70",
+  "active": "cc7d49c195c4130a",
   "lastOpenFiles": [
     "Protocolli Internet/UDP.md",
+    "Datagramma UDP.md",
+    "Protocolli Internet/TCP.md",
+    "Capitoli/HTTP.md",
     "README.md",
     "TCP CUBIC.md",
     "Explicit Congestion Notification.md",
-    "Datagramma UDP.md",
     "Pasted image 20231110152525.png",
     "Pasted image 20231110152343.png",
     "Pasted image 20231110152336.png",
@@ -192,7 +207,6 @@
     "AIMD.md",
     "TCP RENO.md",
     "TCP Tahoe.md",
-    "Protocolli Internet/TCP.md",
     "Pasted image 20231110121841.png",
     "Screenshot 2023-11-10 121321.png",
     "Definizioni/Protocollo.md",
