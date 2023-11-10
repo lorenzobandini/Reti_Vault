@@ -4,3 +4,5 @@ Ad ogni evento di perdita, la finestra di congestione del mittente dimezza.
 L'algoritmo di controllo della congestione _AIMD_ crea quindi un grafico del genere:
 
 ![[Pasted image 20231110113732.png]]
+
+Per un miglior controllo di congestione sulla rete possiamo utilizzare il più recente algoritmo [[TCP RENO]] o il suo predecessore [[TCP Tahoe]]

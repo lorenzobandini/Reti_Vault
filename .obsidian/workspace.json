@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "0b272f202f26e1e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "585a837563f4875c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP RENO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "17ade40f27b7682e",
         "type": "tabs",
         "children": [
@@ -42,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "958fd204051d6918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP Tahoe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Controllo di congestione TCP.md",
+                "file": "TCP Tahoe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Controllo di congestione TCP.md",
+                "file": "TCP Tahoe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Controllo di congestione TCP.md"
+                "file": "TCP Tahoe.md"
               }
             }
           },
@@ -199,9 +229,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f9fa21f72011109",
+  "active": "958fd204051d6918",
   "lastOpenFiles": [
+    "TCP RENO.md",
+    "TCP Tahoe.md",
+    "Pasted image 20231110121841.png",
     "AIMD.md",
+    "Screenshot 2023-11-10 121321.png",
+    "Definizioni/Protocollo.md",
     "Controllo di congestione TCP.md",
     "Protocolli Internet/TCP.md",
     "Pasted image 20231110113732.png",
@@ -219,8 +254,6 @@
     "Indice.md",
     "Pasted image 20231025112707.png",
     "Pasted image 20231025112709.png",
-    "Pasted image 20231025115252.png",
-    "Pasted image 20231025114054.png",
     "Server DNS/Record DNS.md",
     "Protocollo HTTP/Metodi HTTP.md",
     "Protocollo HTTP/Pipelining.md",
@@ -233,9 +266,6 @@
     "Posta/Handshake SMTP.md",
     "Metodi HTTP/GET.md",
     "Metodi HTTP/HEAD.md",
-    "Definizioni/Concetto di Multiplexing-Demultiplexing.md",
-    "Capitoli/Strato di Trasporto.md",
-    "Definizioni/Porta.md",
     "Concetto di Multiplexing",
     "Server DNS",
     "Posta",
