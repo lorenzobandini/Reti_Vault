@@ -23,3 +23,6 @@ Nel trasporto UDP:
 
 ![[Pasted image 20231110152237.png]]
 
+Gli attacchi hacker più famosi con UDP sono:
+- [[Attacco UDP Flood]]: 
+- [[Attacco UDP Amplification]]

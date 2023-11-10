@@ -58,4 +58,4 @@ La trasmissione dei dati si basa sulla finestra di trasmissione (sliding window)
 
 ![[Schermata 2023-11-09 alle 19.38.28.png]]
 
-Come sua controparte c'è il buffer di ricezione che riceve dati con la stessa modalità
+Come sua controparte c'è il buffer di ricezione che riceve dati con la stessa modalità.

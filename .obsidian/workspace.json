@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d29b9fe7a0eda5a2",
+        "id": "822152f1aa7b2b94",
         "type": "tabs",
         "children": [
           {
-            "id": "67c90d13148ceb70",
+            "id": "2a5fc39bcad217a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli Internet/UDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc7d49c195c4130a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datagramma UDP.md",
+                "file": "Indice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,12 +74,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 297.50418853759766,
-    "collapsed": true
+    "width": 297.50418853759766
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -108,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datagramma UDP.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datagramma UDP.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datagramma UDP.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -187,44 +173,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc7d49c195c4130a",
+  "active": "2a5fc39bcad217a7",
   "lastOpenFiles": [
-    "Protocolli Internet/UDP.md",
-    "Datagramma UDP.md",
-    "Protocolli Internet/TCP.md",
-    "Capitoli/HTTP.md",
-    "README.md",
-    "TCP CUBIC.md",
-    "Explicit Congestion Notification.md",
-    "Pasted image 20231110152525.png",
-    "Pasted image 20231110152343.png",
-    "Pasted image 20231110152336.png",
-    "Pasted image 20231110152237.png",
-    "Pasted image 20231110152231.png",
-    "Controllo di congestione TCP.md",
-    "Pasted image 20231110143700.png",
-    "Pasted image 20231110142413.png",
-    "AIMD.md",
-    "TCP RENO.md",
-    "TCP Tahoe.md",
-    "Pasted image 20231110121841.png",
-    "Screenshot 2023-11-10 121321.png",
-    "Definizioni/Protocollo.md",
-    "Pasted image 20231110113732.png",
-    "Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
-    "Controllo del flusso TCP.md",
-    "Trasporto affidabile TCP.md",
-    "Segmento TCP.md",
-    "Handshake TCP.md",
+    "Capitoli/TCP.md",
     "Indice.md",
-    "Server DNS/Record DNS.md",
-    "Protocollo HTTP/Metodi HTTP.md",
-    "Protocollo HTTP/Pipelining.md",
-    "Definizioni/Idempotenza.md",
-    "Server DNS/Servizi DNS.md",
-    "Server DNS/Name Servers.md",
-    "Server DNS/Gerarchia dei Server.md",
-    "Server DNS/Messaggi DNS.md",
+    "Protocolli Internet/Sistemi Aperti.md",
+    "Protocolli Internet/International Organization for Standards (ISO).md",
+    "Protocolli Internet/Sistemi Chiusi.md",
+    "Protocolli Internet/Percorso dati TCP-IP.md",
+    "Protocolli Internet/Open System Interconnector (OSI).md",
+    "Protocolli Internet/ISO-OSI vs TCP-IP.md",
+    "Protocolli Internet/Modello a Strati.md",
+    "Protocolli Internet/Modello ISO-OSI.md",
+    "Protocolli Internet/Indirizzare Processi.md",
+    "Protocolli Internet/Interfaccia socket.md",
+    "Protocolli Internet/Uso dei servizi di trasporto.md",
+    "Capitoli/UDP.md",
+    "Protocollo UDP/Attacco UDP Flood.md",
+    "Protocollo UDP/Datagramma UDP.md",
+    "Protocollo TCP/Explicit Congestion Notification.md",
+    "Protocollo TCP/AIMD.md",
+    "Protocollo TCP/TCP Tahoe.md",
+    "Capitoli/HTTP.md",
+    "Protocollo UDP",
+    "Protocollo TCP",
+    "Images/Screenshot 2023-11-10 121321.png",
+    "Images/Schermata 2023-11-09 alle 19.38.28.png",
+    "Images/Pasted image 20231110180010.png",
+    "Images/Pasted image 20231110175800.png",
+    "Images/Pasted image 20231110174201.png",
+    "Images/Pasted image 20231110152525.png",
+    "Images/Pasted image 20231110152343.png",
+    "Images/Pasted image 20231110152336.png",
+    "Images/Pasted image 20231110152237.png",
+    "Images/Pasted image 20231110152231.png",
+    "Protocollo UDP/Attacco UDP Amplification.md",
+    "Capitoli/DNS.md",
+    "README.md",
+    "Protocollo TCP/TCP CUBIC.md",
+    "Protocollo TCP/Controllo di congestione TCP.md",
+    "Protocollo TCP/TCP RENO.md",
     "Concetto di Multiplexing",
     "Server DNS",
     "Posta",
@@ -233,8 +221,6 @@
     "1",
     "Protocolli Internet",
     "2",
-    "Lezione_1",
-    "Modello ISO$",
     "Senza nome.canvas"
   ]
 }

@@ -74,18 +74,39 @@
       "query": "path:Posta  ",
       "color": {
         "a": 1,
-        "rgb": 16514816
+        "rgb": 8223722
       }
     },
     {
       "query": "path:\"Server DNS\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 12362609
+      }
+    },
+    {
+      "query": "path:\"Protocollo TCP\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11206400
+      }
+    },
+    {
+      "query": "path:\"Protocollo UDP\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5393152
+      }
+    },
+    {
+      "query": "file:\"README\"",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -95,6 +116,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6409399258454228,
-  "close": true
+  "scale": 0.2718871219780354,
+  "close": false
 }
