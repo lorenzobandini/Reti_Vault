@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f9e344068e8272",
+        "id": "e2e78ee22d338d1f",
         "type": "tabs",
         "children": [
           {
-            "id": "4d7ddbcdb6449123",
+            "id": "01c75fc5b11af9ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d7ddbcdb6449123",
+  "active": "01c75fc5b11af9ad",
   "lastOpenFiles": [
+    "README.md",
     "Protocollo TCP/Controllo di congestione TCP.md",
     "Protocollo TCP/Explicit Congestion Notification.md",
     "Images/Pasted image 20231110184331.png",
