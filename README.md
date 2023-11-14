@@ -8,5 +8,3 @@ by Lorenzo Bandini
 ## Utilizzo
 
 Repository completamente realizzata con l'utilizzo di Obsidian. Per sfruttare al meglio la documentazione scaricare e aprire l'intera repository come vault in Obsidian.
-
-ciao
