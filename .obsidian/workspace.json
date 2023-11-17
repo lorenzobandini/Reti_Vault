@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "QUIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50418853759766
+    "width": 297.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "QUIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "QUIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "QUIC.md"
               }
             }
           },
@@ -159,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 248.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,6 +176,10 @@
   },
   "active": "01c75fc5b11af9ad",
   "lastOpenFiles": [
+    "Capitoli/HTTP.md",
+    "QUIC.md",
+    "Pasted image 20231117184120.png",
+    "Indice.md",
     "README.md",
     "Protocollo TCP/Controllo di congestione TCP.md",
     "Protocollo TCP/Explicit Congestion Notification.md",
@@ -182,7 +188,6 @@
     "Protocollo TCP/AIMD.md",
     "Protocollo TCP/TCP CUBIC.md",
     "Images/Pasted image 20231110184119.png",
-    "Indice.md",
     "Capitoli/TCP.md",
     "Protocollo TCP/TCP RENO.md",
     "Protocolli Internet/Sistemi Aperti.md",
@@ -199,7 +204,6 @@
     "Capitoli/UDP.md",
     "Protocollo UDP/Attacco UDP Flood.md",
     "Protocollo UDP/Datagramma UDP.md",
-    "Capitoli/HTTP.md",
     "Protocollo UDP",
     "Protocollo TCP",
     "Images/Screenshot 2023-11-10 121321.png",
@@ -209,9 +213,7 @@
     "Images/Pasted image 20231110174201.png",
     "Images/Pasted image 20231110152525.png",
     "Images/Pasted image 20231110152343.png",
-    "Images/Pasted image 20231110152336.png",
     "Protocollo UDP/Attacco UDP Amplification.md",
-    "Capitoli/DNS.md",
     "Concetto di Multiplexing",
     "Server DNS",
     "Posta",
