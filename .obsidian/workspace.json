@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e2e78ee22d338d1f",
+        "id": "57a81af25d2defbb",
         "type": "tabs",
         "children": [
           {
-            "id": "01c75fc5b11af9ad",
+            "id": "c7bf3271d6e4c0b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QUIC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50418853759766,
-    "collapsed": true
+    "width": 297.50418853759766
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QUIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QUIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "QUIC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,11 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01c75fc5b11af9ad",
+  "active": "c7bf3271d6e4c0b9",
   "lastOpenFiles": [
+    "Definizioni/QUIC.md",
     "Capitoli/HTTP.md",
-    "QUIC.md",
-    "Pasted image 20231117184120.png",
+    "Images/Pasted image 20231117184120.png",
     "Indice.md",
     "README.md",
     "Protocollo TCP/Controllo di congestione TCP.md",
