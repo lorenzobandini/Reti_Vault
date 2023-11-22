@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strato di Rete.md",
+                "file": "Indice.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50418853759766,
-    "collapsed": true
+    "width": 297.50418853759766
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -95,9 +94,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strato di Rete.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -107,13 +106,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strato di Rete.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strato di Rete.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -156,11 +155,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
+    "width": 389.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -174,26 +173,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23533dc1111707ad",
+  "active": "3ea05b30b8d50dc1",
   "lastOpenFiles": [
-    "Internet Protocol.md",
-    "Strato di Rete.md",
-    "Frammentazione.md",
-    "Screenshot 2023-11-22 115646.png",
-    "Datagramma IP.md",
+    "Strato di Rete",
+    "Senza nome.md",
+    "Indice.md",
+    "Images/Pasted image 20231122152755.png",
+    "Images/Screenshot 2023-11-22 115646.png",
+    "Images/Pasted image 20231122122909.png",
+    "Images/Pasted image 20231122122843.png",
+    "Images/Pasted image 20231122122540.png",
+    "Images/Pasted image 20231122121937.png",
+    "Images/Pasted image 20231122115824.png",
+    "Images/Pasted image 20231122122042.png",
+    "Capitoli/Strato di Rete.md",
+    "Strato di Rete/Meccanismi IP.md",
+    "Strato di Rete/Forwarding.md",
+    "Strato di Rete/Instradamento.md",
+    "Strato di Rete/Frammentazione.md",
+    "Strato di Rete/Datagramma IP.md",
+    "Strato di Rete/Internet Protocol.md",
     "Pasted image 20231122123628.png",
     "Pasted image 20231122123612.png",
-    "Pasted image 20231122122909.png",
-    "Pasted image 20231122122843.png",
-    "Pasted image 20231122122540.png",
-    "Pasted image 20231122121937.png",
-    "Pasted image 20231122115824.png",
-    "Pasted image 20231122115648.png",
-    "Pasted image 20231122122042.png",
-    "Meccanismi IP.md",
-    "Instradamento.md",
-    "Forwarding.md",
-    "Indice.md",
     "Definizioni/QUIC.md",
     "Capitoli/HTTP.md",
     "Capitoli/TCP.md",
@@ -210,7 +211,6 @@
     "Protocolli Internet/Sistemi Chiusi.md",
     "Protocolli Internet/Percorso dati TCP-IP.md",
     "Protocolli Internet/Open System Interconnector (OSI).md",
-    "Protocolli Internet/ISO-OSI vs TCP-IP.md",
     "Protocollo UDP",
     "Protocollo TCP",
     "Concetto di Multiplexing",

@@ -30,6 +30,6 @@ Questo modello continua a evolversi con le nuove tecnologie e le esigenze cresce
 
 Il protocollo usato è l'[[Internet Protocol]].
 
-Inoltre anche a livello di rete si fa multiplexing e demultiplexing
+Inoltre anche a livello di rete si usa il multiplexing per combinare flussi di dati provenienti da diverse sorgenti in un unico canale, utilizzando l'indirizzamento IP e le porte di trasporto e il demultiplexing per separare e indirizzare correttamente i pacchetti in base a tali informazioni, consentendo la comunicazione efficiente tra dispositivi su una rete.
 
 ![[Pasted image 20231122122540.png]]
