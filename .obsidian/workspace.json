@@ -11,8 +11,12 @@
             "id": "c7bf3271d6e4c0b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/HTTP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Capitoli/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Capitoli/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Capitoli/HTTP.md"
+              }
             }
           },
           {
@@ -167,12 +175,13 @@
   },
   "active": "c7bf3271d6e4c0b9",
   "lastOpenFiles": [
+    "Indice.md",
+    "Protocollo TCP/Controllo di congestione TCP.md",
+    "Protocollo TCP/Controllo del flusso TCP.md",
     "Definizioni/QUIC.md",
     "Capitoli/HTTP.md",
     "Images/Pasted image 20231117184120.png",
-    "Indice.md",
     "README.md",
-    "Protocollo TCP/Controllo di congestione TCP.md",
     "Protocollo TCP/Explicit Congestion Notification.md",
     "Images/Pasted image 20231110184331.png",
     "Protocollo TCP/TCP Tahoe.md",
@@ -204,7 +213,6 @@
     "Images/Pasted image 20231110174201.png",
     "Images/Pasted image 20231110152525.png",
     "Images/Pasted image 20231110152343.png",
-    "Protocollo UDP/Attacco UDP Amplification.md",
     "Concetto di Multiplexing",
     "Server DNS",
     "Posta",
