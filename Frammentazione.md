@@ -10,4 +10,5 @@ I frammenti possono arrivare fuori ordine e il livello di rete si occupa a ricom
 - Offset (13 bit): indica la posizione relativa come multiplo di 8 byte. Serve ad ordinare i frammenti nell'assemblaggio. I frammenti devono essere multipli di 8 byte e il primo frammento ha offset 0.
 - Flag (3 bit): serve per indicare l'ultimo frammento
 	- il bit 0 è riservato e consideriamo sia sempre 0
-	- il bit 1 è _do not fragment_ e vale 0 se il pacchetto può essere frammentato e1 se il pacchetto non deve essere frammentato
+	- il bit 1 è _do not fragment_ e vale 0 se il pacchetto può essere frammentato e 1 se il pacchetto non deve essere frammentato
+	- il bit 2 è _more fragments_ e vale 0 se il pacchetto è l'ultimo frammento e 1 se il pacchetto non è l'ultimo frammento
