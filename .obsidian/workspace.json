@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/HTTP.md",
+                "file": "Definizioni/QUIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "strat",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50418853759766
+    "width": 297.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/HTTP.md",
+                "file": "Definizioni/QUIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/HTTP.md",
+                "file": "Definizioni/QUIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/HTTP.md"
+                "file": "Definizioni/QUIC.md"
               }
             }
           },
@@ -175,20 +176,20 @@
   },
   "active": "c7bf3271d6e4c0b9",
   "lastOpenFiles": [
+    "Capitoli/HTTP.md",
+    "Images/Pasted image 20231110184331.png",
+    "Capitoli/TCP.md",
     "Indice.md",
     "Protocollo TCP/Controllo di congestione TCP.md",
     "Protocollo TCP/Controllo del flusso TCP.md",
     "Definizioni/QUIC.md",
-    "Capitoli/HTTP.md",
     "Images/Pasted image 20231117184120.png",
     "README.md",
     "Protocollo TCP/Explicit Congestion Notification.md",
-    "Images/Pasted image 20231110184331.png",
     "Protocollo TCP/TCP Tahoe.md",
     "Protocollo TCP/AIMD.md",
     "Protocollo TCP/TCP CUBIC.md",
     "Images/Pasted image 20231110184119.png",
-    "Capitoli/TCP.md",
     "Protocollo TCP/TCP RENO.md",
     "Protocolli Internet/Sistemi Aperti.md",
     "Protocolli Internet/International Organization for Standards (ISO).md",
@@ -203,7 +204,6 @@
     "Protocolli Internet/Uso dei servizi di trasporto.md",
     "Capitoli/UDP.md",
     "Protocollo UDP/Attacco UDP Flood.md",
-    "Protocollo UDP/Datagramma UDP.md",
     "Protocollo UDP",
     "Protocollo TCP",
     "Images/Screenshot 2023-11-10 121321.png",
