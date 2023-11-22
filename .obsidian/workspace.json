@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ded400519d4a9ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datagramma IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4f6e0abd4ac1193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frammentazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strato di Rete.md",
+                "file": "Frammentazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strato di Rete.md",
+                "file": "Frammentazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strato di Rete.md"
+                "file": "Frammentazione.md"
               }
             }
           },
@@ -174,12 +199,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c99e474372fdcd69",
+  "active": "b4f6e0abd4ac1193",
   "lastOpenFiles": [
+    "Pasted image 20231122123628.png",
+    "Pasted image 20231122123612.png",
+    "Datagramma IP.md",
+    "Frammentazione.md",
+    "Strato di Rete.md",
+    "Pasted image 20231122122909.png",
+    "Pasted image 20231122122843.png",
+    "Meccanismi IP.md",
+    "Pasted image 20231122122540.png",
+    "Instradamento.md",
+    "Forwarding.md",
+    "Pasted image 20231122122042.png",
+    "Pasted image 20231122121937.png",
+    "Internet Protocol.md",
     "Pasted image 20231122115824.png",
     "Pasted image 20231122115648.png",
     "Indice.md",
-    "Strato di Rete.md",
     "Definizioni/QUIC.md",
     "Capitoli/HTTP.md",
     "Images/Pasted image 20231110184331.png",
@@ -192,7 +230,6 @@
     "Protocollo TCP/TCP Tahoe.md",
     "Protocollo TCP/AIMD.md",
     "Protocollo TCP/TCP CUBIC.md",
-    "Images/Pasted image 20231110184119.png",
     "Protocollo TCP/TCP RENO.md",
     "Protocolli Internet/Sistemi Aperti.md",
     "Protocolli Internet/International Organization for Standards (ISO).md",
@@ -200,20 +237,8 @@
     "Protocolli Internet/Percorso dati TCP-IP.md",
     "Protocolli Internet/Open System Interconnector (OSI).md",
     "Protocolli Internet/ISO-OSI vs TCP-IP.md",
-    "Protocolli Internet/Modello a Strati.md",
-    "Protocolli Internet/Modello ISO-OSI.md",
-    "Protocolli Internet/Indirizzare Processi.md",
-    "Protocolli Internet/Interfaccia socket.md",
-    "Protocolli Internet/Uso dei servizi di trasporto.md",
-    "Capitoli/UDP.md",
     "Protocollo UDP",
     "Protocollo TCP",
-    "Images/Screenshot 2023-11-10 121321.png",
-    "Images/Schermata 2023-11-09 alle 19.38.28.png",
-    "Images/Pasted image 20231110180010.png",
-    "Images/Pasted image 20231110175800.png",
-    "Images/Pasted image 20231110174201.png",
-    "Images/Pasted image 20231110152525.png",
     "Concetto di Multiplexing",
     "Server DNS",
     "Posta",

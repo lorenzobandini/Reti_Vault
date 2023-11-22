@@ -1,4 +1,4 @@
-Responsabile della consegna dei datagrammi tra gli host. Offre servizi allo strato di trasporto e utilizza i servizi dello strato collegamento.
+Responsabile della consegna dei [[Datagramma IP|datagrammi]] tra gli host. Offre servizi allo strato di trasporto e utilizza i servizi dello strato collegamento.
 
 La comunicazione a livello di rete avviene con:
 1. L'entità a livello di rete riceve i segmenti dal livello di trasporto nell'host mittente e incapsula i segmenti in datagrammi
@@ -15,8 +15,10 @@ Le differenze principali del livello di trasporto sono:
 
 Le funzioni fondamentali del livello di rete sono:
 - Suddivisione in pacchetti
-- Instradamento (routing)
-- Inoltro (forwarding)
+- [[Instradamento]] (routing)
+- Inoltro ([[Forwarding]])
+
+Per implementare queste funzioni bisogna implementare dei [[Meccanismi IP]]
 
 Le caratteristiche dello strato di rete sono:
 - Interconnessione di reti eterogenee: offre un'astrazione che consente a host e reti eterogenee di funzionare dal punto di vista logico come una singola rete
@@ -25,3 +27,9 @@ Le caratteristiche dello strato di rete sono:
 ![[Pasted image 20231122115824.png]]
 
 Nel tempo poi il modello si è trasformato...
+
+[[Internet Protocol]]
+
+Inoltre anche a livello di rete si fa multiplexing e demultiplexing
+
+![[Pasted image 20231122122540.png]]
