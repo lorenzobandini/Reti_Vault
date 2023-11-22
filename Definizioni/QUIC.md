@@ -1,4 +1,4 @@
-zProtocollo di trasporto che sfrutta [[UDP]] ed è [[Connection-Oriented]].
+Protocollo di trasporto che sfrutta [[UDP]] ed è [[Connection-Oriented]].
 Aggiunge:
 - Controllo del flusso e della congestione
 - Rilevazione delle perdite e ritrasmissione
