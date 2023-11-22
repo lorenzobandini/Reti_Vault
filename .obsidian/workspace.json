@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50418853759766
+    "width": 297.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -175,8 +176,9 @@
   },
   "active": "23533dc1111707ad",
   "lastOpenFiles": [
-    "Frammentazione.md",
+    "Internet Protocol.md",
     "Strato di Rete.md",
+    "Frammentazione.md",
     "Screenshot 2023-11-22 115646.png",
     "Datagramma IP.md",
     "Pasted image 20231122123628.png",
@@ -191,7 +193,6 @@
     "Meccanismi IP.md",
     "Instradamento.md",
     "Forwarding.md",
-    "Internet Protocol.md",
     "Indice.md",
     "Definizioni/QUIC.md",
     "Capitoli/HTTP.md",
