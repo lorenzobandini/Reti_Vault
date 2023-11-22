@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c99e474372fdcd69",
+            "id": "23533dc1111707ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ded400519d4a9ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datagramma IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4f6e0abd4ac1193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frammentazione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50418853759766,
-    "collapsed": true
+    "width": 297.50418853759766
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -120,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frammentazione.md",
+                "file": "Strato di Rete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frammentazione.md",
+                "file": "Strato di Rete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frammentazione.md"
+                "file": "Strato di Rete.md"
               }
             }
           },
@@ -199,32 +173,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4f6e0abd4ac1193",
+  "active": "23533dc1111707ad",
   "lastOpenFiles": [
-    "Pasted image 20231122123628.png",
-    "Pasted image 20231122123612.png",
-    "Datagramma IP.md",
     "Frammentazione.md",
     "Strato di Rete.md",
+    "Screenshot 2023-11-22 115646.png",
+    "Datagramma IP.md",
+    "Pasted image 20231122123628.png",
+    "Pasted image 20231122123612.png",
     "Pasted image 20231122122909.png",
     "Pasted image 20231122122843.png",
-    "Meccanismi IP.md",
     "Pasted image 20231122122540.png",
-    "Instradamento.md",
-    "Forwarding.md",
-    "Pasted image 20231122122042.png",
     "Pasted image 20231122121937.png",
-    "Internet Protocol.md",
     "Pasted image 20231122115824.png",
     "Pasted image 20231122115648.png",
+    "Pasted image 20231122122042.png",
+    "Meccanismi IP.md",
+    "Instradamento.md",
+    "Forwarding.md",
+    "Internet Protocol.md",
     "Indice.md",
     "Definizioni/QUIC.md",
     "Capitoli/HTTP.md",
-    "Images/Pasted image 20231110184331.png",
     "Capitoli/TCP.md",
     "Protocollo TCP/Controllo di congestione TCP.md",
     "Protocollo TCP/Controllo del flusso TCP.md",
-    "Images/Pasted image 20231117184120.png",
     "README.md",
     "Protocollo TCP/Explicit Congestion Notification.md",
     "Protocollo TCP/TCP Tahoe.md",

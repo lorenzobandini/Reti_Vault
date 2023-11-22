@@ -6,7 +6,7 @@ La comunicazione a livello di rete avviene con:
 3. Il router esamina i campi intestazione in tutti i datagrammi IP che lo attraversano e li inoltra da un collegamento in ingresso ad un collegamento in uscita
 4. Sul lato destinatario, consegna i segmenti al livello di trasporto
 
-![[Pasted image 20231122115648.png]]
+![[Screenshot 2023-11-22 115646.png]]
 
 Le differenze principali del livello di trasporto sono:
 - Livello di trasporto nei sistemi terminali, mentre di reti nei nodi intermedi
