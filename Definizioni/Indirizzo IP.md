@@ -23,3 +23,22 @@ Alcuni indirizzi speciali sono:
 Un indirizzo IP può essere attribuito all'interfaccia di un host secondo due distinte modalità:
 - Configurazione Manuale: l'amministratore  configura direttamente nell'host l'indirizzo IP ed inserisce ulteriori informazioni di servizio (indirizzo gateway/router, netmask e indirizzo IP di almeno un server DNS)
 - [[DHCP]]: l'host ottiene il proprio indirizzo e le altre informazioni in modo autentico
+
+Ora che abbiamo dato l'indirizzo IP al nostro host, ogni [[Datagramma IP]] è soggetto a "forwarding" da parte dell'host di origine e del router che sta attraversando causando:
+- inoltro di un pacchetto verso l'uscita
+- inoltro diretto o indiretto
+
+Nell'inoltro diretto, il pacchetto IP ha come destinazione un host nella propria rete IP e l'invio è diretto sul destinatario, l'indirizzo di destinazione a livello link è quello del destinatario e non viene interpellata nessun'altra entità.
+
+Nell'inoltro indiretto, il pacchetto IP ha come destinazione un host di un'altra rete IP, viene delegato l'invio al router e l'indirizzo di destinazione a livello link è quello del router.
+
+Si osserva come, in entrambi i casi, condizioni necessarie perché tutto funzioni sono che:
+- Esista un cammino (funzionante e) diretto, a livello data-link, tra tutti gli host che appartengono ad una stessa sottorete.
+- Ogni host coinvolto abbia un indirizzo IP “giusto”, cioè con uguale net ID (cioè appartenga alla stessa sottorete) e con host ID univoco nella sottorete.
+
+Le due condizioni insieme diventano condizione necessaria e sufficiente perché la comunicazione “funzioni”.
+
+Ad ogni interfaccia verso la rete IP viene assegnato un indirizzo IP distinto.
+Il router è un apparato che svolge funzioni di inoltro e instradamento a livello IP. Esso legge gli indirizzi IP, consulta la propria tabella di forwarding e decide dove mandare il pacchetto IP.
+
+

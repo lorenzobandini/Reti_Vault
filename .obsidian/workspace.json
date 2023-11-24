@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a2f3dc5276344a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DHCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DHCP.md",
+                "file": "Definizioni/Indirizzo IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DHCP.md",
+                "file": "Definizioni/Indirizzo IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DHCP.md"
+                "file": "Definizioni/Indirizzo IP.md"
               }
             }
           },
@@ -187,12 +174,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2f3dc5276344a5d",
+  "active": "23533dc1111707ad",
   "lastOpenFiles": [
+    "DHCP.md",
+    "Screenshot 2023-11-24 151141 1.png",
     "Screenshot 2023-11-24 151141.png",
     "Pasted image 20231124151240.png",
     "Definizioni/Indirizzo IP.md",
-    "DHCP.md",
     "Indirizzi IPv6.md",
     "Indirizzi IPv4.md",
     "Pasted image 20231124143026.png",
@@ -205,8 +193,6 @@
     "Senza nome.md",
     "Images/Pasted image 20231122152755.png",
     "Images/Screenshot 2023-11-22 115646.png",
-    "Images/Pasted image 20231122122909.png",
-    "Images/Pasted image 20231122122843.png",
     "Capitoli/Strato di Rete.md",
     "Strato di Rete/Meccanismi IP.md",
     "Strato di Rete/Forwarding.md",
