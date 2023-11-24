@@ -1,0 +1,9 @@
+L'IPv6 rappresenta una tappa fondamentale nell'evoluzione del protocollo Internet, rispondendo alle crescenti esigenze di connettività globale. La sua adozione è stata motivata principalmente dalla limitata disponibilità di indirizzi IPv4, che ha reso necessaria una soluzione più scalabile e flessibile per sostenere l'espansione continua della rete. 
+
+Gli indirizzi IPv6 sono formati da 128 bit, una significativa espansione rispetto agli indirizzi IPv4 a 32 bit. Questa ampia capacità di indirizzamento fornisce praticamente un numero illimitato di indirizzi unici, risolvendo la crescente scarsità di IPv4 e aprendo la strada a una connettività su scala globale senza precedenti. 
+
+La struttura degli indirizzi IPv6 è espressa in notazione esadecimale e suddivisa in otto blocchi, ognuno composto da quattro caratteri esadecimali. La possibilità di abbreviare gli indirizzi semplifica la rappresentazione, migliorando la leggibilità. 
+
+Tra le caratteristiche distintive di IPv6, spicca l'integrazione di funzionalità di sicurezza come IPsec, che in IPv4 è spesso opzionale. L'autoconfigurazione semplifica il processo di assegnazione degli indirizzi, consentendo ai dispositivi di configurarsi automaticamente. Inoltre, IPv6 è progettato considerando le esigenze della mobilità, garantendo una gestione ottimale degli spostamenti dei dispositivi tra reti diverse.
+
+La transizione da IPv4 a IPv6 è in corso, ma avviene gradualmente. Molte reti e dispositivi supportano entrambi i protocolli per facilitare la transizione. Questa adozione progressiva è essenziale per garantire che Internet possa continuare a crescere e adattarsi alle esigenze di una società sempre più connessa.

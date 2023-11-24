@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indice.md",
+                "file": "Definizioni/Indirizzo IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50418853759766
+    "width": 297.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Definizioni/Indirizzo IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Definizioni/Indirizzo IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Definizioni/Indirizzo IP.md"
               }
             }
           },
@@ -173,19 +174,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ea05b30b8d50dc1",
+  "active": "23533dc1111707ad",
   "lastOpenFiles": [
+    "Indirizzi IPv6.md",
+    "Definizioni/Indirizzo IP.md",
+    "Indirizzi IPv4.md",
+    "Pasted image 20231124143026.png",
+    "Pasted image 20231124143006.png",
+    "Pasted image 20231124141959.png",
+    "Pasted image 20231124141852.png",
+    "Pasted image 20231124141759.png",
+    "Indice.md",
     "Strato di Rete",
     "Senza nome.md",
-    "Indice.md",
     "Images/Pasted image 20231122152755.png",
     "Images/Screenshot 2023-11-22 115646.png",
     "Images/Pasted image 20231122122909.png",
     "Images/Pasted image 20231122122843.png",
     "Images/Pasted image 20231122122540.png",
-    "Images/Pasted image 20231122121937.png",
-    "Images/Pasted image 20231122115824.png",
-    "Images/Pasted image 20231122122042.png",
     "Capitoli/Strato di Rete.md",
     "Strato di Rete/Meccanismi IP.md",
     "Strato di Rete/Forwarding.md",
@@ -193,8 +199,6 @@
     "Strato di Rete/Frammentazione.md",
     "Strato di Rete/Datagramma IP.md",
     "Strato di Rete/Internet Protocol.md",
-    "Pasted image 20231122123628.png",
-    "Pasted image 20231122123612.png",
     "Definizioni/QUIC.md",
     "Capitoli/HTTP.md",
     "Capitoli/TCP.md",
@@ -209,8 +213,6 @@
     "Protocolli Internet/Sistemi Aperti.md",
     "Protocolli Internet/International Organization for Standards (ISO).md",
     "Protocolli Internet/Sistemi Chiusi.md",
-    "Protocolli Internet/Percorso dati TCP-IP.md",
-    "Protocolli Internet/Open System Interconnector (OSI).md",
     "Protocollo UDP",
     "Protocollo TCP",
     "Concetto di Multiplexing",
@@ -220,7 +222,6 @@
     "Protocollo HTTP",
     "1",
     "Protocolli Internet",
-    "2",
     "Senza nome.canvas"
   ]
 }
