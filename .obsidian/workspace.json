@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -174,17 +173,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23533dc1111707ad",
+  "active": "3ea05b30b8d50dc1",
   "lastOpenFiles": [
-    "Pasted image 20231124174011.png",
-    "Inoltro Diretto.md",
-    "Inoltro Indiretto.md",
-    "Screenshot 2023-11-24 173051.png",
-    "Pasted image 20231124172824.png",
+    "Images/Pasted image 20231124174011.png",
+    "Definizioni/Inoltro Diretto.md",
+    "Definizioni/Inoltro Indiretto.md",
+    "Images/Screenshot 2023-11-24 173051.png",
+    "Images/Pasted image 20231124172824.png",
     "Definizioni/Indirizzo IP.md",
     "Definizioni/DHCP.md",
     "Definizioni/Indirizzi IPv4.md",
-    "Classless Adressing.md",
+    "Definizioni/Classless Adressing.md",
     "Indice.md",
     "Images/Pasted image 20231124151240.png",
     "Images/Pasted image 20231124143006.png",

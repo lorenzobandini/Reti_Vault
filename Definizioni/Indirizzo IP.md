@@ -43,9 +43,6 @@ Il router è un apparato che svolge funzioni di inoltro e instradamento a livell
 ![[Pasted image 20231124174011.png]]
 
 Altre tecniche adottate nell'inoltro sono:
-- Aggregazione degli indirizzi: 
-
-
-
-Il "longer mask matching" si verifica quando un router ha più di una regola di instradamento che corrisponde all'indirizzo IP di destinazione, ma una di queste regole ha una maschera di sottorete più lunga (cioè più specifica) rispetto alle altre. In pratica, il router darà la precedenza alla regola con la maschera di sottorete più lunga. Questo significa che il router seguirà la regola più specifica quando c'è una corrispondenza
-
+- Aggregazione degli indirizzi: raggruppare più blocchi di indirizzi IP contigui in un unico blocco più grande per ridurre la complessità della tabella di instradamento e migliorare l'efficienza.
+- Longer Mask Matching:  processo di selezione della regola di instradamento con la maschera di sottorete più lunga che corrisponde all'indirizzo IP di destinazione del pacchetto. Quando ci sono più regole di instradamento che corrispondono a un indirizzo IP, il router sceglierà la regola con la maschera di sottorete più specifica, poiché questa rappresenta la corrispondenza più lunga e precisa.
+- Router Gerarchico:  modello di rete in cui i router sono organizzati in una struttura gerarchica.
