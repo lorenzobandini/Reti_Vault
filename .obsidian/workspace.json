@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2f3dc5276344a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DHCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Indirizzo IP.md",
+                "file": "DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Indirizzo IP.md",
+                "file": "DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Indirizzo IP.md"
+                "file": "DHCP.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,10 +187,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23533dc1111707ad",
+  "active": "a2f3dc5276344a5d",
   "lastOpenFiles": [
-    "Indirizzi IPv6.md",
+    "Screenshot 2023-11-24 151141.png",
+    "Pasted image 20231124151240.png",
     "Definizioni/Indirizzo IP.md",
+    "DHCP.md",
+    "Indirizzi IPv6.md",
     "Indirizzi IPv4.md",
     "Pasted image 20231124143026.png",
     "Pasted image 20231124143006.png",
@@ -191,7 +207,6 @@
     "Images/Screenshot 2023-11-22 115646.png",
     "Images/Pasted image 20231122122909.png",
     "Images/Pasted image 20231122122843.png",
-    "Images/Pasted image 20231122122540.png",
     "Capitoli/Strato di Rete.md",
     "Strato di Rete/Meccanismi IP.md",
     "Strato di Rete/Forwarding.md",
@@ -211,8 +226,6 @@
     "Protocollo TCP/TCP CUBIC.md",
     "Protocollo TCP/TCP RENO.md",
     "Protocolli Internet/Sistemi Aperti.md",
-    "Protocolli Internet/International Organization for Standards (ISO).md",
-    "Protocolli Internet/Sistemi Chiusi.md",
     "Protocollo UDP",
     "Protocollo TCP",
     "Concetto di Multiplexing",

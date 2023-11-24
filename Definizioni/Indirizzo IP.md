@@ -8,5 +8,18 @@ Gli indirizzi si dividono in:
 - [[Indirizzi IPv6]]
 
 Gli indirizzi IP sono gestiti da ICANN e assegnati agli ISP in blocchi.
-Gli ISP assegnano ai clienti sottoblocchi di indirizzi.
+Gli [[Internet Service Provider (ISP)]] assegnano ai clienti sottoblocchi di indirizzi.
 ISO che deve suddividere in 8 blocchi 
+
+...
+
+Alcuni indirizzi speciali sono:
+- This-host 0.0.0.0 - Usato quando un host ha necessità di inviare un datagramma ma non conosce il proprio indirizzo IP (indirizzo sorgente)
+- Limited-broadcast 255.255.255.255 - Usato quando un router o un host devono inviare un datagramma a tutti i dispositivi che si trovano all’interno della rete. I router bloccano la propagazione alla sola rete locale.
+- Loopback 127.0.0.1 - il datagramma con questo indirizzo di destinazione non lascia l’host locale (localhost). Per test e debug.
+- Indirizzi privati – Quattro blocchi riservati per indirizzi privati (riservati per reti locali): 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16, 169.254.0.0/16
+- Indirizzi multicast - Blocco 224.0.0.0/4
+
+Un indirizzo IP può essere attribuito all'interfaccia di un host secondo due distinte modalità:
+- Configurazione Manuale: l'amministratore  configura direttamente nell'host l'indirizzo IP ed inserisce ulteriori informazioni di servizio (indirizzo gateway/router, netmask e indirizzo IP di almeno un server DNS)
+- [[DHCP]]: l'host ottiene il proprio indirizzo e le altre informazioni in modo autentico
