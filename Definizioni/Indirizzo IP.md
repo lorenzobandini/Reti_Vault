@@ -29,13 +29,9 @@ Un indirizzo IP può essere attribuito all'interfaccia di un host secondo due di
 
 Ora che abbiamo dato l'indirizzo IP al nostro host, ogni [[Datagramma IP]] è soggetto a "forwarding" da parte dell'host di origine e del router che sta attraversando causando:
 - inoltro di un pacchetto verso l'uscita
-- inoltro diretto o indiretto
+- [[Inoltro Diretto]] o [[Inoltro Indiretto]]
 
-Nell'inoltro diretto, il pacchetto IP ha come destinazione un host nella propria rete IP e l'invio è diretto sul destinatario, l'indirizzo di destinazione a livello link è quello del destinatario e non viene interpellata nessun'altra entità.
-
-Nell'inoltro indiretto, il pacchetto IP ha come destinazione un host di un'altra rete IP, viene delegato l'invio al router e l'indirizzo di destinazione a livello link è quello del router.
-
-Si osserva come, in entrambi i casi, condizioni necessarie perché tutto funzioni sono che:
+Si osserva come, sia nell'inoltro diretto che in quello indiretto, le condizioni necessarie perché tutto funzioni sono che:
 - Esista un cammino (funzionante e) diretto, a livello data-link, tra tutti gli host che appartengono ad una stessa sottorete.
 - Ogni host coinvolto abbia un indirizzo IP “giusto”, cioè con uguale net ID (cioè appartenga alla stessa sottorete) e con host ID univoco nella sottorete.
 
@@ -44,4 +40,12 @@ Le due condizioni insieme diventano condizione necessaria e sufficiente perché 
 Ad ogni interfaccia verso la rete IP viene assegnato un indirizzo IP distinto.
 Il router è un apparato che svolge funzioni di inoltro e instradamento a livello IP. Esso legge gli indirizzi IP, consulta la propria tabella di forwarding e decide dove mandare il pacchetto IP.
 
+![[Pasted image 20231124174011.png]]
+
+Altre tecniche adottate nell'inoltro sono:
+- Aggregazione degli indirizzi: 
+
+
+
+Il "longer mask matching" si verifica quando un router ha più di una regola di instradamento che corrisponde all'indirizzo IP di destinazione, ma una di queste regole ha una maschera di sottorete più lunga (cioè più specifica) rispetto alle altre. In pratica, il router darà la precedenza alla regola con la maschera di sottorete più lunga. Questo significa che il router seguirà la regola più specifica quando c'è una corrispondenza
 
