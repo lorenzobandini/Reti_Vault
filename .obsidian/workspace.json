@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5fde2bb5230c18",
+        "id": "5f16e716a6183852",
         "type": "tabs",
         "children": [
           {
-            "id": "8bdad51c894d3ea8",
+            "id": "9cbf7de07d153102",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "21310347f5267cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definizioni/Indirizzo IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "639422f068fdb92b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definizioni/Router.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Definizioni/Indirizzo IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Definizioni/Indirizzo IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Definizioni/Indirizzo IP.md"
+              }
             }
           },
           {
@@ -148,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,8 +195,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8bdad51c894d3ea8",
+  "active": "21310347f5267cd0",
   "lastOpenFiles": [
+    "Definizioni/Router.md",
+    "Definizioni/Indirizzo IP.md",
+    "Definizioni/Inoltro Diretto.md",
+    "Traceroute.md",
+    "Wireshark.md",
+    "Pasted image 20231129120942.png",
+    "Pasted image 20231129120733.png",
     "Ping.md",
     "Pasted image 20231129115145.png",
     "ICMP.md",
@@ -175,9 +211,7 @@
     "NAT.md",
     "Pasted image 20231129113225.png",
     "Protocolli Internet/International Organization for Standards (ISO).md",
-    "Definizioni/Indirizzo IP.md",
     "Images/Pasted image 20231124174011.png",
-    "Definizioni/Inoltro Diretto.md",
     "Definizioni/Inoltro Indiretto.md",
     "Images/Screenshot 2023-11-24 173051.png",
     "Images/Pasted image 20231124172824.png",
@@ -187,8 +221,6 @@
     "Indice.md",
     "Images/Pasted image 20231124151240.png",
     "Images/Pasted image 20231124143006.png",
-    "Screenshot 2023-11-24 151141.png",
-    "Images/Screenshot 2023-11-24 151141 1.png",
     "Definizioni/Indirizzi IPv6.md",
     "Strato di Rete",
     "Senza nome.md",
@@ -202,8 +234,6 @@
     "Definizioni/QUIC.md",
     "Capitoli/HTTP.md",
     "Capitoli/TCP.md",
-    "Protocollo TCP/Controllo di congestione TCP.md",
-    "Protocollo TCP/Controllo del flusso TCP.md",
     "Protocollo UDP",
     "Protocollo TCP",
     "Concetto di Multiplexing",
