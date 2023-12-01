@@ -2,3 +2,5 @@ Una delle applicazione che un host può utilizzare per verificare il funzionamen
 Il programma ping si basa sui messaggi di richiesta e risposta eco dell'[[ICMP]] fornendo anche misure dell'RTT.
 
 ![[Pasted image 20231129115145.png]]
+
+I ping vengono utilizzati dal programma [[Traceroute]].

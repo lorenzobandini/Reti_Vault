@@ -1,7 +1,7 @@
-Il programma Traceroute in UNIX o tracert in Windows può essere utilizzato per individuare il percorso di un datagramma dalla sorgente alla destinazione tramite l’identificazione dell’indirizzo IP di tutti i router che vengono visitati lungo il percorso.
+Il programma Traceroute in UNIX o tracert in Windows può essere utilizzato per individuare il percorso di un datagramma dalla sorgente alla destinazione tramite l’identificazione dell’[[indirizzo IP]] di tutti i [[router]] che vengono visitati lungo il percorso.
 Solitamente il programma viene impostato per un massimo di 30 salti (router), che sono usualmente sufficienti per raggiungere la destinazione.
 
-Traceroute è implementato con l'uso del protocollo UDP, si invia un datagramma ad un porta su cui è improbabile che un processo sia in ascolto e datagrammi sono configurati in modo da scatenare l’invio di messaggi di errore per tempo scaduto e per porta destinazione non raggiungibile.
+Traceroute è implementato con l'uso del [[protocollo]] [[UDP]], si invia un datagramma ad un [[porta]] su cui è improbabile che un processo sia in ascolto e datagrammi sono configurati in modo da scatenare l’invio di messaggi di errore per tempo scaduto e per porta destinazione non raggiungibile.
 
 ![[Pasted image 20231129120733.png]]
 

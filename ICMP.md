@@ -15,3 +15,5 @@ I messaggi si distinguono in:
 Nell’header ICMP i campi Tipo (8 bit) e Codice (8 bit) indicano tipo e significato dei messaggi
 
 ![[Pasted image 20231129114550.png]]
+
+Sui messaggi di richiesta e risposta eco si basa il programma [[Ping]].
