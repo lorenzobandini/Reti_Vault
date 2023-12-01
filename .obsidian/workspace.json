@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli di Routing.md",
+                "file": "Definizioni/Indirizzi IPv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocolli di Routing.md",
+                "file": "Definizioni/Indirizzi IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli di Routing.md",
+                "file": "Definizioni/Indirizzi IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocolli di Routing.md"
+                "file": "Definizioni/Indirizzi IPv6.md"
               }
             }
           },
@@ -176,8 +176,10 @@
   },
   "active": "828b4f4744a22660",
   "lastOpenFiles": [
-    "Definizioni/Router.md",
+    "Pasted image 20231201142257.png",
+    "Pasted image 20231201141834.png",
     "Protocolli di Routing.md",
+    "Definizioni/Router.md",
     "Architettura di un Router.md",
     "Pasted image 20231201123726.png",
     "Pasted image 20231201122938.png",
@@ -198,7 +200,6 @@
     "Pasted image 20231129114550.png",
     "Pasted image 20231129113225.png",
     "Protocolli Internet/International Organization for Standards (ISO).md",
-    "Images/Pasted image 20231124174011.png",
     "Definizioni/Inoltro Indiretto.md",
     "Definizioni/DHCP.md",
     "Definizioni/Indirizzi IPv4.md",
@@ -212,7 +213,6 @@
     "Strato di Rete/Instradamento.md",
     "Strato di Rete/Frammentazione.md",
     "Strato di Rete/Datagramma IP.md",
-    "Strato di Rete/Internet Protocol.md",
     "Protocollo UDP",
     "Protocollo TCP",
     "Concetto di Multiplexing",
