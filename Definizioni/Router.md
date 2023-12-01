@@ -1,4 +1,4 @@
-Dispositivo di rete, con la propria [[Architettura di un Router|Architettura]], progettato per instradare il traffico dati tra reti diverse, consentendo la comunicazione tra dispositivi in [[Local Area Netword (LAN)]] e reti esterne, come [[Internet]] o altre LAN.
+Dispositivo di rete, con la propria [[Architettura di un Router|Architettura]], progettato per instradare il traffico dati tra reti diverse, consentendo la comunicazione tra dispositivi in [[LAN]] e reti esterne, come [[Internet]] o altre LAN.
 
 Utilizza le tecniche di:
 - Forwarding (inoltro) per trasferire i pacchetti sull'appropriato collegamento di uscita usando la tabella di inoltro nel piano dati

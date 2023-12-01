@@ -15,7 +15,7 @@ Internet è composto da:
 Internet è un'infrastruttura che offre servizi alle applicazioni (web, streaming video, email...) e offre un'interfaccia di programmazione alle applicazioni distribuite che permette alle app mittenti e destinatarie di collegarsi ed usare il servizio di trasporto di internet.
 
 Le reti possono essere:
-- [[Local Area Netword (LAN)]]
+- [[LAN]]
 - [[Wide Area Network (WAN)]]
 - [[Metropolitan Area Network (MAN)]]
 

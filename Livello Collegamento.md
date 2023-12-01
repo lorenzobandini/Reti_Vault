@@ -10,8 +10,8 @@ I termini usati sono:
 Un datagramma può essere gestito da diversi protocolli su collegamenti differenti e anche i servizi erogati dai protocolli del livello di link possono essere differenti.
 
 I collegamenti possono essere:
-- Punto-Punto: collegamento dedicato a due soli dispositivi come [[Wide Area Network (WAN)|WAN]] o switched [[Local Area Netword (LAN)|LAN]] ethernet
-- Broadcast: collegamento condiviso tra più dispositivi. Quando un nodo trasmette un frame, il canale lo diffonde e tutti gli altri nodi ricevono una copia come Wireless [[Local Area Netword (LAN)|LAN]] 
+- Punto-Punto: collegamento dedicato a due soli dispositivi come [[Wide Area Network (WAN)|WAN]] o switched [[LAN|LAN]] ethernet
+- Broadcast: collegamento condiviso tra più dispositivi. Quando un nodo trasmette un frame, il canale lo diffonde e tutti gli altri nodi ricevono una copia come Wireless [[LAN|LAN]] 
 
 I servizi solitamente offerti sono:
 - Framing
@@ -42,4 +42,4 @@ In un protocollo di accesso multiplo ideale in cui abbiamo un canale broadcast c
 - Decentralizzato
 - Semplice
 
-Il protocollo usato è il 
+I protocolli usati sono i [[Protocolli MAC]] 
