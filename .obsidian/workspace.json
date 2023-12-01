@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "178562a900ee33a5",
+        "id": "d58c50d6ce5c2297",
         "type": "tabs",
         "children": [
           {
-            "id": "828b4f4744a22660",
+            "id": "2c46ef93b7826510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/Indirizzi IPv6.md",
+                "file": "Livello Collegamento.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Indirizzi IPv6.md",
+                "file": "Livello Collegamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Indirizzi IPv6.md",
+                "file": "Livello Collegamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Indirizzi IPv6.md"
+                "file": "Livello Collegamento.md"
               }
             }
           },
@@ -174,8 +174,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "828b4f4744a22660",
+  "active": "2c46ef93b7826510",
   "lastOpenFiles": [
+    "Pasted image 20231201144544.png",
+    "Pasted image 20231201143340.png",
+    "Livello Collegamento.md",
+    "Definizioni/Indirizzi IPv6.md",
     "Pasted image 20231201142257.png",
     "Pasted image 20231201141834.png",
     "Protocolli di Routing.md",
@@ -197,14 +201,11 @@
     "Pasted image 20231129120942.png",
     "Pasted image 20231129120733.png",
     "Pasted image 20231129115145.png",
-    "Pasted image 20231129114550.png",
-    "Pasted image 20231129113225.png",
     "Protocolli Internet/International Organization for Standards (ISO).md",
     "Definizioni/Inoltro Indiretto.md",
     "Definizioni/DHCP.md",
     "Definizioni/Indirizzi IPv4.md",
     "Definizioni/Classless Adressing.md",
-    "Definizioni/Indirizzi IPv6.md",
     "Strato di Rete",
     "Senza nome.md",
     "Capitoli/Strato di Rete.md",
@@ -212,7 +213,6 @@
     "Strato di Rete/Forwarding.md",
     "Strato di Rete/Instradamento.md",
     "Strato di Rete/Frammentazione.md",
-    "Strato di Rete/Datagramma IP.md",
     "Protocollo UDP",
     "Protocollo TCP",
     "Concetto di Multiplexing",

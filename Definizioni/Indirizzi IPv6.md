@@ -17,4 +17,4 @@ Per supportare sia IPv4 e IPv6 si implementa il Dual Stack che funge da tramite.
 
 ![[Pasted image 20231201142257.png]]
 
-Per connettere un network 
+Per connettere un network IPv4 a dei router IPv6 si effettua incapsulamento e tunnelling .......
