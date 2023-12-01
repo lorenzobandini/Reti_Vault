@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/Router.md",
+                "file": "Protocolli di Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Router.md",
+                "file": "Protocolli di Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Router.md",
+                "file": "Protocolli di Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Router.md"
+                "file": "Protocolli di Routing.md"
               }
             }
           },
@@ -176,10 +176,16 @@
   },
   "active": "828b4f4744a22660",
   "lastOpenFiles": [
+    "Definizioni/Router.md",
+    "Protocolli di Routing.md",
+    "Architettura di un Router.md",
+    "Pasted image 20231201123726.png",
+    "Pasted image 20231201122938.png",
+    "Pasted image 20231201122916.png",
+    "Indice.md",
     "Pasted image 20231201121127.png",
     "Network/Local Area Netword (LAN).md",
     "NAT.md",
-    "Definizioni/Router.md",
     "Ping.md",
     "ICMP.md",
     "Traceroute.md",
@@ -194,14 +200,9 @@
     "Protocolli Internet/International Organization for Standards (ISO).md",
     "Images/Pasted image 20231124174011.png",
     "Definizioni/Inoltro Indiretto.md",
-    "Images/Screenshot 2023-11-24 173051.png",
-    "Images/Pasted image 20231124172824.png",
     "Definizioni/DHCP.md",
     "Definizioni/Indirizzi IPv4.md",
     "Definizioni/Classless Adressing.md",
-    "Indice.md",
-    "Images/Pasted image 20231124151240.png",
-    "Images/Pasted image 20231124143006.png",
     "Definizioni/Indirizzi IPv6.md",
     "Strato di Rete",
     "Senza nome.md",
@@ -212,7 +213,6 @@
     "Strato di Rete/Frammentazione.md",
     "Strato di Rete/Datagramma IP.md",
     "Strato di Rete/Internet Protocol.md",
-    "Definizioni/QUIC.md",
     "Protocollo UDP",
     "Protocollo TCP",
     "Concetto di Multiplexing",
