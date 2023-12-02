@@ -12,3 +12,5 @@ Quindi all'interno di un sistema autonomo:
 INTRA-AS routing protocol determina rotte per le destinazioni interne ad AS grazie a Routing Information Protocol ([[RIP]]) e Open Shortest Path First ([[OSPF]])
 
 INTRA-AS e INTER-AS routing protocol determinano insieme rotte per le destinazioni esterne all'AS con l'aiuto del Border Gateway Protocol ([[BGP]]) che consente di conoscere le destinazioni raggiungibili attraverso sistemi autonomi vicini, propaga le informazioni di raggiungibilità ai router interni del proprio AS e determina percorsi buoni verso le sottoreti di destinazione.
+
+I sistemi autonomi sono interconnessi se ciascun sistema autonomo sa come inoltrare pacchetti lungo il percorso ottimo verso qualsiasi destinazione interna al gruppo.
