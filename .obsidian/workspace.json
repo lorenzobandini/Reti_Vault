@@ -32,19 +32,31 @@
             }
           },
           {
-            "id": "67bdad893ecee8e2",
+            "id": "2be3bd952aa4f156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmo Distance Vector.md",
+                "file": "Algoritmo Link-State.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca983cb56adfbc95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmo di Dijkstra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmo Distance Vector.md",
+                "file": "Algoritmo di Dijkstra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmo Distance Vector.md",
+                "file": "Algoritmo di Dijkstra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmo Distance Vector.md"
+                "file": "Algoritmo di Dijkstra.md"
               }
             }
           },
@@ -199,12 +211,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67bdad893ecee8e2",
+  "active": "ca983cb56adfbc95",
   "lastOpenFiles": [
+    "Algoritmo Link-State.md",
+    "Algoritmo di Dijkstra.md",
+    "Protocolli di Routing.md",
+    "Algoritmo Distance Vector.md",
     "Pasted image 20231202152030.png",
     "Bellman-Ford.md",
-    "Algoritmo Distance Vector.md",
-    "Protocolli di Routing.md",
     "Definizioni/Router.md",
     "Architettura di un Router.md",
     "Livello Collegamento.md",
@@ -230,14 +244,12 @@
     "Definizioni/Indirizzi IPv6.md",
     "Pasted image 20231201142257.png",
     "Pasted image 20231201141834.png",
-    "Pasted image 20231201123726.png",
     "Indice.md",
     "NAT.md",
     "Ping.md",
     "ICMP.md",
     "Traceroute.md",
     "Definizioni/Indirizzo IP.md",
-    "Definizioni/Inoltro Diretto.md",
     "Strato di Rete",
     "Protocollo UDP",
     "Protocollo TCP",

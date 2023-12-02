@@ -11,3 +11,5 @@ Nel routing dinamico esistono protocolli specifici che provvedono automaticament
 Gli algoritmi sono globali se si basano sulla conoscenza della topologia di tutta la rete. Il calcolo può essere fatto in un unico sito o in più nodi, utilizzando informazioni sulla connettività di tutti i nodi e sui costi di tutti i link.
 
 Gli algoritmi sono decentralizzati quando nessun nodo conosce la topologia di tutta la rete, all’inizio ha informazioni solo sui nodi e link vicini. Il calcolo del percorso è iterativo e distribuito (ad esempio [[Algoritmo Distance Vector]]) dove ogni nodo elabora un vettore di stima dei costi verso tutti gli altri nodi nella rete e il cammino a costo minimo viene calcolato in modo distribuito e iterativo scambiandosi informazioni con i nodi vicini.
+
+Un altro algoritmo in contrapposizione, che si basa su [[Algoritmo di Dijkstra]], è l'[[Algoritmo Link-State]]
