@@ -1,4 +1,4 @@
-L'IPv6 rappresenta una tappa fondamentale nell'evoluzione del protocollo Internet, rispondendo alle crescenti esigenze di connettività globale. La sua adozione è stata motivata principalmente dalla limitata disponibilità di indirizzi IPv4, che ha reso necessaria una soluzione più scalabile e flessibile per sostenere l'espansione continua della rete. 
+ L'IPv6 rappresenta una tappa fondamentale nell'evoluzione del protocollo Internet, rispondendo alle crescenti esigenze di connettività globale. La sua adozione è stata motivata principalmente dalla limitata disponibilità di indirizzi IPv4, che ha reso necessaria una soluzione più scalabile e flessibile per sostenere l'espansione continua della rete. 
 
 I motivi di passaggio da IPv4 a IPv6 e le soluzioni sono:
 - Esaurimento indirizzi a 32 bit e quindi indirizzi a 128 bit

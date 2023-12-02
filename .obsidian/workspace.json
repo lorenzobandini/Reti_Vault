@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Token Passing.md",
+                "file": "Definizioni/Indirizzi IPv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Token Passing.md",
+                "file": "Definizioni/Indirizzi IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Token Passing.md",
+                "file": "Definizioni/Indirizzi IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Token Passing.md"
+                "file": "Definizioni/Indirizzi IPv6.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "c1ca824c1bf6ec85",
   "lastOpenFiles": [
+    "Token Passing.md",
     "Pooling.md",
     "CSMA.md",
     "ALOHA.md",
@@ -207,7 +208,6 @@
     "Definizioni/Algoritmo di Dijkstra.md",
     "Definizioni/Bellman-Ford.md",
     "Livello Collegamento.md",
-    "Token Passing.md",
     "CSMA-CD.md",
     "Network/LAN.md",
     "CSMA/CD.md",
