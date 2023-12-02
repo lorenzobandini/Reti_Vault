@@ -43,3 +43,4 @@ In un protocollo di accesso multiplo ideale in cui abbiamo un canale broadcast c
 - Semplice
 
 I protocolli usati sono i [[Protocolli MAC]] 
+

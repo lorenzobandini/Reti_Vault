@@ -17,4 +17,6 @@ Per supportare sia IPv4 e IPv6 si implementa il Dual Stack che funge da tramite.
 
 ![[Pasted image 20231201142257.png]]
 
-Per connettere un network IPv4 a dei router IPv6 si effettua incapsulamento e tunnelling .......
+Per connettere un network IPv4 a dei router IPv6 si effettua incapsulamento e tunnelling:
+- L'incapsulamento è un processo mediante il quale un pacchetto di dati viene avvolto in un altro pacchetto prima di essere trasmesso attraverso una rete. Nel caso in cui dati IPv6 devono attraversare una rete che supporta solo IPv4, il pacchetto IPv6 viene incapsulato all'interno di un pacchetto IPv4 e il pacchetto IPv6 diventa il carico utile (payload) del pacchetto IPv4.
+- Il tunneling è una tecnica che consente di instradare il traffico di una rete attraverso un'altra rete.

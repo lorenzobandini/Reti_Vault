@@ -1,3 +1,0 @@
-Raffinamento di [[CSMA]] ma con Collision Detection cercando di ridurre le perdite. La collision detection è facile in [[LAN]] cablate e difficile in [[LAN]] wireless.
-
-....

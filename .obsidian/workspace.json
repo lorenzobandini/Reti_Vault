@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/Indirizzi IPv6.md",
+                "file": "Capitoli/Livello Collegamento.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Indirizzi IPv6.md",
+                "file": "Capitoli/Livello Collegamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Indirizzi IPv6.md",
+                "file": "Capitoli/Livello Collegamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Indirizzi IPv6.md"
+                "file": "Capitoli/Livello Collegamento.md"
               }
             }
           },
@@ -173,22 +173,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1ca824c1bf6ec85",
+  "active": "3ea05b30b8d50dc1",
   "lastOpenFiles": [
-    "Token Passing.md",
-    "Pooling.md",
-    "CSMA.md",
-    "ALOHA.md",
-    "FDMA.md",
-    "TDMA.md",
+    "Definizioni/ICMP.md",
+    "Definizioni/NAT.md",
+    "Indice.md",
+    "Protocolli MAC/Protocolli MAC.md",
+    "Protocolli MAC/Rotazione",
+    "Protocolli MAC/Accesso Random",
+    "Protocolli MAC/Suddivisione del canale",
+    "Protocolli MAC",
+    "Capitoli/Livello Collegamento.md",
+    "Protocolli MAC/Accesso Random/CSMA-CD.md",
+    "Images/Pasted image 20231202184828.png",
+    "Protocolli MAC/Suddivisione del canale/TDMA.md",
+    "Definizioni/Indirizzi IPv6.md",
+    "Protocolli MAC/Rotazione/Token Passing.md",
+    "Protocolli MAC/Rotazione/Pooling.md",
+    "Protocolli MAC/Accesso Random/CSMA.md",
+    "Protocolli MAC/Accesso Random/ALOHA.md",
+    "Protocolli MAC/Suddivisione del canale/FDMA.md",
     "Routing/OSPF.md",
     "Routing/BGP.md",
     "Routing/Sistemi Autonomi.md",
-    "Protocolli MAC.md",
-    "Indice.md",
     "Routing/Architettura di un Router.md",
-    "ICMP.md",
-    "NAT.md",
     "Routing",
     "Images/Pasted image 20231202174117.png",
     "Images/Pasted image 20231202173838.png",
@@ -199,7 +207,6 @@
     "Images/Pasted image 20231201151549.png",
     "Images/Pasted image 20231201150821.png",
     "Images/Pasted image 20231201144544.png",
-    "Images/Pasted image 20231201143340.png",
     "Network/RIP.md",
     "Definizioni/Router.md",
     "Capitoli/Protocolli di Routing.md",
@@ -207,20 +214,12 @@
     "Definizioni/Algoritmo Link-State.md",
     "Definizioni/Algoritmo di Dijkstra.md",
     "Definizioni/Bellman-Ford.md",
-    "Livello Collegamento.md",
-    "CSMA-CD.md",
     "Network/LAN.md",
-    "CSMA/CD.md",
     "CSMA",
-    "Slotted ALOHA.md",
     "Strato di Rete",
     "Protocollo UDP",
     "Protocollo TCP",
     "Concetto di Multiplexing",
-    "Server DNS",
-    "Posta",
-    "Metodi HTTP",
-    "Protocollo HTTP",
     "Senza nome.canvas"
   ]
 }
