@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c46ef93b7826510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definizioni/Router.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "82efc801856df728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Indice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ba782de18a5484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocolli di Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Autonomi.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Autonomi.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Autonomi.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -210,12 +185,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b897900e59e08b8",
+  "active": "82efc801856df728",
   "lastOpenFiles": [
+    "Definizioni/Router.md",
+    "Indice.md",
     "Protocolli di Routing.md",
     "Sistemi Autonomi.md",
-    "Indice.md",
-    "Definizioni/Router.md",
     "Algoritmo Distance Vector.md",
     "Algoritmo Link-State.md",
     "Algoritmo di Dijkstra.md",
