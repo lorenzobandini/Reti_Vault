@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d58c50d6ce5c2297",
+        "id": "76b3f7905aac20dc",
         "type": "tabs",
         "children": [
           {
-            "id": "82efc801856df728",
+            "id": "c1ca824c1bf6ec85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Autonomi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1883f983f4bb556b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BGP.md",
+                "file": "Token Passing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.5
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BGP.md",
+                "file": "Token Passing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BGP.md",
+                "file": "Token Passing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BGP.md"
+                "file": "Token Passing.md"
               }
             }
           },
@@ -186,45 +173,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1883f983f4bb556b",
+  "active": "c1ca824c1bf6ec85",
   "lastOpenFiles": [
-    "Sistemi Autonomi.md",
-    "OSPF.md",
-    "RIP.md",
-    "BGP.md",
-    "Pasted image 20231202174117.png",
-    "Pasted image 20231202173838.png",
-    "Indice.md",
-    "Pasted image 20231202170929.png",
-    "Definizioni/Router.md",
-    "Protocolli di Routing.md",
-    "Algoritmo Distance Vector.md",
-    "Algoritmo Link-State.md",
-    "Algoritmo di Dijkstra.md",
-    "Pasted image 20231202152030.png",
-    "Bellman-Ford.md",
-    "Architettura di un Router.md",
-    "Livello Collegamento.md",
-    "Protocolli MAC.md",
-    "Token Passing.md",
     "Pooling.md",
+    "CSMA.md",
+    "ALOHA.md",
+    "FDMA.md",
+    "TDMA.md",
+    "Routing/OSPF.md",
+    "Routing/BGP.md",
+    "Routing/Sistemi Autonomi.md",
+    "Protocolli MAC.md",
+    "Indice.md",
+    "Routing/Architettura di un Router.md",
+    "ICMP.md",
+    "NAT.md",
+    "Routing",
+    "Images/Pasted image 20231202174117.png",
+    "Images/Pasted image 20231202173838.png",
+    "Images/Pasted image 20231202170929.png",
+    "Images/Pasted image 20231202152030.png",
+    "Images/Pasted image 20231201151740.png",
+    "Images/Pasted image 20231201151551.png",
+    "Images/Pasted image 20231201151549.png",
+    "Images/Pasted image 20231201150821.png",
+    "Images/Pasted image 20231201144544.png",
+    "Images/Pasted image 20231201143340.png",
+    "Network/RIP.md",
+    "Definizioni/Router.md",
+    "Capitoli/Protocolli di Routing.md",
+    "Routing/Algoritmo Distance Vector.md",
+    "Definizioni/Algoritmo Link-State.md",
+    "Definizioni/Algoritmo di Dijkstra.md",
+    "Definizioni/Bellman-Ford.md",
+    "Livello Collegamento.md",
+    "Token Passing.md",
     "CSMA-CD.md",
     "Network/LAN.md",
     "CSMA/CD.md",
     "CSMA",
-    "CSMA.md",
-    "ALOHA.md",
-    "Pasted image 20231201151740.png",
     "Slotted ALOHA.md",
-    "Pasted image 20231201151551.png",
-    "Pasted image 20231201151549.png",
-    "FDMA.md",
-    "Screenshot 2023-12-01 150737.png",
-    "Pasted image 20231201150821.png",
-    "TDMA.md",
-    "Pasted image 20231201144544.png",
-    "Definizioni/Indirizzi IPv6.md",
-    "NAT.md",
     "Strato di Rete",
     "Protocollo UDP",
     "Protocollo TCP",
@@ -233,7 +221,6 @@
     "Posta",
     "Metodi HTTP",
     "Protocollo HTTP",
-    "1",
     "Senza nome.canvas"
   ]
 }

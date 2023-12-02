@@ -41,8 +41,7 @@
       "Modello ISO",
       "Lezione_1",
       "2",
-      "Concetto di Multiplexing",
-      "Protocollo HTTP"
+      "Concetto di Multiplexing"
     ]
   },
   "expandedSpaces": [
@@ -80,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701535453472,
+  "spacesAutoBackupLast": 1701537747184,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
