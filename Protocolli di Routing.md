@@ -13,3 +13,18 @@ Gli algoritmi sono globali se si basano sulla conoscenza della topologia di tutt
 Gli algoritmi sono decentralizzati quando nessun nodo conosce la topologia di tutta la rete, all’inizio ha informazioni solo sui nodi e link vicini. Il calcolo del percorso è iterativo e distribuito (ad esempio [[Algoritmo Distance Vector]]) dove ogni nodo elabora un vettore di stima dei costi verso tutti gli altri nodi nella rete e il cammino a costo minimo viene calcolato in modo distribuito e iterativo scambiandosi informazioni con i nodi vicini.
 
 Un altro algoritmo in contrapposizione, che si basa su [[Algoritmo di Dijkstra]], è l'[[Algoritmo Link-State]]
+
+Facciamo un confronto tra LS e DV
+Complessità dei messaggi:
+- LS: con $n$ nodi, $E$ collegamenti, implica l'invio di $O(nE)$ messaggi
+- DV: richiede scambi tra nodi adiacenti
+
+Velocità di convergenza:
+- LS: l'algoritmo $O(n^2)$ richiede $O(nE)$ messaggi
+- DV: può convergere lentamente. Può presentare cicli d'instradamento. Può presentare il problema del conteggio infinito.
+
+Robustezza in caso di malfunzionamenti:
+- LS: un router può comunicare via broadcast un costo sbagliato per uno dei suoi collegamenti connessi ma non per gli altri. I nodi si occupano di calcolare soltanto le proprie tabelle.
+- DV: un nodo può comunicare cammini a costo minimo errati a tutte le destinazioni. La tabella di ciascun nodo può essere usata dagli altri e un calcolo errato si può diffondere in tutta la rete.
+
+La visione di una rete costituita da un insieme di router omogenei interconnessi è semplicistica. Nella realtà i router sono organizzati in [[Sistemi Autonomi]]

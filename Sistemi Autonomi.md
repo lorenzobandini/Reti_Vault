@@ -1,0 +1,2 @@
+Chiamati anche AS, sono gruppi di router sotto lo stesso controllo amministrativo . Gli AS decidono autonomamente i protocolli e le politiche di routing che intendono adottare al loro interno.
+I protocolli

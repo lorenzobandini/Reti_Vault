@@ -7,5 +7,3 @@ Utilizza le tecniche di:
 Il routing può essere:
 - Decentralizzato se è in esecuzione un algoritmo di routing su ciascun router con i router che si scambiano messaggi tra loro
 - Logicamente Centralizzato se un controller remoto interagisce con Control Agents locali ricevendo da essi informazioni sui collegamenti e traffico e inviando valori da inserire nella tabella di inoltro
-
-
