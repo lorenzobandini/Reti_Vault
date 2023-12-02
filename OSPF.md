@@ -1,0 +1,1 @@
+OSPF, acronimo di Open Shortest Path First, è un protocollo di routing a stato di collegamento utilizzato per determinare i percorsi di routing all'interno di [[Sistemi Autonomi]] (Intra-AS).
