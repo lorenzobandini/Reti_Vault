@@ -1,4 +1,4 @@
-Un pacchetto ARP è inviato sulla rete per eseguire la risoluzione degli indirizzi. Il pacchetto ARP contiene informazioni come l'indirizzo IP del mittente, l'indirizzo MAC del mittente, l'indirizzo IP del destinatario e l'indirizzo MAC del destinatario.
+Un pacchetto ARP è inviato sulla rete per eseguire la risoluzione degli indirizzi. Il pacchetto ARP contiene informazioni come l'indirizzo IP del mittente, l'indirizzo LAN del mittente, l'indirizzo IP del destinatario e l'indirizzo LAN del destinatario.
 
 ![[Pasted image 20231204164327.png]]
 

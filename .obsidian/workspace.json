@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indirizzo LAN.md",
+                "file": "Indirizzo MAC.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de928db90e2d9451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forwarding indiretto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARP.md",
+                "file": "Indirizzo MAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARP.md",
+                "file": "Indirizzo MAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARP.md"
+                "file": "Indirizzo MAC.md"
               }
             }
           },
@@ -199,14 +211,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fbb09a79649b7d21",
+  "active": "375244951772b2bc",
   "lastOpenFiles": [
-    "Pasted image 20231204165434.png",
-    "Pacchetto ARP.md",
-    "Pasted image 20231204164327.png",
-    "ARP.md",
-    "Indirizzo LAN.md",
     "Capitoli/Livello Collegamento.md",
+    "Indirizzo MAC.md",
+    "ARP.md",
+    "Forwarding indiretto.md",
+    "Forwarding diretto.md",
+    "Pacchetto ARP.md",
+    "Pasted image 20231204165829.png",
+    "Pasted image 20231204165434.png",
+    "Pasted image 20231204164327.png",
     "Pasted image 20231204164159.png",
     "Pasted image 20231204161102.png",
     "Pasted image 20231204155552.png",
@@ -235,13 +250,10 @@
     "Images/Pasted image 20231202174117.png",
     "Images/Pasted image 20231202173838.png",
     "Images/Pasted image 20231202170929.png",
-    "Images/Pasted image 20231202152030.png",
-    "Images/Pasted image 20231201151740.png",
     "Network/RIP.md",
     "Definizioni/Router.md",
     "Capitoli/Protocolli di Routing.md",
     "Routing/Algoritmo Distance Vector.md",
-    "Definizioni/Algoritmo Link-State.md",
     "CSMA",
     "Strato di Rete",
     "Protocollo UDP",

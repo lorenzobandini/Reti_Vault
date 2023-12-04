@@ -1,0 +1,5 @@
+Nel forwarding indiretto, il dispositivo mittente deve fare affidamento su un router per inoltrare il pacchetto al destinatario. Questo accade quando il mittente e il destinatario non sono direttamente collegati alla stessa rete locale, e il pacchetto deve attraversare una o più reti intermedie. In questo caso, il dispositivo mittente consulta una tabella di routing per determinare il percorso ottimale attraverso la rete. Il router, a sua volta, si occupa di inoltrare il pacchetto lungo il percorso corretto in direzione del destinatario.
+
+Questo processo avviene in più fasi, considerando l'invio di un datagramma con mittente IP di A e destinatario IP di B:
+1. A crea un datagramma IP con IP sorgente A e destinazione B
+2. A crea un frame con indirizzo LAN destinazione l'indirizzo LAN del router

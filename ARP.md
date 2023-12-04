@@ -11,7 +11,13 @@ Poiché ARP risolve gli indirizzi IP solo per i nodi della stessa LAN, le tabell
 
 ARP utilizza una propria struttura dati che sono i [[Pacchetto ARP|Pacchetti ARP]].
 
-Il funzionamento di ARP funziona con richieste e risposta.
+Il protocollo ARP interagiste direttamente con il livello collegamento. Il pacchetto ARP viene incapsulato in un frame e spedito in broadcast sulla rete. L'header del frame di livello 2 specifica che il frame contiene un pacchetto ARP. Ogni nodo nella rete locale riceve ed elabora il pacchetto di richiesta ARP e il nodo che riconosce il proprio indirizzo IP restituisce un pacchetto di risposta ARP che contiene il proprio indirizzo IP e indirizzo MAC. Il pacchetto di risposta viene inviato in modalità unicast al nodo originario.
+
 La richiesta ARP è inviata in broadcast
 ![[Pasted image 20231204165434.png]]
-La risposta ARP è inviata
+La risposta ARP è inviata in unicast
+![[Pasted image 20231204165829.png]]
+
+Per l'inoltro pacchetti è possibile utilizzare:
+- [[Forwarding diretto]]
+- [[Forwarding indiretto]]
