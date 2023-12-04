@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "375244951772b2bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indirizzo LAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Livello Collegamento.md",
+                "file": "Indirizzo LAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Livello Collegamento.md",
+                "file": "Indirizzo LAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Livello Collegamento.md"
+                "file": "Indirizzo LAN.md"
               }
             }
           },
@@ -173,8 +187,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ea05b30b8d50dc1",
+  "active": "375244951772b2bc",
   "lastOpenFiles": [
+    "Pasted image 20231204155552.png",
+    "Capitoli/Livello Collegamento.md",
+    "Indirizzo LAN.md",
+    "Protocolli MAC/Rotazione/Pooling.md",
     "Definizioni/ICMP.md",
     "Definizioni/NAT.md",
     "Indice.md",
@@ -183,13 +201,11 @@
     "Protocolli MAC/Accesso Random",
     "Protocolli MAC/Suddivisione del canale",
     "Protocolli MAC",
-    "Capitoli/Livello Collegamento.md",
     "Protocolli MAC/Accesso Random/CSMA-CD.md",
     "Images/Pasted image 20231202184828.png",
     "Protocolli MAC/Suddivisione del canale/TDMA.md",
     "Definizioni/Indirizzi IPv6.md",
     "Protocolli MAC/Rotazione/Token Passing.md",
-    "Protocolli MAC/Rotazione/Pooling.md",
     "Protocolli MAC/Accesso Random/CSMA.md",
     "Protocolli MAC/Accesso Random/ALOHA.md",
     "Protocolli MAC/Suddivisione del canale/FDMA.md",
@@ -214,7 +230,6 @@
     "Definizioni/Algoritmo Link-State.md",
     "Definizioni/Algoritmo di Dijkstra.md",
     "Definizioni/Bellman-Ford.md",
-    "Network/LAN.md",
     "CSMA",
     "Strato di Rete",
     "Protocollo UDP",

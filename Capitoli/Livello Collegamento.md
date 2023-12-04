@@ -44,4 +44,4 @@ In un protocollo di accesso multiplo ideale in cui abbiamo un canale broadcast c
 
 I protocolli usati sono i [[Protocolli MAC]] 
 
-Un indirizzo del livello collegamento è associato alla scheda di rete e non al nodo ed è tipicamente permanente. Chiamato indirizzo fisico o indirizzo LAN o indirizzo MAC. Per le LAN ethernet è lungo 6 byte ed è espresso in notazione esadecimale. Per garantire l'unicità IEEE definisce ed assegna i primi 24 bit mentre i rimanenti vengono gestiti dalle aziende ed assegnati a livello locale.
+Un indirizzo del livello collegamento è chiamato indirizzo fisico o [[Indirizzo LAN]] o indirizzo MAC. 
