@@ -10,4 +10,7 @@ Ciascun adattatore di una LAN ha un indirizzo LAN univoco. Un adattatore inseris
 
 ![[Pasted image 20231204155552.png]]
 
-Quando un adattatore spedisce un frame, vi inserisce l'indirizzo MAC della sched
+Quando un adattatore spedisce un frame, vi inserisce l'indirizzo LAN della scheda di destinazione.
+Nel caso di reti LAN broadcast, tutti gli adattatori attestati sulla rete controllano l'indirizzo destinazione e passano i dati allo stato superiore solo se riconoscono il proprio indirizzo LAN.
+Se un adattatore trasmittente vuole che tutte le schede di rete passino i dati agli strati superiori, immette nel campo indirizzo destinazione `FF-FF-FF-FF-FF-FF` ovvero l'indirizzo broadcast.
+La risoluzione degli indirizzi è svolta dal protocollo [[ARP]].

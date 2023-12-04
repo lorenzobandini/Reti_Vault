@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbb09a79649b7d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indirizzo LAN.md",
+                "file": "ARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indirizzo LAN.md",
+                "file": "ARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indirizzo LAN.md"
+                "file": "ARP.md"
               }
             }
           },
@@ -187,11 +199,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "375244951772b2bc",
+  "active": "fbb09a79649b7d21",
   "lastOpenFiles": [
+    "Pasted image 20231204161102.png",
+    "Indirizzo LAN.md",
+    "ARP.md",
     "Pasted image 20231204155552.png",
     "Capitoli/Livello Collegamento.md",
-    "Indirizzo LAN.md",
     "Protocolli MAC/Rotazione/Pooling.md",
     "Definizioni/ICMP.md",
     "Definizioni/NAT.md",
@@ -222,14 +236,12 @@
     "Images/Pasted image 20231201151551.png",
     "Images/Pasted image 20231201151549.png",
     "Images/Pasted image 20231201150821.png",
-    "Images/Pasted image 20231201144544.png",
     "Network/RIP.md",
     "Definizioni/Router.md",
     "Capitoli/Protocolli di Routing.md",
     "Routing/Algoritmo Distance Vector.md",
     "Definizioni/Algoritmo Link-State.md",
     "Definizioni/Algoritmo di Dijkstra.md",
-    "Definizioni/Bellman-Ford.md",
     "CSMA",
     "Strato di Rete",
     "Protocollo UDP",
