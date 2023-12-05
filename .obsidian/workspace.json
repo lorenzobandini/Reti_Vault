@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "7380368b4094c7d4",
+            "id": "0d0048b75f443207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/Switch.md",
+                "file": "VLAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Switch.md",
+                "file": "VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Switch.md",
+                "file": "VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Switch.md"
+                "file": "VLAN.md"
               }
             }
           },
@@ -187,11 +187,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7380368b4094c7d4",
+  "active": "0d0048b75f443207",
   "lastOpenFiles": [
+    "Pasted image 20231205182324.png",
+    "Capitoli/Livello Collegamento.md",
+    "Definizioni/Switch.md",
     "Pasted image 20231205175405.png",
     "Pasted image 20231205175201.png",
-    "Capitoli/Livello Collegamento.md",
     "Ethernet.md",
     "Pasted image 20231205165745.png",
     "Pasted image 20231205165127.png",
@@ -217,7 +219,6 @@
     "Protocolli MAC/Suddivisione del canale",
     "Protocolli MAC",
     "Protocolli MAC/Accesso Random/CSMA-CD.md",
-    "Images/Pasted image 20231202184828.png",
     "Protocolli MAC/Suddivisione del canale/TDMA.md",
     "Definizioni/Indirizzi IPv6.md",
     "Protocolli MAC/Rotazione/Token Passing.md",
@@ -229,7 +230,6 @@
     "Routing/Sistemi Autonomi.md",
     "Routing/Architettura di un Router.md",
     "Routing",
-    "Network/RIP.md",
     "CSMA",
     "Strato di Rete",
     "Protocollo UDP",
