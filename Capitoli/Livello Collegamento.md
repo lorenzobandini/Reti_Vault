@@ -45,3 +45,5 @@ In un protocollo di accesso multiplo ideale in cui abbiamo un canale broadcast c
 I protocolli usati sono i [[Protocolli MAC]] 
 
 Un indirizzo del livello collegamento è chiamato indirizzo fisico o [[Indirizzo MAC]] o indirizzo MAC. 
+
+Il livello di collegamento sfrutta come mezzo di trasporto [[Ethernet]], [[Switch]] e [[VLAN]]
