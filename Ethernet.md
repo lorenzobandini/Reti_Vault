@@ -13,3 +13,4 @@ In cui:
 - _Dati_: L'unità massima di trasferimento MTU che varia tra 46 byte ad un massimo di 1500 byte. Se il datagramma è più grande allora deve essere frammentato. Se il campo dati è più piccolo il campo dati deve essere riempito.
 - _Controllo CRC_: consente all'adattatore ricevente di rilevare la presenza di un errore nei bit del pacchetto
 
+Ethernet rimane è un protocollo [[Connection-Less]] poiché non stabilisce nessuna connessione con nodo destinazione e anche non affidabile dato che non invia _ACK_ o _NACK_ al nodo mittente e i dati nei frame eliminati sono recuperati solo se il trasferimento dati affidabile è implementato ai livelli superiori.

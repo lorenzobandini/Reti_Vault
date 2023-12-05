@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "e55524fcb1e282d2",
+            "id": "7380368b4094c7d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethernet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2260db94b81c6ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethernet.md",
+                "file": "Definizioni/Switch.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethernet.md",
+                "file": "Definizioni/Switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethernet.md",
+                "file": "Definizioni/Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethernet.md"
+                "file": "Definizioni/Switch.md"
               }
             }
           },
@@ -199,12 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e55524fcb1e282d2",
+  "active": "7380368b4094c7d4",
   "lastOpenFiles": [
-    "Pasted image 20231205165745.png",
-    "Pasted image 20231205165127.png",
+    "Pasted image 20231205175405.png",
+    "Pasted image 20231205175201.png",
     "Capitoli/Livello Collegamento.md",
     "Ethernet.md",
+    "Pasted image 20231205165745.png",
+    "Pasted image 20231205165127.png",
     "VLAN.md",
     "Indice.md",
     "Protocolli MAC/Indirizzo MAC.md",
@@ -239,8 +229,6 @@
     "Routing/Sistemi Autonomi.md",
     "Routing/Architettura di un Router.md",
     "Routing",
-    "Images/Pasted image 20231202174117.png",
-    "Images/Pasted image 20231202173838.png",
     "Network/RIP.md",
     "CSMA",
     "Strato di Rete",
