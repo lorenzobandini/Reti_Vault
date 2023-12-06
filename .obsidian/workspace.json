@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "0d0048b75f443207",
+            "id": "e161e37528125cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VLAN.md",
+                "file": "Definizioni/Switch.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VLAN.md",
+                "file": "Definizioni/Switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VLAN.md",
+                "file": "Definizioni/Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VLAN.md"
+                "file": "Definizioni/Switch.md"
               }
             }
           },
@@ -187,20 +187,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d0048b75f443207",
+  "active": "e161e37528125cca",
   "lastOpenFiles": [
-    "Pasted image 20231205182324.png",
     "Capitoli/Livello Collegamento.md",
+    "Protocolli MAC/Protocolli MAC.md",
+    "Ethernet.md",
+    "Protocolli MAC/Indirizzo MAC.md",
     "Definizioni/Switch.md",
+    "Protocolli Internet/Stack Protocollare TCP-IP.md",
+    "Capitoli/TCP.md",
+    "Protocolli MAC/Accesso Random/CSMA-CD.md",
+    "ARP.md",
+    "a.md",
+    "VLAN.md",
+    "Pasted image 20231205182324.png",
     "Pasted image 20231205175405.png",
     "Pasted image 20231205175201.png",
-    "Ethernet.md",
     "Pasted image 20231205165745.png",
     "Pasted image 20231205165127.png",
-    "VLAN.md",
     "Indice.md",
-    "Protocolli MAC/Indirizzo MAC.md",
-    "ARP.md",
     "Protocolli MAC/Forwarding indiretto.md",
     "Protocolli MAC/Forwarding diretto.md",
     "Protocolli MAC/Pacchetto ARP.md",
@@ -209,16 +214,13 @@
     "Images/Pasted image 20231204164327.png",
     "Images/Pasted image 20231204164159.png",
     "Images/Pasted image 20231204161102.png",
-    "Images/Pasted image 20231204155552.png",
     "Protocolli MAC/Rotazione/Pooling.md",
     "Definizioni/ICMP.md",
     "Definizioni/NAT.md",
-    "Protocolli MAC/Protocolli MAC.md",
     "Protocolli MAC/Rotazione",
     "Protocolli MAC/Accesso Random",
     "Protocolli MAC/Suddivisione del canale",
     "Protocolli MAC",
-    "Protocolli MAC/Accesso Random/CSMA-CD.md",
     "Protocolli MAC/Suddivisione del canale/TDMA.md",
     "Definizioni/Indirizzi IPv6.md",
     "Protocolli MAC/Rotazione/Token Passing.md",
@@ -227,8 +229,6 @@
     "Protocolli MAC/Suddivisione del canale/FDMA.md",
     "Routing/OSPF.md",
     "Routing/BGP.md",
-    "Routing/Sistemi Autonomi.md",
-    "Routing/Architettura di un Router.md",
     "Routing",
     "CSMA",
     "Strato di Rete",
