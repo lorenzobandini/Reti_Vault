@@ -6,3 +6,5 @@ Riunisce le stazioni utente e i dispositivi di rete in un unico dominio di broad
 Gli host all'interno di una VLAN comunicano tra loro come se fossero tutti connessi e nessun altro allo switch.
 
 ![[Pasted image 20231205182324.png]]
+
+Gli switch possono supportare più VLAN su una singola infrastruttura LAN.
