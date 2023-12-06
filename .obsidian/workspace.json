@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Livello Collegamento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46156a1aea81f984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VLAN.md",
+                "file": "Capitoli/TCP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VLAN.md",
+                "file": "Capitoli/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VLAN.md",
+                "file": "Capitoli/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VLAN.md"
+                "file": "Capitoli/TCP.md"
               }
             }
           },
@@ -187,9 +174,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46156a1aea81f984",
+  "active": "1992824f3ac00181",
   "lastOpenFiles": [
     "Capitoli/Livello Collegamento.md",
+    "VLAN.md",
+    "Pasted image 20231206121855.png",
     "Definizioni/Switch.md",
     "Protocolli MAC/Protocolli MAC.md",
     "Ethernet.md",
@@ -199,7 +188,6 @@
     "Protocolli MAC/Accesso Random/CSMA-CD.md",
     "ARP.md",
     "a.md",
-    "VLAN.md",
     "Pasted image 20231205182324.png",
     "Pasted image 20231205175405.png",
     "Pasted image 20231205175201.png",
@@ -213,7 +201,6 @@
     "Images/Pasted image 20231204165434.png",
     "Images/Pasted image 20231204164327.png",
     "Images/Pasted image 20231204164159.png",
-    "Images/Pasted image 20231204161102.png",
     "Protocolli MAC/Rotazione/Pooling.md",
     "Definizioni/ICMP.md",
     "Definizioni/NAT.md",
@@ -228,7 +215,6 @@
     "Protocolli MAC/Accesso Random/ALOHA.md",
     "Protocolli MAC/Suddivisione del canale/FDMA.md",
     "Routing/OSPF.md",
-    "Routing/BGP.md",
     "Routing",
     "CSMA",
     "Strato di Rete",

@@ -10,3 +10,9 @@ Gli host all'interno di una VLAN comunicano tra loro come se fossero tutti conne
 Gli switch possono supportare più VLAN su una singola infrastruttura LAN.
 
 Un modi per considerare le VLAN è VLAN basato sulle porte cioè raggruppare un insieme di porte fisiche in uno switch e considerarle come uno singolo. Ha il vantaggio che possiamo assegnare dinamicamente le porte. Quando voglio far comunicare due host di due VLAN diverse utilizziamo il router come intermezzo.
+Una porta di uno switch può anche collegarsi ad un altro switch e combinare le VLAN degli switch se vogliamo attraverso una trunk port. 
+Per distinguere il traffico aggiungiamo un etichetta per distinguere il traffico tra VLAN ed utilizziamo lo standard 802.1Q che aggiunge dei campi al frame ethernet.
+![[Pasted image 20231206121855.png]]
+Dopo che viene processato, le etichette vengono rimosse dato che non interessano.
+
+Altri modi per definire VLAN sono definire le VLAN in base agli indirizzi MAC degli host oppure definire le VLAN in base ai protocolli a livello di rete.
