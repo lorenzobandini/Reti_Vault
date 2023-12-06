@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e161e37528125cca",
+            "id": "46156a1aea81f984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/Switch.md",
+                "file": "VLAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Switch.md",
+                "file": "VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Switch.md",
+                "file": "VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Switch.md"
+                "file": "VLAN.md"
               }
             }
           },
@@ -187,13 +187,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e161e37528125cca",
+  "active": "46156a1aea81f984",
   "lastOpenFiles": [
     "Capitoli/Livello Collegamento.md",
+    "Definizioni/Switch.md",
     "Protocolli MAC/Protocolli MAC.md",
     "Ethernet.md",
     "Protocolli MAC/Indirizzo MAC.md",
-    "Definizioni/Switch.md",
     "Protocolli Internet/Stack Protocollare TCP-IP.md",
     "Capitoli/TCP.md",
     "Protocolli MAC/Accesso Random/CSMA-CD.md",

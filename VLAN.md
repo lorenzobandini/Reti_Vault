@@ -8,3 +8,5 @@ Gli host all'interno di una VLAN comunicano tra loro come se fossero tutti conne
 ![[Pasted image 20231205182324.png]]
 
 Gli switch possono supportare più VLAN su una singola infrastruttura LAN.
+
+Un modi per considerare le VLAN è VLAN basato sulle porte cioè raggruppare un insieme di porte fisiche in uno switch e considerarle come uno singolo. Ha il vantaggio che possiamo assegnare dinamicamente le porte. Quando voglio far comunicare due host di due VLAN diverse utilizziamo il router come intermezzo.
