@@ -11,47 +11,9 @@
             "id": "12ee41d43fcc11ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Capitoli/FTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9744b8745560a250",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d24d1af5ab45d919",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Applicativo/Data Connection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9d8e5d8b5247249b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f03b62ae2d1dcd33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Applicativo/Control Connection.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20230930152619.png"
               }
             }
           }
@@ -114,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -131,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Applicativo/Data Connection.md",
+                "file": "Images/Pasted image 20230930152619.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Applicativo/Data Connection.md",
+                "file": "Images/Pasted image 20230930152619.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Applicativo/Data Connection.md"
+                "file": "Images/Pasted image 20230930152619.png"
               }
             }
           },
@@ -196,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,21 +170,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d24d1af5ab45d919",
+  "active": "89db4f98b68cf97f",
   "lastOpenFiles": [
-    "Images/Pasted image 20231018161313.png",
+    "Images/Pasted image 20230930152247.png",
+    "Images/Pasted image 20230927115422.png",
+    "Images/Pasted image 20230926151915.png",
+    "Images/Pasted image 20230930173710.png",
+    "Images/Pasted image 20230930173317.png",
+    "Images/Schermata 2023-10-08 alle 22.39.44.png",
+    "Images/Schermata 2023-10-08 alle 20.19.18.png",
+    "Images/Pasted image 20231015143237.png",
+    "Images/Pasted image 20231015143212.png",
+    "Images/Pasted image 20231015140748.png",
+    "Images/Pasted image 20231015135251.png",
+    "Capitoli/FTP.md",
     "Livello Applicativo/Data Connection.md",
     "Livello Applicativo/Control Connection.md",
-    "Capitoli/FTP.md",
-    "Images/Pasted image 20231018152047.png",
-    "Images/Pasted image 20231018185840.png",
-    "Images/Pasted image 20231018170727.png",
-    "Images/Screenshot 2023-10-23 140922.png",
-    "Images/Pasted image 20231023141812.png",
-    "Images/Pasted image 20231023142214.png",
-    "Images/Pasted image 20231023134930.png",
-    "Images/Pasted image 20231023135527.png",
-    "Images/Schermata 2023-10-08 alle 18.13.24.png",
     "Definizioni/Idempotenza.md",
     "Livello Applicativo/Protocollo HTTP/Pipelining.md",
     "Definizioni/Information Hiding.md",

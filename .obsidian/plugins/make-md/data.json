@@ -43,8 +43,7 @@
       "2",
       "Concetto di Multiplexing",
       "Strato di Rete",
-      "Livello di Rete/Strato di Rete",
-      "Images"
+      "Livello di Rete/Strato di Rete"
     ]
   },
   "expandedSpaces": [
@@ -82,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701964406139,
+  "spacesAutoBackupLast": 1701966467437,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

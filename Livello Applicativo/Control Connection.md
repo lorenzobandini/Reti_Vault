@@ -5,6 +5,4 @@ La connessione segue i seguenti passi:
 2. Il client ottiene l'autorizzazione sulla connessione di controllo
 3. Il client invia i comandi sulla connessione di controllo
 4. La connessione di controllo è una [[Connessione Persistente]]
-
-![[Pasted image 20231018160408.png]]
-
+  
