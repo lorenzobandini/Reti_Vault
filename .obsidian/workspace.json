@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "474290a2080f429a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definizioni/DHCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "62708513ff2fa993",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/FTP.md",
+                "file": "Definizioni/DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/FTP.md",
+                "file": "Definizioni/DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/FTP.md"
+                "file": "Definizioni/DHCP.md"
               }
             }
           },
@@ -232,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,8 +257,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0a05928bbaeaea8",
+  "active": "474290a2080f429a",
   "lastOpenFiles": [
+    "Capitoli/FTP.md",
     "Protocollo TCP/Segmento TCP.md",
     "Capitoli/UDP.md",
     "Protocollo UDP/Datagramma UDP.md",
@@ -287,7 +299,6 @@
     "Protocolli MAC/Suddivisione del canale/TDMA.md",
     "Definizioni/Indirizzi IPv6.md",
     "Protocolli MAC/Rotazione/Token Passing.md",
-    "Protocolli MAC/Accesso Random/CSMA.md",
     "Routing",
     "CSMA",
     "Strato di Rete",
