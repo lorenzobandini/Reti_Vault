@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "5b93dedac25205f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definizioni/DHCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "62708513ff2fa993",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,7 +269,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "474290a2080f429a",
+  "active": "5b93dedac25205f7",
   "lastOpenFiles": [
     "Capitoli/FTP.md",
     "Protocollo TCP/Segmento TCP.md",
