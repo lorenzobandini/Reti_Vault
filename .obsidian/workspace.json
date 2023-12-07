@@ -4,119 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "adb483ec326589fd",
+        "id": "dc1d313a956c273b",
         "type": "tabs",
         "children": [
           {
-            "id": "1992824f3ac00181",
+            "id": "4b12513a5fdc5294",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitoli/Livello Collegamento.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "841eb7b0563ef2de",
+            "id": "052178f20588fe1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VLAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd0ed1241c5958a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strato di Rete/Datagramma IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "262c7cd11452cb3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocollo TCP/Segmento TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0a05928bbaeaea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitoli/FTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "474290a2080f429a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definizioni/DHCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b93dedac25205f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definizioni/DHCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62708513ff2fa993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitoli/UDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ca6133ef446721b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocollo UDP/Datagramma UDP.md",
+                "file": "Definizioni/Idempotenza.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +75,7 @@
             }
           },
           {
-            "id": "3ea05b30b8d50dc1",
+            "id": "89db4f98b68cf97f",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -175,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 251.5
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -191,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/DHCP.md",
+                "file": "Definizioni/Idempotenza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/DHCP.md",
+                "file": "Definizioni/Idempotenza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/DHCP.md"
+                "file": "Definizioni/Idempotenza.md"
               }
             }
           },
@@ -269,54 +181,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b93dedac25205f7",
+  "active": "052178f20588fe1d",
   "lastOpenFiles": [
-    "Capitoli/FTP.md",
-    "Protocollo TCP/Segmento TCP.md",
-    "Capitoli/UDP.md",
-    "Protocollo UDP/Datagramma UDP.md",
-    "Strato di Rete/Datagramma IP.md",
-    "VLAN.md",
-    "Protocolli MAC/Protocolli MAC.md",
-    "Capitoli/Livello Collegamento.md",
-    "Capitoli/TCP.md",
-    "Pasted image 20231206121855.png",
-    "Definizioni/Switch.md",
-    "Ethernet.md",
-    "Protocolli MAC/Indirizzo MAC.md",
-    "Protocolli Internet/Stack Protocollare TCP-IP.md",
-    "Protocolli MAC/Accesso Random/CSMA-CD.md",
-    "ARP.md",
-    "a.md",
-    "Pasted image 20231205182324.png",
-    "Pasted image 20231205175405.png",
-    "Pasted image 20231205175201.png",
-    "Pasted image 20231205165745.png",
-    "Pasted image 20231205165127.png",
-    "Indice.md",
-    "Protocolli MAC/Forwarding indiretto.md",
-    "Protocolli MAC/Forwarding diretto.md",
-    "Protocolli MAC/Pacchetto ARP.md",
+    "Definizioni/Information Hiding.md",
+    "Definizioni/Separation of Concern.md",
+    "Definizioni/Interfaccia.md",
+    "Definizioni/Protocollo.md",
+    "Definizioni/Server.md",
+    "Definizioni/Client.md",
+    "Definizioni/Connection-Oriented.md",
+    "Definizioni/Connessione.md",
+    "Definizioni/Connessione persistente.md",
+    "Livello Applicativo/URI.md",
+    "Livello Applicativo/Control Connection.md",
+    "Definizioni/Connessione non persistente.md",
+    "Livello Applicativo/URL.md",
+    "Livello Applicativo/URN.md",
+    "Livello Applicativo/Server Proxy.md",
+    "Definizioni/Incapsulamento dei Dati.md",
+    "Definizioni/Stream.md",
+    "Livello Applicativo/API REST.md",
+    "Definizioni/Content Negotiation.md",
+    "Definizioni/Internet Service Provider (ISP).md",
+    "Definizioni/Idempotenza.md",
+    "Livello Applicativo/Remote Login.md",
+    "Livello Applicativo/Local Login.md",
+    "Livello Applicativo/Cookie.md",
+    "Livello Applicativo/Network Virtual Terminal (NVT).md",
+    "Definizioni/Strato.md",
+    "Livello Applicativo",
+    "Livello Trasporto",
+    "Intro",
+    "Livello di Rete",
+    "Livello Collegamento",
+    "Images/Pasted image 20231206121855.png",
+    "Images/Pasted image 20231205182324.png",
+    "Images/Pasted image 20231205175405.png",
+    "Images/Pasted image 20231205175201.png",
+    "Images/Pasted image 20231205165745.png",
+    "Images/Pasted image 20231205165127.png",
     "Images/Pasted image 20231204165829.png",
     "Images/Pasted image 20231204165434.png",
     "Images/Pasted image 20231204164327.png",
     "Images/Pasted image 20231204164159.png",
-    "Protocolli MAC/Rotazione/Pooling.md",
-    "Definizioni/ICMP.md",
-    "Definizioni/NAT.md",
-    "Protocolli MAC/Rotazione",
-    "Protocolli MAC/Accesso Random",
-    "Protocolli MAC/Suddivisione del canale",
-    "Protocolli MAC",
-    "Protocolli MAC/Suddivisione del canale/TDMA.md",
-    "Definizioni/Indirizzi IPv6.md",
-    "Protocolli MAC/Rotazione/Token Passing.md",
-    "Routing",
-    "CSMA",
-    "Strato di Rete",
-    "Protocollo UDP",
-    "Protocollo TCP",
-    "Concetto di Multiplexing",
+    "Livello Collegamento/Protocolli MAC/Rotazione",
+    "Livello Collegamento/Protocolli MAC/Accesso Random",
+    "Livello Collegamento/Protocolli MAC/Suddivisione del canale",
+    "Livello Collegamento/Protocolli MAC",
+    "Livello Collegamento/Routing",
     "Senza nome.canvas"
   ]
 }
