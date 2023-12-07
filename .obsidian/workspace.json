@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro/Modelli Stratificati.md",
+                "file": "Livello di Rete/Inoltro Diretto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6362282080274700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello di Rete/RIP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro/Modelli Stratificati.md",
+                "file": "Livello di Rete/RIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro/Modelli Stratificati.md",
+                "file": "Livello di Rete/RIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro/Modelli Stratificati.md"
+                "file": "Livello di Rete/RIP.md"
               }
             }
           },
@@ -172,37 +185,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89db4f98b68cf97f",
+  "active": "6362282080274700",
   "lastOpenFiles": [
-    "Intro/Commutazione.md",
-    "Intro/Internet.md",
-    "Intro/World Wide Web.md",
-    "Intro/Metriche.md",
-    "Livello Applicativo/DNS/DNS.md",
-    "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
-    "Livello Applicativo/DNS/Dominio.md",
-    "Livello Applicativo/HTTP/Cookie.md",
-    "Intro/Protocolli Internet/Indirizzare Processi.md",
-    "Intro/Protocolli Internet/Open System Interconnector (OSI).md",
-    "Intro/Protocolli Internet/International Organization for Standards (ISO).md",
-    "Intro/Protocolli Internet/Sistemi Aperti.md",
-    "Intro/Protocolli Internet/Modello a Strati.md",
-    "Intro/Protocolli Internet/Modello ISO-OSI.md",
-    "Intro/Protocolli Internet/Interfaccia socket.md",
-    "Intro/Protocolli Internet/Uso dei servizi di trasporto.md",
-    "Intro/Protocolli Internet/Stack Protocollare TCP-IP.md",
-    "Livello Applicativo/HTTP/Server Proxy.md",
-    "Livello Applicativo/HTTP/API REST.md",
+    "Livello Trasporto/Livello di Trasporto.md",
+    "Livello Trasporto/Concetto di Multiplexing-Demultiplexing.md",
+    "Livello Trasporto/QUIC.md",
+    "Livello Trasporto/Protocollo UDP/UDP.md",
+    "Livello Trasporto/Protocollo UDP/Attacco UDP Amplification.md",
+    "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
+    "Livello Trasporto/Protocollo UDP/Attacco UDP Flood.md",
+    "Livello Trasporto/Protocollo TCP/TCP.md",
+    "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
+    "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
+    "Livello Trasporto/Protocollo TCP/AIMD.md",
+    "Livello di Rete/Datagramma IP.md",
+    "Livello di Rete/Meccanismi IP.md",
+    "Livello di Rete/Forwarding.md",
+    "Livello di Rete/RIP.md",
+    "Livello di Rete/Livello di Rete.md",
+    "Livello di Rete/Protocolli di Routing.md",
+    "Livello di Rete/Indirizzo IP.md",
+    "Livello di Rete/Inoltro Indiretto.md",
+    "Livello di Rete/Indirizzi IPv4.md",
+    "Livello di Rete/Indirizzi IPv6.md",
+    "Livello di Rete/DHCP.md",
+    "Livello di Rete/Instradamento.md",
+    "Livello di Rete/Frammentazione.md",
+    "Livello di Rete/NAT.md",
+    "Livello di Rete/Ping.md",
     "Livello Applicativo/HTTP",
-    "Livello Applicativo/FTP/Data Connection.md",
     "Livello Applicativo/FTP",
-    "Livello Applicativo/FTP/Control Connection.md",
-    "Livello Applicativo/Telnet/Network Virtual Terminal (NVT).md",
-    "Livello Applicativo/Telnet/Secure Shell (SSH).md",
-    "Livello Applicativo/Telnet/Remote Login.md",
     "Livello Applicativo/Telnet",
-    "Livello Applicativo/Telnet/Local Login.md",
-    "Livello Applicativo/Uniform Resource/URN.md",
     "Livello Applicativo/Uniform Resource",
     "Images/Pasted image 20230930152619.png",
     "Images/Pasted image 20230930152247.png",

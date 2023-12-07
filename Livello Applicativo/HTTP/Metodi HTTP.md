@@ -14,4 +14,4 @@ Invece, la differenza tra POST e PUT è che con POST solitamente si usa per crea
 
 Classifichiamo anche i metodi come
 - Metodi Sicuri: cioè che non hanno effetti collaterali come modificare una risorsa e sono GET, HEAD, OPTIONS, TRACE
-- Metodi [[Idempotenza|Idempotenti]]: cioè se n richieste identiche hanno lo stesso effetto di una singola richiesta e sono GET, HEAD, PUT, DELETE, OPTIONS, TRACE
+- Metodi [[Idempotenza|Idempotenti]]: cioè se $n$ richieste identiche hanno lo stesso effetto di una singola richiesta e sono GET, HEAD, PUT, DELETE, OPTIONS, TRACE

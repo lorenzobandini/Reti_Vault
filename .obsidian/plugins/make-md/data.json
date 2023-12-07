@@ -44,14 +44,13 @@
       "Concetto di Multiplexing",
       "Strato di Rete",
       "Livello di Rete/Strato di Rete",
-      "Livello Applicativo",
       "Capitoli",
       "Livello Applicativo/Server DNS",
       "Livello Applicativo/Protocollo HTTP",
-      "Livello Applicativo/FTP",
-      "Livello Applicativo/DNS",
-      "Intro",
-      "Livello Applicativo/Posta"
+      "Livello Applicativo/Posta",
+      "Intro/Singole Metriche",
+      "Livello Applicativo/HTTP",
+      "Livello di Rete"
     ]
   },
   "expandedSpaces": [
@@ -89,7 +88,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701967516754,
+  "spacesAutoBackupLast": 1701969156413,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

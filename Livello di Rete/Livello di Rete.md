@@ -1,4 +1,4 @@
-Responsabile della consegna dei [[Datagramma IP|datagrammi]] tra gli host. Offre servizi allo [[strato di trasporto]] e utilizza i servizi dello strato collegamento.
+Responsabile della consegna dei [[Datagramma IP|datagrammi]] tra gli host. Offre servizi allo [[Livello di Trasporto]] e utilizza i servizi dello strato collegamento.
 
 La comunicazione a livello di rete avviene con:
 1. L'entità a livello di rete riceve i segmenti dal livello di trasporto nell'host mittente e incapsula i segmenti in datagrammi
