@@ -18,8 +18,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "841eb7b0563ef2de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd0ed1241c5958a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strato di Rete/Datagramma IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "262c7cd11452cb3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocollo TCP/Segmento TCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0a05928bbaeaea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/FTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62708513ff2fa993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/UDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ca6133ef446721b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocollo UDP/Datagramma UDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Livello Collegamento.md",
+                "file": "Capitoli/FTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Livello Collegamento.md",
+                "file": "Capitoli/FTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Livello Collegamento.md"
+                "file": "Capitoli/FTP.md"
               }
             }
           },
@@ -173,14 +246,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1992824f3ac00181",
+  "active": "d0a05928bbaeaea8",
   "lastOpenFiles": [
-    "Capitoli/TCP.md",
-    "Capitoli/Livello Collegamento.md",
+    "Protocollo TCP/Segmento TCP.md",
+    "Capitoli/UDP.md",
+    "Protocollo UDP/Datagramma UDP.md",
+    "Strato di Rete/Datagramma IP.md",
     "VLAN.md",
+    "Protocolli MAC/Protocolli MAC.md",
+    "Capitoli/Livello Collegamento.md",
+    "Capitoli/TCP.md",
     "Pasted image 20231206121855.png",
     "Definizioni/Switch.md",
-    "Protocolli MAC/Protocolli MAC.md",
     "Ethernet.md",
     "Protocolli MAC/Indirizzo MAC.md",
     "Protocolli Internet/Stack Protocollare TCP-IP.md",
@@ -211,9 +288,6 @@
     "Definizioni/Indirizzi IPv6.md",
     "Protocolli MAC/Rotazione/Token Passing.md",
     "Protocolli MAC/Accesso Random/CSMA.md",
-    "Protocolli MAC/Accesso Random/ALOHA.md",
-    "Protocolli MAC/Suddivisione del canale/FDMA.md",
-    "Routing/OSPF.md",
     "Routing",
     "CSMA",
     "Strato di Rete",
