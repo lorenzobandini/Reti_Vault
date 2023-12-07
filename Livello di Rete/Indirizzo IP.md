@@ -29,7 +29,7 @@ Un indirizzo IP può essere attribuito all'interfaccia di un host secondo due di
 
 Ora che abbiamo dato l'indirizzo IP al nostro host, ogni [[Datagramma IP]] è soggetto a "forwarding" da parte dell'host di origine e del router che sta attraversando causando:
 - inoltro di un pacchetto verso l'uscita
-- [[Inoltro Diretto]] o [[Inoltro Indiretto]]
+- [[Forwarding Diretto IP]] o [[Forwarding Indiretto IP]]
 
 Si osserva come, sia nell'inoltro diretto che in quello indiretto, le condizioni necessarie perché tutto funzioni sono che:
 - Esista un cammino (funzionante e) diretto, a livello data-link, tra tutti gli host che appartengono ad una stessa sottorete.

@@ -50,7 +50,12 @@
       "Livello Applicativo/Posta",
       "Intro/Singole Metriche",
       "Livello Applicativo/HTTP",
-      "Livello di Rete"
+      "Livello di Rete",
+      "Livello Collegamento/Routing",
+      "Livello di Rete/Routing/Routing",
+      "Definizioni",
+      "Livello Collegamento",
+      "Livello Collegamento/Protocolli MAC"
     ]
   },
   "expandedSpaces": [
@@ -88,7 +93,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701969156413,
+  "spacesAutoBackupLast": 1701971383465,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

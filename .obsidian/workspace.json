@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7220681ce6a7c8",
+        "id": "ab4ac8c9f9094688",
         "type": "tabs",
         "children": [
           {
-            "id": "12ee41d43fcc11ba",
+            "id": "70d7deae56082214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello di Rete/Inoltro Diretto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6362282080274700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello di Rete/RIP.md",
+                "file": "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello di Rete/RIP.md",
+                "file": "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello di Rete/RIP.md",
+                "file": "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello di Rete/RIP.md"
+                "file": "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md"
               }
             }
           },
@@ -185,8 +172,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6362282080274700",
+  "active": "70d7deae56082214",
   "lastOpenFiles": [
+    "Livello Collegamento/Protocolli MAC/Forwarding indiretto MAC.md",
+    "Livello di Rete/Forwarding Indiretto IP.md",
+    "Livello di Rete/Forwarding Diretto IP.md",
+    "Livello di Rete/Inoltro.md",
+    "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
+    "Livello di Rete/Indirizzo IP.md",
+    "Livello di Rete/Routing/OSPF.md",
+    "Livello di Rete/Traceroute.md",
+    "Livello di Rete/Frammentazione.md",
+    "Livello di Rete/Internet Protocol.md",
+    "Livello di Rete/Livello di Rete.md",
+    "Livello di Rete/Routing/Routing.md",
+    "Livello di Rete/Routing/Protocolli di Routing.md",
+    "Livello di Rete/Routing/RIP.md",
+    "Livello di Rete/Routing",
     "Livello Trasporto/Livello di Trasporto.md",
     "Livello Trasporto/Concetto di Multiplexing-Demultiplexing.md",
     "Livello Trasporto/QUIC.md",
@@ -199,20 +201,6 @@
     "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
     "Livello Trasporto/Protocollo TCP/AIMD.md",
     "Livello di Rete/Datagramma IP.md",
-    "Livello di Rete/Meccanismi IP.md",
-    "Livello di Rete/Forwarding.md",
-    "Livello di Rete/RIP.md",
-    "Livello di Rete/Livello di Rete.md",
-    "Livello di Rete/Protocolli di Routing.md",
-    "Livello di Rete/Indirizzo IP.md",
-    "Livello di Rete/Inoltro Indiretto.md",
-    "Livello di Rete/Indirizzi IPv4.md",
-    "Livello di Rete/Indirizzi IPv6.md",
-    "Livello di Rete/DHCP.md",
-    "Livello di Rete/Instradamento.md",
-    "Livello di Rete/Frammentazione.md",
-    "Livello di Rete/NAT.md",
-    "Livello di Rete/Ping.md",
     "Livello Applicativo/HTTP",
     "Livello Applicativo/FTP",
     "Livello Applicativo/Telnet",
@@ -232,7 +220,6 @@
     "Intro",
     "Livello di Rete",
     "Livello Collegamento",
-    "Livello Collegamento/Protocolli MAC/Rotazione",
     "Senza nome.canvas"
   ]
 }

@@ -19,5 +19,5 @@ La risposta ARP è inviata in unicast
 ![[Pasted image 20231204165829.png]]
 
 Per l'inoltro pacchetti è possibile utilizzare:
-- [[Forwarding diretto]]
-- [[Forwarding indiretto]]
+- [[Forwarding diretto MAC]]
+- [[Forwarding indiretto MAC]]
