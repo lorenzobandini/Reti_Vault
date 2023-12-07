@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/TCP.md",
+                "file": "Capitoli/Livello Collegamento.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/TCP.md",
+                "file": "Capitoli/Livello Collegamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/TCP.md",
+                "file": "Capitoli/Livello Collegamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/TCP.md"
+                "file": "Capitoli/Livello Collegamento.md"
               }
             }
           },
@@ -176,6 +175,7 @@
   },
   "active": "1992824f3ac00181",
   "lastOpenFiles": [
+    "Capitoli/TCP.md",
     "Capitoli/Livello Collegamento.md",
     "VLAN.md",
     "Pasted image 20231206121855.png",
@@ -184,7 +184,6 @@
     "Ethernet.md",
     "Protocolli MAC/Indirizzo MAC.md",
     "Protocolli Internet/Stack Protocollare TCP-IP.md",
-    "Capitoli/TCP.md",
     "Protocolli MAC/Accesso Random/CSMA-CD.md",
     "ARP.md",
     "a.md",
