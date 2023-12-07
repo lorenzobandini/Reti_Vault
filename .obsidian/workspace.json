@@ -11,9 +11,11 @@
             "id": "12ee41d43fcc11ba",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20230930152619.png"
+                "file": "Intro/Modelli Stratificati.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230930152619.png",
+                "file": "Intro/Modelli Stratificati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230930152619.png",
+                "file": "Intro/Modelli Stratificati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20230930152619.png"
+                "file": "Intro/Modelli Stratificati.md"
               }
             }
           },
@@ -157,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,6 +174,37 @@
   },
   "active": "89db4f98b68cf97f",
   "lastOpenFiles": [
+    "Intro/Commutazione.md",
+    "Intro/Internet.md",
+    "Intro/World Wide Web.md",
+    "Intro/Metriche.md",
+    "Livello Applicativo/DNS/DNS.md",
+    "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
+    "Livello Applicativo/DNS/Dominio.md",
+    "Livello Applicativo/HTTP/Cookie.md",
+    "Intro/Protocolli Internet/Indirizzare Processi.md",
+    "Intro/Protocolli Internet/Open System Interconnector (OSI).md",
+    "Intro/Protocolli Internet/International Organization for Standards (ISO).md",
+    "Intro/Protocolli Internet/Sistemi Aperti.md",
+    "Intro/Protocolli Internet/Modello a Strati.md",
+    "Intro/Protocolli Internet/Modello ISO-OSI.md",
+    "Intro/Protocolli Internet/Interfaccia socket.md",
+    "Intro/Protocolli Internet/Uso dei servizi di trasporto.md",
+    "Intro/Protocolli Internet/Stack Protocollare TCP-IP.md",
+    "Livello Applicativo/HTTP/Server Proxy.md",
+    "Livello Applicativo/HTTP/API REST.md",
+    "Livello Applicativo/HTTP",
+    "Livello Applicativo/FTP/Data Connection.md",
+    "Livello Applicativo/FTP",
+    "Livello Applicativo/FTP/Control Connection.md",
+    "Livello Applicativo/Telnet/Network Virtual Terminal (NVT).md",
+    "Livello Applicativo/Telnet/Secure Shell (SSH).md",
+    "Livello Applicativo/Telnet/Remote Login.md",
+    "Livello Applicativo/Telnet",
+    "Livello Applicativo/Telnet/Local Login.md",
+    "Livello Applicativo/Uniform Resource/URN.md",
+    "Livello Applicativo/Uniform Resource",
+    "Images/Pasted image 20230930152619.png",
     "Images/Pasted image 20230930152247.png",
     "Images/Pasted image 20230927115422.png",
     "Images/Pasted image 20230926151915.png",
@@ -181,43 +214,12 @@
     "Images/Schermata 2023-10-08 alle 20.19.18.png",
     "Images/Pasted image 20231015143237.png",
     "Images/Pasted image 20231015143212.png",
-    "Images/Pasted image 20231015140748.png",
-    "Images/Pasted image 20231015135251.png",
-    "Capitoli/FTP.md",
-    "Livello Applicativo/Data Connection.md",
-    "Livello Applicativo/Control Connection.md",
-    "Definizioni/Idempotenza.md",
-    "Livello Applicativo/Protocollo HTTP/Pipelining.md",
-    "Definizioni/Information Hiding.md",
-    "Definizioni/Separation of Concern.md",
-    "Definizioni/Interfaccia.md",
-    "Definizioni/Protocollo.md",
-    "Definizioni/Server.md",
-    "Definizioni/Client.md",
-    "Definizioni/Connection-Oriented.md",
-    "Definizioni/Connessione.md",
-    "Definizioni/Connessione persistente.md",
-    "Livello Applicativo/URI.md",
-    "Definizioni/Connessione non persistente.md",
-    "Livello Applicativo/URL.md",
-    "Livello Applicativo/URN.md",
-    "Livello Applicativo/Server Proxy.md",
-    "Definizioni/Incapsulamento dei Dati.md",
-    "Definizioni/Stream.md",
-    "Livello Applicativo/API REST.md",
-    "Definizioni/Content Negotiation.md",
-    "Definizioni/Internet Service Provider (ISP).md",
-    "Livello Applicativo/Remote Login.md",
     "Livello Applicativo",
     "Livello Trasporto",
     "Intro",
     "Livello di Rete",
     "Livello Collegamento",
     "Livello Collegamento/Protocolli MAC/Rotazione",
-    "Livello Collegamento/Protocolli MAC/Accesso Random",
-    "Livello Collegamento/Protocolli MAC/Suddivisione del canale",
-    "Livello Collegamento/Protocolli MAC",
-    "Livello Collegamento/Routing",
     "Senza nome.canvas"
   ]
 }
