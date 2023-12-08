@@ -6,106 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Capitoli  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "file:\"Indice\"",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:Definizioni  ",
-      "color": {
-        "a": 1,
-        "rgb": 4015078
-      }
-    },
-    {
-      "query": "path:Network  ",
-      "color": {
-        "a": 1,
-        "rgb": 8684254
-      }
-    },
-    {
-      "query": "path:\"Reti a commutazione\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3401386
-      }
-    },
-    {
-      "query": "path:\"Singole Metriche\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6144267
-      }
-    },
-    {
-      "query": "path:\"Protocolli Internet\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 1711979
-      }
-    },
-    {
-      "query": "path:\"Protocollo HTTP\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11141375
-      }
-    },
-    {
-      "query": "path:\"Metodi HTTP\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 29954
-      }
-    },
-    {
-      "query": "path:Posta  ",
-      "color": {
-        "a": 1,
-        "rgb": 8223722
-      }
-    },
-    {
-      "query": "path:\"Server DNS\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12362609
-      }
-    },
-    {
-      "query": "path:\"Protocollo TCP\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11206400
-      }
-    },
-    {
-      "query": "path:\"Protocollo UDP\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5393152
-      }
-    },
-    {
-      "query": "file:\"README\"",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -116,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2718871219780354,
-  "close": false
+  "scale": 0.2469020462603533,
+  "close": true
 }

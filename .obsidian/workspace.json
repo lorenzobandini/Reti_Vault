@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe9b4189289b4be",
+        "id": "c8116b32c7fdcc82",
         "type": "tabs",
         "children": [
           {
-            "id": "d81e192827206a51",
+            "id": "748863d5d4500a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello di Rete/Livello di Rete.md",
+                "file": "Intro/Protocolli Internet/Uso dei servizi di trasporto.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,9 +94,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello di Rete/Livello di Rete.md",
+                "file": "Intro/Protocolli Internet/Uso dei servizi di trasporto.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello di Rete/Livello di Rete.md",
+                "file": "Intro/Protocolli Internet/Uso dei servizi di trasporto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello di Rete/Livello di Rete.md"
+                "file": "Intro/Protocolli Internet/Uso dei servizi di trasporto.md"
               }
             }
           },
@@ -172,36 +172,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d81e192827206a51",
+  "active": "748863d5d4500a3a",
   "lastOpenFiles": [
-    "Livello di Rete/Inoltro.md",
-    "Livello di Rete/Livello di Rete.md",
+    "Intro/Protocolli Internet/Percorso dati TCP-IP.md",
+    "Intro/Protocolli Internet/Sistemi Aperti.md",
+    "Intro/Protocolli Internet/Uso dei servizi di trasporto.md",
+    "Intro/Protocolli Internet/Sistemi Chiusi.md",
+    "Intro/Protocolli Internet/Modelli Stratificati.md",
+    "Intro/Internet.md",
+    "Indice.md",
+    "README.md",
     "Livello di Rete/NAT.md",
     "Livello di Rete/ICMP.md",
-    "Livello di Rete/Traceroute.md",
-    "Livello di Rete/Internet Protocol/Frammentazione.md",
-    "Livello di Rete/Routing/Algoritmo Link-State.md",
-    "Livello di Rete/Internet Protocol/Classless Adressing.md",
-    "Livello di Rete/Internet Protocol/Forwarding Diretto IP.md",
-    "Livello di Rete/Internet Protocol/DHCP.md",
-    "Livello di Rete/Internet Protocol",
-    "Livello di Rete/Internet Protocol/Internet Protocol.md",
-    "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
-    "Livello Collegamento/Protocolli MAC/Forwarding indiretto MAC.md",
-    "Livello di Rete/Internet Protocol/Forwarding Indiretto IP.md",
-    "Livello di Rete/Internet Protocol/Indirizzo IP.md",
-    "Livello di Rete/Routing/OSPF.md",
-    "Livello di Rete/Routing/Routing.md",
-    "Livello di Rete/Routing/Protocolli di Routing.md",
-    "Livello di Rete/Routing/RIP.md",
-    "Livello di Rete/Routing",
-    "Livello Trasporto/Livello di Trasporto.md",
     "Livello Trasporto/Concetto di Multiplexing-Demultiplexing.md",
+    "Livello Trasporto/Livello di Trasporto.md",
     "Livello Trasporto/QUIC.md",
-    "Livello Trasporto/Protocollo UDP/UDP.md",
-    "Livello Trasporto/Protocollo UDP/Attacco UDP Amplification.md",
-    "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
-    "Livello Trasporto/Protocollo UDP/Attacco UDP Flood.md",
+    "Livello Collegamento/VLAN.md",
+    "Livello Collegamento/Ethernet.md",
+    "Livello Collegamento/Protocolli MAC/Pacchetto ARP.md",
+    "Livello Collegamento/Protocolli MAC/Forwarding indiretto MAC.md",
+    "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
+    "Livello Collegamento/Protocolli MAC/Indirizzo MAC.md",
+    "Livello di Rete/Traceroute.md",
+    "Livello di Rete/Ping.md",
+    "Livello di Rete/Forwarding.md",
+    "Livello di Rete/Livello di Rete.md",
+    "Livello di Rete/Routing/Algoritmo Distance Vector.md",
+    "Livello di Rete/Routing/OSPF.md",
+    "Livello di Rete/Routing/BGP.md",
+    "Livello di Rete/Internet Protocol",
+    "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",
     "Livello Applicativo/FTP",
     "Livello Applicativo/Telnet",

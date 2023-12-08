@@ -16,19 +16,19 @@ Le differenze principali con il livello di trasporto sono:
 Le funzioni fondamentali del livello di rete sono:
 - Suddivisione in pacchetti
 - [[Routing]] (Instradamento)
-- Forwarding ([[Inoltro]])
+- Forwarding ([[Forwarding]])
 
 Per implementare queste funzioni bisogna implementare dei [[Meccanismi IP]].
 
 Le caratteristiche dello strato di rete sono:
-- Interconnessione di reti eterogenee: offre un'astrazione che consente a host e reti eterogenee di funzionare dal punto di vista logico come una singola rete
+- Interconnessione di reti eterogenee: offre un'astrazione che consente a host e reti eterogenee di funzionare dal punto di vista logico come una singola rete. La traduzione tra indirizzi IP di una rete privata a quella pubblica è effettuata attraverso [[NAT]].
 - Modello a clessidra: innovazione possibile nei livelli sottostanti e nei livelli superiori
 
 ![[Pasted image 20231122115824.png]]
 
 Questo modello continua a evolversi con le nuove tecnologie e le esigenze crescenti delle reti di comunicazione.
 
-Il protocollo usato è l'[[Internet Protocol]].
+Il protocollo usato è l'[[Internet Protocol]] che non ha sistemi di gestione degli errori che vengono quindi implementati da [[ICMP]].
 
 Inoltre anche a livello di rete si usa il multiplexing per combinare flussi di dati provenienti da diverse sorgenti in un unico canale, utilizzando l'indirizzamento IP e le porte di trasporto e il demultiplexing per separare e indirizzare correttamente i pacchetti in base a tali informazioni, consentendo la comunicazione efficiente tra dispositivi su una rete.
 

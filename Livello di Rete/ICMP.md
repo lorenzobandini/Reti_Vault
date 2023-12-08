@@ -5,7 +5,7 @@ Quando un router o un host di destinazione devono informare il mittente di error
 
 I pacchetti ICMP vengono instradati dai router prima dei pacchetti IP ordinari. Alcune caratteristiche sono:
 - Per pacchetti IP frammentati, i messaggi ICMP sono relativi al solo frammento con offset 0 (il primo frammento).
-- I messaggi ICMP NON sono mai inviati in risposta a pacchetti IP con indirizzo mittente che non rappresenta in modo univoco un host (es. 0.0.0.0, 127.0.0.1) oppure con destinazione IP broadcast o multicast
+- I messaggi ICMP non sono mai inviati in risposta a pacchetti IP con indirizzo mittente che non rappresenta in modo univoco un host (es. 0.0.0.0, 127.0.0.1) oppure con destinazione IP broadcast o multicast
 - I messaggi ICMP non sono mai inviati in risposta a messaggi di errore ICMP, ma possono essere inviati in risposta a messaggi ICMP di interrogazione
 
 I messaggi si distinguono in:
