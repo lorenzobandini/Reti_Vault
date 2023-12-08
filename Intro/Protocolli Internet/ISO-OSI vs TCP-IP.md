@@ -7,3 +7,4 @@
 | alcune funzioni sono presenti in più livelli                                                      | oltre al TCP/IP, presenza di protocolli minori, difficili da rimpiazzare |
 | telco-oriented                                                                                    |                                                                          |
 | i protocolli TCP/IP già in uso non si collocano perfettamente nel modello teorico                 |                                                                          |
+

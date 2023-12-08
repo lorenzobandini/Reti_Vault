@@ -1,4 +1,4 @@
-Sottoalbero dello spazio dei nomi di dominio che viene identificato dal nome di dominio del nodo radice del sottoalbero.
+Sottoalbero dello spazio dei nomi di dominio che viene identificato dal [[nome di dominio]] del nodo radice del sottoalbero.
 Un dominio può essere suddiviso in ulteriori domini, detti sottodomini.
 [[Internet]] è divisa in diverse centinaia di domini, ognuno partizionato in sotto-domini e così via.
 In internet i nomi gerarchici delle macchine sono assegnati in base alla struttura delle organizzazioni che ottengono l'autorità per porzioni dello spazio dei nomi.

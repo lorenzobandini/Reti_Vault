@@ -5,7 +5,7 @@ La sua sintassi è:
 
 - \<user> e \<password> opzionalmente e generalmente deprecate
 - scheme: [[Protocollo]] di accesso alla risorsa ([[HTTP]], HTTPS, FTP, FTPS...)
-- host è il nome di dominio di un host o indirizzo IP in notazione decimale puntata
+- host è il [[nome di dominio]] di un host o indirizzo IP in notazione decimale puntata
 - port è il numero di porta del server. Molti protocolli hanno porte di default (come 80 per http)
 - Path contiene dati specifici per l'host e identifica la risorsa nel contesto di quello schema e host
 

@@ -1,4 +1,4 @@
-Servono per scomporre sistemi complessi in una serie di passi e rendere l'implementazione efficace ed efficiente.
+Servono per scomporre sistemi complessi in una serie di passi e rendere l'implementazione [[efficace]] ed [[efficiente]].
 Ad ogni passo viene eseguito un particolare compito su un messaggio, che viene integrato e trasferito ad un altro agente, seguendo specifiche regole di esecuzione.
 
 I motivi per cui stratifichiamo sono:

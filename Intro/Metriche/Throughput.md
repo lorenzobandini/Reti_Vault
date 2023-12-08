@@ -3,7 +3,7 @@ Throughput e [[Bitrate]] non sono la stessa; il throughput indica la velocità c
 
 Throughput < [[Velocità di trasmissione]]
 
-Dipende dalla velocità di trasmissione del collegamento, dalla quantità di dati, gli effetti dei protocolli, etc...
+Dipende dalla [[velocità di trasmissione]] del collegamento, dalla quantità di dati, gli effetti dei protocolli, etc...
 
 In un percorso da una sorgente a una destinazione un pacchetto può passare attraverso numerosi link, ognuno con throughput diverso. Il throughput dell'intero percorso si calcola con:
 

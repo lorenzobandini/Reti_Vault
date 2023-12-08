@@ -50,7 +50,9 @@
       "Livello Applicativo/Posta",
       "Intro/Singole Metriche",
       "Livello Collegamento/Routing",
-      "Livello di Rete/Routing/Routing"
+      "Livello di Rete/Routing/Routing",
+      "Livello Applicativo",
+      "Livello Applicativo/DNS"
     ]
   },
   "expandedSpaces": [
@@ -88,7 +90,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1702045778330,
+  "spacesAutoBackupLast": 1702047023310,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

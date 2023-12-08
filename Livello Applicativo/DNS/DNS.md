@@ -1,6 +1,6 @@
 Acronimo di Domain Name System, ha come obiettivo di identificare ogni [[Processo]].
 Ogni processo di livello applicativo ha la necessità di individuare il processo omologo con il quale vuole comunicare. Il processo omologo risiede su una particolare macchina remota, anch'essa da individuare ma di cui sappiamo che utilizza lo stesso protocollo.
-Vengono utilizzati [[Nome|Nomi]] e [[Indirizzo IP|Indirizzi]].
+Vengono utilizzati [[Nome di Dominio|Nomi]] e [[Indirizzo IP|Indirizzi]].
 
 Inizialmente l'associazione tra nomi logici e indirizzi IP era statica cioè tutti i nomi logici e relativi indirizzi IP erano contenuti in un file (host file) e periodicamente tutti gli host prelevano una versione aggiornata del file (master host file) da un server ufficiale.
 Però date le dimensioni attuali di [[Internet]], questo approccio è impraticabile poiché non è possibile che ogni host abbia una copia (aggiornata) di un elenco del genere come poteva essere all'inizio delle reti e non è possibile neppure centralizzare un elenco del genere.
