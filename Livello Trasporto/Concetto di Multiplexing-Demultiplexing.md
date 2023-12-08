@@ -6,7 +6,7 @@ Lo strato trasporto provvede anche all'"accorpamento" dei flussi dati dai proces
 
 Le operazioni di multiplexing e demultiplexing si basano sui socket address dei processi. Il socket address è identificato dalla combinazione [[Indirizzo IP]] e numero di [[Porta]].
 
-Il demultiplexing funziona con l'host che riceve il datagramma IP, ogni datagramma ha Indirizzo IP sorgente e Indirizzo IP destinatario e trasportano un segmento del livello di trasporto e un numero di porta sorgente e destinazione contenuti dell'header.
+Il demultiplexing funziona con l'[[host]] che riceve il datagramma IP, ogni datagramma ha Indirizzo IP sorgente e Indirizzo IP destinatario e trasportano un segmento del livello di trasporto e un numero di porta sorgente e destinazione contenuti dell'header.
 
 ![[Pasted image 20231023135527.png]]
 

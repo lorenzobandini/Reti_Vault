@@ -3,7 +3,7 @@ In molte situazioni, un frame di broadcast, viene utilizzato per uno scopo e qui
 Una VLAN è una tecnologia di rete che consente di creare più reti logiche all'interno di una singola rete fisica. Questa suddivisione logica permette di separare gruppi di dispositivi in differenti segmenti di rete, anche se sono fisicamente connessi alla stessa infrastruttura di rete.
 
 Riunisce le stazioni utente e i dispositivi di rete in un unico dominio di broadcast, indipendentemente al segmento fisico della LAN a cui sono collegati.
-Gli host all'interno di una VLAN comunicano tra loro come se fossero tutti connessi e nessun altro allo switch.
+Gli [[host]] all'interno di una VLAN comunicano tra loro come se fossero tutti connessi e nessun altro allo switch.
 
 ![[Pasted image 20231205182324.png]]
 

@@ -15,7 +15,7 @@ Orientato alla connessione: i processi effettuano un [[Handshake TCP]] prima del
 Orientato perché lo stato della connessione risiede sui punti terminali e non sugli elementi intermedi della rete.
 La connessione è vista dagli applicativi come un circuito dedicato, quindi il TCP è capace di fornire servizi del tipo [[Connection-Oriented]] mentre il [[protocollo]] [[Indirizzo IP|IP]] su cui appoggia è in grado di fornire servizi [[Connection-Less]].
 
-Sfrutta una Connessione Full-Duplex: il flusso dati tra due host può avvenire contemporaneamente nelle due direzioni. Le due direzioni sono slegate. Viene istaurata una connessione punto-punto.
+Sfrutta una Connessione Full-Duplex: il flusso dati tra due [[host]] può avvenire contemporaneamente nelle due direzioni. Le due direzioni sono slegate. Viene istaurata una connessione punto-punto.
 
 Tramite il [[Concetto di Multiplexing-Demultiplexing]], TCP è in grado di assegnare una data connessione ad un particolare processo.
 

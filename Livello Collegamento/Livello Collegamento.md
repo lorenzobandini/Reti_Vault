@@ -3,7 +3,7 @@ Il livello collegamento muove i datagrammi da un nodo al nodo adiacente su un si
 ![[Pasted image 20231201143340.png]]
 
 I termini usati sono:
-- Host e Router sono i nodi
+- [[Host]] e [[Router]] sono i nodi
 - Canali di comunicazione che collegano nodi adiacenti lungo un cammino sono collegamenti (link) e possono essere cablati o wireless
 - Unità dati di livello 2 cioè i frame che incapsulano un datagramma
 

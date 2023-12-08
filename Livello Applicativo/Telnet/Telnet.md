@@ -3,7 +3,7 @@ Sta per **TE**rminal **NET**work ed è un [[Protocollo]] di terminale remoto il 
 - Accesso multiplo ad un computer
 
 Invece di offrire [[Server]] specializzati per servizi interattivi, l'approccio consiste nel permettere all'utente di effettuare una sessione di login nella macchina remota e quindi inviare i comandi
-Tramite il login remoto gli utenti hanno accesso ai comandi e programmi disponibili nella macchina remota ma non è un compito semplice, perciò Telnet maschera sia la rete che i sistemi operativi utilizzando un'interfaccia minima, spesso di soli caratteri, ma veloce.
+Tramite il login remoto gli utenti hanno accesso ai comandi e programmi disponibili nella macchina remota ma non è un compito semplice, perciò Telnet maschera sia la rete che i sistemi operativi utilizzando un'[[interfaccia]] minima, spesso di soli caratteri, ma veloce.
 
 Il funzionamento è:
 1. Telnet permette ad un utente su una macchina di stabilire una connessione con un login server remoto
@@ -14,7 +14,7 @@ Tutto ciò facendolo sembrare un servizio trasparente come se l'utente fosse dir
 
 Il modello di Telnet include:
 - Un programma [[Server]] che accetta le richieste
-- Un programma [[Client]] che effettua le richieste interagendo con il terminale utente sull'host locale e scambiando messaggi con il Telnet server
+- Un programma [[Client]] che effettua le richieste interagendo con il terminale utente sull'[[host]] locale e scambiando messaggi con il Telnet server
 
 Il [[protocollo]] Telnet consiste in:
 - Il client stabilisce con il server una connessione [[TCP]]

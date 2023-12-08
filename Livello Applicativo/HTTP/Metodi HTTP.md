@@ -1,4 +1,4 @@
-Operazione che il client richiede venga effettuata sulla risorsa identificata dalla Request - [[URI|URI]].
+Operazione che il [[client]] richiede venga effettuata sulla risorsa identificata dalla Request - [[URI|URI]].
 
 I vari metodi sono:
 - "[[OPTIONS]]"

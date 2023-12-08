@@ -4,7 +4,7 @@ Esistono centinaia di root name servers in tutto il mondo.
 
 La gerarchia dei server è composta da:
 - **Server top-level domain**: mantiene le informazioni dei nomi di dominio che appartengono a un certo TLD e restituisce informazioni sui name server di competenza dei sottodomini
-- **Server di competenza**: autorità per una certa zona, memorizza [[Nome di Dominio]] e [[Indirizzo IP]] di un insieme di host. Può effettuare traduzione nome/indirizzo per quegli host. Per una certa zona ci possono essere [[Server]] di competenza primari e secondari
+- **Server di competenza**: autorità per una certa zona, memorizza [[Nome di Dominio]] e [[Indirizzo IP]] di un insieme di [[host]]. Può effettuare traduzione nome/indirizzo per quegli host. Per una certa zona ci possono essere [[Server]] di competenza primari e secondari
 	- Server primari mantengono il file di zona
 	- Server secondari ricevono il file di zona e offrono il servizio di risoluzione 
 

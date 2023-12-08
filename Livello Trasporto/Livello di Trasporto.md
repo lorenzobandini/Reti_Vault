@@ -1,5 +1,5 @@
 L'obiettivo è realizzare una comunicazione logica fra [[processo|Processi]]
-residenti in host system diversi. Si chiama logico perché è un astrazione per i sistemi applicativi che fanno comunicare i processi come se fossero direttamente collegati.
+residenti in [[host]] system diversi. Si chiama logico perché è un astrazione per i sistemi applicativi che fanno comunicare i processi come se fossero direttamente collegati.
 
 Offre dei servizi allo strato di applicazione che possono trasmettere o ricevere dati mediante uno stile di trasporto che preferisce che possono essere:
 - Sequenza di messaggi singoli

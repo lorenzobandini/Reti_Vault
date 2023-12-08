@@ -6,7 +6,7 @@ Perciò occorre il meccanismo di frammentazione. Se il router riceve un datagram
 Il riassemblaggio viene effettuato dall'entità rete nel sistema terminale (destinazione).
 
 I frammenti possono arrivare fuori ordine e il livello di rete si occupa a ricomporti tramite:
-- Identificatore (16 bit): è associato al datagramma dell'host sorgente. Associato a IP sorgente e IP destinazione identifica quel datagramma in un intervallo di tempo ragionevolmente lungo. I frammenti di quel datagramma mantengono il valore di questo campo. il destinatario riconosce i frammenti che vanno assemblati insieme.
+- Identificatore (16 bit): è associato al datagramma dell'[[host]] sorgente. Associato a IP sorgente e IP destinazione identifica quel datagramma in un intervallo di tempo ragionevolmente lungo. I frammenti di quel datagramma mantengono il valore di questo campo. il destinatario riconosce i frammenti che vanno assemblati insieme.
 - Offset (13 bit): indica la posizione relativa come multiplo di 8 byte. Serve ad ordinare i frammenti nell'assemblaggio. I frammenti devono essere multipli di 8 byte e il primo frammento ha offset 0.
 - Flag (3 bit): serve per indicare l'ultimo frammento
 	- il bit 0 è riservato e consideriamo sia sempre 0

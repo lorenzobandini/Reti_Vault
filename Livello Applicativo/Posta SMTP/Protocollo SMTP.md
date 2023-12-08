@@ -17,7 +17,7 @@ Alcuni comandi sono:
 - \<CRLF\>.\<CRLF\> (per determinare la fine di un messaggio)
 
 La struttura di un messaggio mail è composta da:
-- Linee intestazione (come To: , From: , Subject: , diversi dai comandi SMTP)
+- Linee intestazione (come To: , From: , Subject: , diversi dai comandi [[SMTP]])
 - Linea vuota
 - Body: che contiene l'effettivo messaggio con solamente caratteri ASCII a 7 bit.
 

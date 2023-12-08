@@ -1,6 +1,6 @@
 Insieme di coppie (nome: valore) che specificano alcuni parametri del messaggio trasmesso o ricevuto.
 Ne esistono di vari tipi:
-- General Header: relativi alla connessione
+- General Header: relativi alla [[connessione]]
 - Entity Header:  informazioni relative all'entità tramessa:
 	- Content-Base: [[URI]] assoluta da usare per risolvere le [[URL]] relative contenute nell'entity body
 	- Content-Encoding: codifica dell'entity body

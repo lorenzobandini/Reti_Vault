@@ -3,7 +3,7 @@ Si tratta di una gerarchia di protocolli, ciascuno dei quali fornisce funzionali
 Il termine gerarchia significa che ciascun [[protocollo]] di livello superiore è supportato dai servizi forniti dai protocolli di livello inferiore.
 Definita in origine in termini di quattro livelli software soprastanti a un livello hardware, la pila TCP/IP è oggi intesa come composta di cinque livelli:
 - **Applicazione**: supporta le applicazioni di rete, collegamento logico end-to-end: scambio di messaggi tra due [[Processo|Processi]].
-- **Trasporto**: trasferimento dati end-to-end (da un host sorgente all’host destinatario)
+- **Trasporto**: trasferimento dati end-to-end (da un [[host]] sorgente all’host destinatario)
 - **Rete**: instradamento dei datagrammi dalla sorgente alla destinazione
 - **Link**: trasferimento dati in frame attraverso il collegamento tra elementi di dati vicino
 - **Fisico**: trasferimenti dei bit di un frame sul mezzo trasmissivo

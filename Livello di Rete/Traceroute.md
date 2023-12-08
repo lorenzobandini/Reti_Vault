@@ -7,7 +7,7 @@ Traceroute è implementato con l'uso del [[protocollo]] [[UDP]], si invia un dat
 
 Invio di $n +1$ datagrammi UDP (n numero di router nel percorso) con valori di TTL crescenti.
 Quando TTL=0 il router invia un messaggio di errore di tempo scaduto.
-Il messaggio di errore inviato dall’host destinazione è port unreachable.
+Il messaggio di errore inviato dall’[[host]] destinazione è port unreachable.
 
 Il programma traceroute imposta inoltre un timer per trovare il RTT di ciascun router e della destinazione.
 La maggior parte dei programmi traceroute invia tre messaggi a ogni dispositivo, con lo stesso valore di TTL, per poter effettuare una stima migliore del tempo di round-trip.

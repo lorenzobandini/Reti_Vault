@@ -3,8 +3,8 @@ Il servizio di posta elettronica si basa su componenti intermediare per trasferi
 
 Il sistema è composto da:
 - **User Agent**: un programma che consente di gestire la composizione e l'organizzazione di messaggi di posta elettronica da parte dell'utente come ad esempio Outlook, Thunderbird...
-- **[[Mail Server]]**: gestiscono i messaggi in entrata ed uscita tra user e li archiviano sul server. Hanno delle mailbox (Cassette di Posta) con i messaggi che ancora devono essere letti dall'utente e una coda di messaggi in uscita, cioè che devono essere inviati
-- **Protocollo SMTP**: regola il dialogo tra mail server dove "client" è il mail server che invia e "server" è il mail server che riceve
+- **[[Mail Server]]**: gestiscono i messaggi in entrata ed uscita tra user e li archiviano sul [[server]]. Hanno delle mailbox (Cassette di Posta) con i messaggi che ancora devono essere letti dall'utente e una coda di messaggi in uscita, cioè che devono essere inviati
+- **[[Protocollo SMTP]]**: regola il dialogo tra [[mail server]] dove "[[client]]" è il mail server che invia e "server" è il mail server che riceve
 
 Il destinatario è identificato da un [[Indirizzo Email]]
 

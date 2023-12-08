@@ -5,7 +5,7 @@ dove TTL (Time-To-Live) indica dopo quanto la risorsa dovrà essere rimossa dall
 Alcuni esempi:
 - Type = A
 	- Nome: Hostname
-	- Valore: Indirizzo IP
+	- Valore: [[Indirizzo IP]]
 - Type = NS
 	- Nome: [[Nome di dominio]]
 	- Valore: Hostname dell'authoritative name server per quel dominio

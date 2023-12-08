@@ -1,6 +1,6 @@
-Acronimo di File Transfer Protocol, serve per il trasferimento file a/da un host remoto e segue il modello [[Client-Server]] dove:
+Acronimo di File Transfer Protocol, serve per il trasferimento file a/da un [[host]] remoto e segue il modello [[Client-Server]] dove:
 - [[Client]]: il lato che richiede il trasferimento
-- [[Server]]: host remoto
+- [[Server]]: [[host]] remoto
 
 ![[Pasted image 20231018152047.png]]
 

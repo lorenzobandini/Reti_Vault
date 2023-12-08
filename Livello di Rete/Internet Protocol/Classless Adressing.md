@@ -1,4 +1,4 @@
-Il Classless Adressing, noto anche come CIDR (Classless Inter-Domain Routing), è un sistema di assegnazione degli indirizzi IP che invece di assegnare automaticamente un blocco di indirizzi IP basato sulla classe della rete, CIDR consente di assegnare una "maschera di rete" che indica quanti bit dell'indirizzo IP rappresentano la rete stessa. La notazione CIDR usa il formato "indirizzo IP/maschera di rete", dove la maschera di rete indica quanti bit sono dedicati alla parte di rete e quanti alla parte di host.
+Il Classless Adressing, noto anche come CIDR (Classless Inter-Domain Routing), è un sistema di assegnazione degli indirizzi IP che invece di assegnare automaticamente un blocco di indirizzi IP basato sulla classe della rete, CIDR consente di assegnare una "maschera di rete" che indica quanti bit dell'indirizzo IP rappresentano la rete stessa. La notazione CIDR usa il formato "indirizzo IP/maschera di rete", dove la maschera di rete indica quanti bit sono dedicati alla parte di rete e quanti alla parte di [[host]].
 
 ![[Pasted image 20231124143006.png]]
 

@@ -30,5 +30,5 @@ Questa attività, essendo redditizia avrà dei concorrenti, ognuno con il propri
 Per far comunicare due [[Internet Service Provider (ISP)]] vengono usati dei peering link che accettano e inoltrano il traffico tra i due.
 I peering link possono essere a loro volta degli [[Internet eXchange Point (IXP)]].
 Tra gli [[Internet Service Provider (ISP)]] e i hosts spesso vengono usati dei Regional Isp per mediare la comunicazione.
-Quindi il sistema di Internet diventa una rete dove al centro abbiamo delle reti molto connesse che poi si diramano fino a raggiungere ogni host.
+Quindi il sistema di Internet diventa una rete dove al centro abbiamo delle reti molto connesse che poi si diramano fino a raggiungere ogni [[host]].
 

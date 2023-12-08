@@ -3,7 +3,7 @@ SMTP è indipendente dal sistema di trasmissione usato e richiede solo il trasfe
 Una caratteristica di SMTP è la capacità di trasportare mail attraverso più reti. Un messaggio di mail può passare attraverso server intermedi nel percorso da mittente a destinatario finale
 
 Quando un client SMTP vuole trasferire un messaggio, stabilisce un canale di trasmissione bidirezionale con un server SMTP. La responsabilità di un [[Client]] è di trasferire la mail a un server SMTP, o comunicare un eventuale insuccesso (scambio formale di responsabilità).
-Un client SMTP determina l’indirizzo di un host appropriato che ospita un server SMTP risolvendo il nome della destinazione in un indirizzo del mail server destinazione.
+Un client SMTP determina l’indirizzo di un [[host]] appropriato che ospita un server SMTP risolvendo il nome della destinazione in un indirizzo del mail server destinazione.
 La risoluzione di nome in indirizzo IP del mail server destinatario avviene attraverso il DNS.
 
 ![[Pasted image 20231015135251.png]]

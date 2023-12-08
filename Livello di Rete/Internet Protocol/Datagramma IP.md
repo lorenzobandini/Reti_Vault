@@ -15,7 +15,7 @@ I campi sono:
 - **Lunghezza del datagramma (16 bit)**: è la lunghezza di tutto il datagramma in byte, header incluso. (Dim. MAX = 65535)
 - **Identificatore, flag, offset (32 bit)**: sono campi per la [[frammentazione]]
 - **Tempo di vita (8 bit)**: ad ogni passaggio da router viene decrementato, quando raggiunge lo zero viene scartato. Assicura che eventuali percorsi ad anello non provochino traffico perpetuo nella rete
-- **Protocollo di trasporto(8 bit)**: in ricezione all'host destinatario indica quale protocollo dello strato superiore deve ricevere i dati.
+- **Protocollo di trasporto(8 bit)**: in ricezione all'[[host]] destinatario indica quale protocollo dello strato superiore deve ricevere i dati.
 - **Checksum dell'intestazione (16 bit)**: viene calcolato il checksum della sola intestazione ad ogni router. Se si ottiene un errore si scarta il datagramma.
 - **Indirizzi sorgente (32 bit)**: indirizzo IP del mittente
 - **Indirizzo destinazione (32 bit)**: indirizzo IP del destinatario

@@ -9,7 +9,7 @@ Il numero di sequenza, numero di riscontro e la finestra permettono il **flow co
 In particolare:
 - [[Porta]] (16 bit): numeri di porta della comunicazione
 - **Numero di sequenza** (32 bit): è il numero di sequenza nello stream del primo byte di dati di questo segmento. Se il flag $SYN$ è settato, il numero di sequenza è $ISN$ (Initial Sequence Number) e il primo byte di dati è $ISN+1$
-- **Numero di riscontro** (32 bit): se il bit $ACK$ è settato, questo campo contiene il valore del prossimo numero di sequenza che il mittente del segmento si aspetta di ricevere dall'altro host. Una volta che la connessione è stabilita è sempre inviato.
+- **Numero di riscontro** (32 bit): se il bit $ACK$ è settato, questo campo contiene il valore del prossimo numero di sequenza che il mittente del segmento si aspetta di ricevere dall'altro [[host]]. Una volta che la connessione è stabilita è sempre inviato.
 - **HLEN** (4Bit): lunghezza dell'header TCP espressa in parole da 4 byte (la lunghezza dell'header può variare tra 20 e 60 byte)
 - **Bit codice** sono 6 flag e servono per:
 	- **URG**: il campo Puntatore Urgente è significativo e ci sono dati da trasferire in via prioritaria

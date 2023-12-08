@@ -1,8 +1,8 @@
 Acronimo di Domain Name System, ha come obiettivo di identificare ogni [[Processo]].
-Ogni processo di livello applicativo ha la necessità di individuare il processo omologo con il quale vuole comunicare. Il processo omologo risiede su una particolare macchina remota, anch'essa da individuare ma di cui sappiamo che utilizza lo stesso protocollo.
+Ogni processo di [[livello applicativo]] ha la necessità di individuare il processo omologo con il quale vuole comunicare. Il processo omologo risiede su una particolare macchina remota, anch'essa da individuare ma di cui sappiamo che utilizza lo stesso protocollo.
 Vengono utilizzati [[Nome di Dominio|Nomi]] e [[Indirizzo IP|Indirizzi]].
 
-Inizialmente l'associazione tra nomi logici e indirizzi IP era statica cioè tutti i nomi logici e relativi indirizzi IP erano contenuti in un file (host file) e periodicamente tutti gli host prelevano una versione aggiornata del file (master host file) da un server ufficiale.
+Inizialmente l'associazione tra nomi logici e indirizzi IP era statica cioè tutti i nomi logici e relativi indirizzi IP erano contenuti in un file (host file) e periodicamente tutti gli [[host]] prelevano una versione aggiornata del file (master host file) da un server ufficiale.
 Però date le dimensioni attuali di [[Internet]], questo approccio è impraticabile poiché non è possibile che ogni host abbia una copia (aggiornata) di un elenco del genere come poteva essere all'inizio delle reti e non è possibile neppure centralizzare un elenco del genere.
 Si utilizza pertanto il DNS.
 
@@ -26,7 +26,7 @@ La conversione da nome di [[Dominio]] a [[Indirizzo IP]] viene gestita da dei [[
 
 
 Il DNS è un database distribuito di [[Record DNS]].
-Il comando `dig` (domain information groper) è uno strumento per interrogare il DNS name servers 
+Il comando `dig` (domain information groper) è uno strumento per interrogare il DNS [[name servers]] 
 ```dns
 [dig @server name type]
 

@@ -1,4 +1,4 @@
-Pacchetti di dati che vengono scambiati utilizzando [[UDP]] sulla porta 53 tra i client [[DNS]] e i server DNS per la risoluzione dei nomi di dominio (è permesso anche l'uso di [[TCP]] per messaggi di grandi dimensioni e trasferimenti tra server DNS).
+Pacchetti di dati che vengono scambiati utilizzando [[UDP]] sulla [[porta]] 53 tra i [[client]] [[DNS]] e i [[server]] DNS per la risoluzione dei nomi di [[dominio]] (è permesso anche l'uso di [[TCP]] per messaggi di grandi dimensioni e trasferimenti tra server DNS).
 Possono essere messaggi di query o di reply e mantengono lo stesso formato.
 Ha un header in cui sono contenuti:
 - identification: 16 bit di identificazione per una query e per la reply ad una query con lo stesso identificatore

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2033f096214c8f94",
+        "id": "588fa34038f68a2b",
         "type": "tabs",
         "children": [
           {
-            "id": "8ab89fb2eab3a632",
+            "id": "751df4e0552e6898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Applicativo/DNS/Gerarchia dei Server.md",
+                "file": "Livello Applicativo/FTP/FTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Applicativo/DNS/Gerarchia dei Server.md",
+                "file": "Livello Applicativo/FTP/FTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Applicativo/DNS/Gerarchia dei Server.md",
+                "file": "Livello Applicativo/FTP/FTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Applicativo/DNS/Gerarchia dei Server.md"
+                "file": "Livello Applicativo/FTP/FTP.md"
               }
             }
           },
@@ -154,13 +154,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,34 +171,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ab89fb2eab3a632",
+  "active": "751df4e0552e6898",
   "lastOpenFiles": [
-    "Definizioni/Nome di Dominio.md",
-    "Livello Applicativo/DNS/Record DNS.md",
-    "Livello Applicativo/DNS/Messaggi DNS.md",
-    "Livello Applicativo/DNS/Gerarchia dei Server.md",
-    "Intro/Network/World Wide Web.md",
-    "Intro/Network/Rete GARR.md",
-    "Intro/Network/Metropolitan Area Network (MAN).md",
-    "Intro/Network/Wide Area Network (WAN).md",
-    "Intro/Network/LAN.md",
-    "Intro/Reti a commutazione/Commutazione.md",
-    "Intro/Reti a commutazione/Time Division Multiplexing (TDM).md",
-    "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
-    "Definizioni/Commutatore.md",
-    "Intro/Reti a commutazione/Frequency Division Multiplexing (FDM).md",
-    "Intro/Reti a commutazione/Reti a commutazione di circuito.md",
-    "Intro/Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
-    "Intro/Protocolli Internet/Sistemi Chiusi.md",
-    "Intro/Protocolli Internet/Modelli Stratificati.md",
-    "Intro/Protocolli Internet/Uso dei servizi di trasporto.md",
-    "Intro/Protocolli Internet/Sistemi Aperti.md",
-    "Intro/Protocolli Internet/Percorso dati TCP-IP.md",
-    "Intro/Protocolli Internet/Stack Protocollare TCP-IP.md",
-    "Intro/Protocolli Internet/Open System Interconnector (OSI).md",
-    "Intro/Protocolli Internet/Modello a Strati.md",
-    "Intro/Protocolli Internet/Modello ISO-OSI.md",
-    "Intro/Protocolli Internet/International Organization for Standards (ISO).md",
+    "Livello Applicativo/FTP/Data Connection.md",
+    "Livello Applicativo/FTP/Control Connection.md",
+    "Livello Applicativo/Telnet/Remote Login.md",
+    "Livello Applicativo/Telnet/Local Login.md",
+    "Livello Applicativo/Telnet/Network Virtual Terminal (NVT).md",
+    "Livello Applicativo/Telnet/Telnet.md",
+    "Livello Applicativo/Telnet/Secure Shell (SSH).md",
+    "Livello Applicativo/Uniform Resource/URN.md",
+    "Livello Applicativo/Uniform Resource/URI.md",
+    "Livello Applicativo/Uniform Resource/URL.md",
+    "Livello Applicativo/Livello Applicativo.md",
+    "Livello Applicativo/HTTP/API REST.md",
+    "Livello Applicativo/HTTP/Server Proxy.md",
+    "Livello Applicativo/HTTP/Pipelining.md",
+    "Livello Applicativo/HTTP/Header HTTP.md",
+    "Livello Applicativo/HTTP/HTTP Response Message.md",
+    "Livello Applicativo/HTTP/HTTP Request Message.md",
+    "Livello Applicativo/HTTP/Metodi HTTP.md",
+    "Livello Applicativo/HTTP/Messaggi HTTP.md",
+    "Livello Applicativo/HTTP/Cookie.md",
+    "Livello Applicativo/HTTP/HTTP.md",
+    "Livello Applicativo/Posta SMTP/Protocollo SMTP.md",
+    "Livello Applicativo/Posta SMTP/POP3.md",
+    "Livello Applicativo/Posta SMTP/Indirizzo Email.md",
+    "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
+    "Definizioni/Host.md",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",

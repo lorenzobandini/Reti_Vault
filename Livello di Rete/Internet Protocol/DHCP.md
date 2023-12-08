@@ -1,4 +1,4 @@
-Acronimo di Dynamic Host Configuration Protocol, ha l'obiettivo assegnare un indirizzo IP ad un host che si aggiunge alla rete in modo dinamico.
+Acronimo di Dynamic Host Configuration Protocol, ha l'obiettivo assegnare un indirizzo IP ad un [[host]] che si aggiunge alla rete in modo dinamico.
 Il DHCP è un protocollo Client-Server dove:
 - L’host invia in broadcast un messaggio DHCP discover (opzionale)
 - Il server DHCP risponde con un messaggio DHCP offer (opzionale)

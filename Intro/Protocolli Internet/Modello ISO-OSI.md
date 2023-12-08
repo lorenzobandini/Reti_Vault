@@ -6,7 +6,7 @@ Si divide in 7 livelli
 1. Fisico: tramette un flusso di bit.
 2. Datalink: Consegna trame sul link
 3. Rete: Instradamento nel traffico
-4. Trasporto: Trasferimento dati fra due host
+4. Trasporto: Trasferimento dati fra due [[host]]
 5. Sessione: Controllo del dialogo
 6. Presentazione: Unificazione dati
 7. Applicazione: Elaborazione dati

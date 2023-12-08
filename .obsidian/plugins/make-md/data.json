@@ -52,7 +52,7 @@
       "Livello Collegamento/Routing",
       "Livello di Rete/Routing/Routing",
       "Livello Applicativo",
-      "Livello Applicativo/DNS"
+      "Livello Applicativo/FTP"
     ]
   },
   "expandedSpaces": [
@@ -90,7 +90,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1702047023310,
+  "spacesAutoBackupLast": 1702048208110,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

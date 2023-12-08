@@ -1,4 +1,4 @@
-Nell'inoltro diretto, il pacchetto IP ha come destinazione un host nella propria rete IP e l'invio è diretto sul destinatario, l'indirizzo di destinazione a livello link è quello del destinatario e non viene interpellata nessun'altra entità.
+Nell'inoltro diretto, il pacchetto IP ha come destinazione un [[host]] nella propria rete IP e l'invio è diretto sul destinatario, l'indirizzo di destinazione a livello link è quello del destinatario e non viene interpellata nessun'altra entità.
 
 Esempio di inoltro in 4 fasi:
 1. L'entità IP di B deve spedire un pacchetto all'indirizzo IP-A
