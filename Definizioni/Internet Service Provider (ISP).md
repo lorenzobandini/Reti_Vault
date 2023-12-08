@@ -1,1 +1,1 @@
-Azienda o ente che offre accesso a Internet agli utenti e alle aziende. Gli ISP forniscono la connettività Internet, permettendo agli utenti di collegarsi alla rete globale e accedere a servizi online, siti web, email, streaming video, e altro ancora.
+Azienda o ente che offre accesso a [[Internet]] agli utenti e alle aziende. Gli ISP forniscono la connettività Internet, permettendo agli utenti di collegarsi alla rete globale e accedere a servizi online, siti web, email, streaming video, e altro ancora.

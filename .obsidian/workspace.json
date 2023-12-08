@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "588fa34038f68a2b",
+        "id": "d822f9a65ff7fb4c",
         "type": "tabs",
         "children": [
           {
-            "id": "751df4e0552e6898",
+            "id": "259a859f33520b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Collegamento/Ethernet.md",
+                "file": "Indice.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Collegamento/Ethernet.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Collegamento/Ethernet.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Collegamento/Ethernet.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,34 +172,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "751df4e0552e6898",
+  "active": "259a859f33520b36",
   "lastOpenFiles": [
-    "Livello Collegamento/VLAN.md",
-    "Livello di Rete/Routing/Routing.md",
-    "Livello di Rete/Routing/Algoritmo Link-State.md",
-    "Livello di Rete/Routing/Algoritmo Distance Vector.md",
-    "Livello di Rete/Routing/OSPF.md",
-    "Livello di Rete/Routing/BGP.md",
-    "Livello di Rete/Routing/Sistemi Autonomi.md",
-    "Livello di Rete/Routing/Architettura di un Router.md",
-    "Livello di Rete/Routing/Router.md",
-    "Livello di Rete/Routing/Protocolli di Routing.md",
-    "Livello di Rete/Routing/RIP.md",
-    "Livello di Rete/Traceroute.md",
+    "Definizioni/Idempotenza.md",
+    "Definizioni/Separation of Concern.md",
+    "Definizioni/Information Hiding.md",
+    "Definizioni/Interfaccia.md",
+    "Definizioni/Protocollo.md",
+    "Definizioni/Server.md",
+    "Definizioni/Client.md",
+    "Definizioni/Connection-Less.md",
+    "Definizioni/Connection-Oriented.md",
+    "Definizioni/Connessione persistente.md",
+    "Definizioni/Connessione.md",
+    "Definizioni/Connessione non persistente.md",
+    "Definizioni/Incapsulamento dei Dati.md",
+    "Definizioni/Stream.md",
+    "Definizioni/Internet Service Provider (ISP).md",
+    "Livello Applicativo/HTTP/Content Negotiation.md",
+    "Definizioni/Internet eXchange Point (IXP).md",
+    "Definizioni/Strato.md",
+    "Livello Applicativo/DNS/Nome di Dominio.md",
+    "Definizioni/Porta.md",
+    "Definizioni/Peer-to-Peer (P2P).md",
     "Definizioni/Processo.md",
-    "Livello di Rete/Ping.md",
-    "Livello di Rete/ICMP.md",
-    "Livello di Rete/NAT.md",
-    "Livello di Rete/Forwarding.md",
-    "Livello di Rete/Livello di Rete.md",
-    "Livello di Rete/Internet Protocol/Datagramma IP.md",
-    "Livello di Rete/Internet Protocol/Meccanismi IP.md",
-    "Livello di Rete/Internet Protocol/Frammentazione.md",
-    "Livello di Rete/Internet Protocol/Indirizzo IP.md",
-    "Livello di Rete/Internet Protocol/Forwarding Indiretto IP.md",
-    "Livello di Rete/Internet Protocol/Indirizzi IPv4.md",
-    "Livello di Rete/Internet Protocol/Indirizzi IPv6.md",
-    "Livello di Rete/Internet Protocol/DHCP.md",
+    "Livello Applicativo/Posta SMTP/Alias.md",
+    "Definizioni/Algoritmo di Dijkstra.md",
+    "Definizioni/Bellman-Ford.md",
+    "Definizioni/Host.md",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",

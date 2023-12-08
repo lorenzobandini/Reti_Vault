@@ -1,1 +1,0 @@
-Insieme di regole che un programmatore deve rispettare per utilizzare delle risorse.

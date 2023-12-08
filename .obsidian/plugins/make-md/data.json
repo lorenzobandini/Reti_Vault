@@ -51,7 +51,8 @@
       "Intro/Singole Metriche",
       "Livello Collegamento/Routing",
       "Livello di Rete/Routing/Routing",
-      "Livello Collegamento"
+      "Livello Collegamento/Protocolli MAC/Rotazione",
+      "Livello Collegamento/Protocolli MAC/Suddivisione del canale"
     ]
   },
   "expandedSpaces": [
@@ -89,7 +90,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1702048208110,
+  "spacesAutoBackupLast": 1702052164315,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

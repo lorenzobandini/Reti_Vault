@@ -1,1 +1,1 @@
-Le informazioni sono nascoste a chi non è di competenza
+L'information hiding è un principio di progettazione del software che mira a limitare l'accesso diretto ai dettagli interni di un componente. Questo favorisce la modularità, semplificando la gestione delle relazioni tra i moduli e contribuendo a migliorare la sicurezza del sistema. In una prospettiva di rete, questo principio aiuta a proteggere i dati sensibili e semplifica gli aggiornamenti senza influenzare l'[[interfaccia]] pubblica.

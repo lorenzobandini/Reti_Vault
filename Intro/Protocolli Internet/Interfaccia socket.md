@@ -1,4 +1,4 @@
-[[Application Program Interface (API)]] che funge da [[Interfaccia]] tra gli strati di applicazione e di trasporto.
+[[API]] che funge da [[Interfaccia]] tra gli strati di applicazione e di trasporto.
 Socket è la API di [[internet]] per eccellenza.
 Due processi comunicano mandando dati alla socket, e leggendoli da questa mentre il resto della connessione è responsabilità dei restanti 5 livelli dello[[Stack Protocollare TCP-IP]].
 Un Socket è una struttura dati astratta utilizzata dal programma applicativo.

@@ -1,1 +1,1 @@
-Separazione degli interesse e responsabilità dove ogni piccolo processo fa una parte della totalità delle cose da fare
+Principio di progettazione che suddivide un sistema complesso in componenti autonomi, ognuno concentrato su un aspetto specifico o responsabilità. In questo approccio, ogni modulo o processo contribuisce in modo distinto alla totalità delle operazioni, migliorando la chiarezza, la manutenibilità e la scalabilità del sistema.

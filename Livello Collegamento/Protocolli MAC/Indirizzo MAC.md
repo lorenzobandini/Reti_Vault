@@ -1,4 +1,4 @@
-L'indirizzo MAC è un indirizzo del livello collegamento, tipicamente permanente, associato alla scheda di rete e non al nodo che viene chiamato anche indirizzo fisico o indirizzo LAN. Per le LAN Ethernet e IEEE è lungo 6 byte (48 bit) ed è espresso in notazione esadecimale.
+L'indirizzo MAC è un indirizzo del [[livello collegamento]], tipicamente permanente, associato alla scheda di rete e non al nodo che viene chiamato anche indirizzo fisico o indirizzo [[LAN]]. Per le LAN [[Ethernet]] e IEEE è lungo 6 byte (48 bit) ed è espresso in notazione esadecimale.
 Per garantire l'univocità IEEE definisce ed assegna i primi 24 bit mentre i rimanenti 24 bit vengono gestiti dalle aziende ed assegnati a livello locale.
 Quando una società vuole costruire adattatori, compra un blocco di spazio di indirizzi.
 
@@ -13,4 +13,4 @@ Ciascun adattatore di una LAN ha un indirizzo MAC univoco. Un adattatore inseris
 Quando un adattatore spedisce un frame, vi inserisce l'indirizzo LAN della scheda di destinazione.
 Nel caso di reti LAN broadcast, tutti gli adattatori attestati sulla rete controllano l'indirizzo destinazione e passano i dati allo stato superiore solo se riconoscono il proprio indirizzo MAC.
 Se un adattatore trasmittente vuole che tutte le schede di rete passino i dati agli strati superiori, immette nel campo indirizzo destinazione `FF-FF-FF-FF-FF-FF` ovvero l'indirizzo broadcast.
-La risoluzione degli indirizzi è svolta dal protocollo [[ARP]].
+La risoluzione degli indirizzi è svolta dal [[protocollo]] [[ARP]].

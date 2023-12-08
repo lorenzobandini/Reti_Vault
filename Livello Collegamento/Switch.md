@@ -1,7 +1,7 @@
 Dispositivo di rete utilizzato per instradare il traffico dati all'interno di una [[LAN]] o tra reti.
 
 Operano sia a livello fisico rigenerando il segnale e sia a livello di collegamento verificando indirizzi MAC contenuti in frame.
-Hanno la capacità di immagazzinare e inoltrare frame Ethernet. Esamina gli indirizzi MAC dei frame in arrivo e li inoltra in modo selettivo su uno o più collegamenti seguendo una tabella.
+Hanno la capacità di immagazzinare e inoltrare frame [[Ethernet]]. Esamina gli indirizzi MAC dei frame in arrivo e li inoltra in modo selettivo su uno o più collegamenti seguendo una tabella.
 ![[Pasted image 20231205175201.png]]
 
 Sono dispositivi trasparenti dato il fatto che gli [[host]] non sono a conoscenza della presenza degli switch ma non devono essere manco configurati dato che usufruiscono di un auto-apprendimento. Più switch ad auto-apprendimento possono essere collegati.
@@ -10,7 +10,7 @@ Sono dispositivi trasparenti dato il fatto che gli [[host]] non sono a conoscenz
 Gli host hanno connessioni dedicate verso lo switch che bufferizzano i pacchetti evitando così collisioni.
 
 I passi che svolge uno switch sono:
-1. Registra il collegamento in entrata e l'indirizzo MAC dell'host mittente.
+1. Registra il collegamento in entrata e l'[[indirizzo MAC]] dell'host mittente.
 2. Indice della tabella dello switch usando l'indirizzo MAC di destinazione
 3. Se è presente una voce per la destinazione nella tabella dello switch vengono prese alcune decisioni:
     - Se la destinazione è sulla stessa segmento da cui è arrivato il frame il frame viene scartato, poiché significa che il destinatario è sulla stessa rete e il frame non deve essere inoltrato.

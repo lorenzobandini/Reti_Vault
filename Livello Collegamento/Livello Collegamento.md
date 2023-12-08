@@ -48,5 +48,5 @@ Un indirizzo del livello collegamento è chiamato indirizzo fisico o [[Indirizzo
 
 Il livello di collegamento sfrutta come mezzo di trasporto [[Ethernet]], [[Switch]] e [[VLAN]].
 
-I repeater operano solo a livello fisico e rigenerano il segnale che ricevono mentre gli hub sono semplicemente dei repeater multi-porta.
+I repeater operano solo a livello fisico e rigenerano il segnale che ricevono mentre gli hub sono semplicemente dei repeater multi-[[porta]].
 Repeater e hub non hanno alcuna capacità di filtraggio.
