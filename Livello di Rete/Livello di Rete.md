@@ -16,7 +16,7 @@ Le differenze principali con il livello di trasporto sono:
 Le funzioni fondamentali del livello di rete sono:
 - Suddivisione in pacchetti
 - [[Routing]] (Instradamento)
-- [[Inoltro]] (inoltro)
+- Forwarding ([[Inoltro]])
 
 Per implementare queste funzioni bisogna implementare dei [[Meccanismi IP]].
 

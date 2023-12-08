@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab4ac8c9f9094688",
+        "id": "bbe9b4189289b4be",
         "type": "tabs",
         "children": [
           {
-            "id": "70d7deae56082214",
+            "id": "d81e192827206a51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
+                "file": "Livello di Rete/Livello di Rete.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
+                "file": "Livello di Rete/Livello di Rete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
+                "file": "Livello di Rete/Livello di Rete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md"
+                "file": "Livello di Rete/Livello di Rete.md"
               }
             }
           },
@@ -172,19 +172,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70d7deae56082214",
+  "active": "d81e192827206a51",
   "lastOpenFiles": [
-    "Livello Collegamento/Protocolli MAC/Forwarding indiretto MAC.md",
-    "Livello di Rete/Forwarding Indiretto IP.md",
-    "Livello di Rete/Forwarding Diretto IP.md",
     "Livello di Rete/Inoltro.md",
-    "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
-    "Livello di Rete/Indirizzo IP.md",
-    "Livello di Rete/Routing/OSPF.md",
-    "Livello di Rete/Traceroute.md",
-    "Livello di Rete/Frammentazione.md",
-    "Livello di Rete/Internet Protocol.md",
     "Livello di Rete/Livello di Rete.md",
+    "Livello di Rete/NAT.md",
+    "Livello di Rete/ICMP.md",
+    "Livello di Rete/Traceroute.md",
+    "Livello di Rete/Internet Protocol/Frammentazione.md",
+    "Livello di Rete/Routing/Algoritmo Link-State.md",
+    "Livello di Rete/Internet Protocol/Classless Adressing.md",
+    "Livello di Rete/Internet Protocol/Forwarding Diretto IP.md",
+    "Livello di Rete/Internet Protocol/DHCP.md",
+    "Livello di Rete/Internet Protocol",
+    "Livello di Rete/Internet Protocol/Internet Protocol.md",
+    "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
+    "Livello Collegamento/Protocolli MAC/Forwarding indiretto MAC.md",
+    "Livello di Rete/Internet Protocol/Forwarding Indiretto IP.md",
+    "Livello di Rete/Internet Protocol/Indirizzo IP.md",
+    "Livello di Rete/Routing/OSPF.md",
     "Livello di Rete/Routing/Routing.md",
     "Livello di Rete/Routing/Protocolli di Routing.md",
     "Livello di Rete/Routing/RIP.md",
@@ -196,11 +202,6 @@
     "Livello Trasporto/Protocollo UDP/Attacco UDP Amplification.md",
     "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
     "Livello Trasporto/Protocollo UDP/Attacco UDP Flood.md",
-    "Livello Trasporto/Protocollo TCP/TCP.md",
-    "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
-    "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
-    "Livello Trasporto/Protocollo TCP/AIMD.md",
-    "Livello di Rete/Datagramma IP.md",
     "Livello Applicativo/HTTP",
     "Livello Applicativo/FTP",
     "Livello Applicativo/Telnet",
@@ -219,7 +220,6 @@
     "Livello Trasporto",
     "Intro",
     "Livello di Rete",
-    "Livello Collegamento",
     "Senza nome.canvas"
   ]
 }

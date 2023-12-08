@@ -53,9 +53,7 @@
       "Livello di Rete",
       "Livello Collegamento/Routing",
       "Livello di Rete/Routing/Routing",
-      "Definizioni",
-      "Livello Collegamento",
-      "Livello Collegamento/Protocolli MAC"
+      "Livello di Rete"
     ]
   },
   "expandedSpaces": [
@@ -93,7 +91,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701971383465,
+  "spacesAutoBackupLast": 1701971591251,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
