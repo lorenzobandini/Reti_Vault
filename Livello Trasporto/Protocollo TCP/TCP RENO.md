@@ -1,4 +1,4 @@
-TCP Reno è un algoritmo di controllo della congestione all'interno del protocollo [[TCP]], ed è una delle varianti più comunemente utilizzate. Inizialmente viene definita una variabile "soglia" alla quale è assegnato un valore alto. La soglia determina quanto termina la partenza lenta ed inizia la fase di congestion avoidance:
+TCP Reno è un algoritmo di controllo della congestione all'interno del [[protocollo]] [[TCP]], ed è una delle varianti più comunemente utilizzate. Inizialmente viene definita una variabile "soglia" alla quale è assegnato un valore alto. La soglia determina quanto termina la partenza lenta ed inizia la fase di congestion avoidance:
 - Se $cwnd \lt soglia$: _cwnd_ aumenta esponenzialmente
 - Se $cwnd \gt soglia$: _cwnd_ aumenta linearmente
 

@@ -1,7 +1,7 @@
-Identifica dove tale oggetto è situato. I dispositivi connessi in rete vengono individuati mediante i loro indirizzi IP, una sequenza di 4 byte (32 bit) usati per instradare i datagrammi a livello di rete.
+Identifica dove tale oggetto è situato. I dispositivi connessi in rete vengono individuati mediante i loro indirizzi IP, una sequenza di 4 byte (32 bit) usati per instradare i datagrammi a [[livello di rete]].
 Il formato indirizzo IP è progettato per garantire l'efficienza nell'istradamento.
 
-Ogni [[host]] è connesso ad internet attraverso un'interfaccia di rete, che è il confine fra l'host ed il collegamento su cui vengono inviati i datagrammi.
+Ogni [[host]] è connesso ad [[internet]] attraverso un'[[interfaccia]] di rete, che è il confine fra l'host ed il collegamento su cui vengono inviati i datagrammi.
 
 Gli indirizzi si dividono in:
 - [[Indirizzi IPv4]]
@@ -14,7 +14,7 @@ Gli [[Internet Service Provider (ISP)]] assegnano ai clienti sottoblocchi di ind
 - Si assegnano blocchi di indirizzi contigui
 - Se i blocchi sono di dimensioni diverse si parte dai blocchi più grandi
 
-Il CIDR (Classless Inter-Domain Routing) permette anche di aggregare i blocchi di indirizzi per rendere più efficiente l'instradamento.
+Il CIDR (Classless Inter-Domain Routing) permette anche di aggregare i blocchi di indirizzi per rendere più [[efficiente]] l'instradamento.
 
 Alcuni indirizzi speciali sono:
 - This-host 0.0.0.0 - Usato quando un host ha necessità di inviare un datagramma ma non conosce il proprio indirizzo IP (indirizzo sorgente)

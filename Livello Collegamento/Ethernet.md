@@ -1,4 +1,4 @@
-LAN cablata con più posizione sul mercato. Prima LAN ad alta velocità con vasta diffusione semplice e meno costosa di token ring, FDDI e ATM e sempre al passo dei tempi con il tasso trasmissivo.
+[[LAN]] cablata con più posizione sul mercato. Prima LAN ad alta velocità con vasta diffusione semplice e meno costosa di token ring, FDDI e ATM e sempre al passo dei tempi con il tasso trasmissivo.
 
 Fino a metà degli anni 90, per distribuire il cavo prima veniva usata una topologia a bus mentre ora tutte le reti odierne LAN Ethernet sono progettate con topologia a stella dove al centro è collocato uno [[Switch]]. 
 

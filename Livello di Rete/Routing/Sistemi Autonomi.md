@@ -1,5 +1,5 @@
-Chiamati anche AS, sono gruppi di router sotto lo stesso controllo amministrativo . Gli AS decidono autonomamente i protocolli e le politiche di routing che intendono adottare al loro interno.
-I protocolli di routing all'interno di un AS sono detti Interior Gateway Protocol (IGP) e i protocolli di routing fra AS sono detti Exterior Gateway Protector (EGP).
+Chiamati anche AS, sono gruppi di [[router]] sotto lo stesso controllo amministrativo . Gli AS decidono autonomamente i protocolli e le politiche di [[routing]] che intendono adottare al loro interno.
+I [[protocolli di routing]] all'interno di un AS sono detti Interior Gateway Protocol (IGP) e i protocolli di routing fra AS sono detti Exterior Gateway Protector (EGP).
 Quindi all'interno di un sistema autonomo:
 - I router sono sotto lo stesso controllo amministrativo
 - Usano lo stesso protocollo di routing intra-AS

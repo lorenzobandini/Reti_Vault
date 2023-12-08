@@ -1,13 +1,13 @@
 L'obiettivo è realizzare una comunicazione logica fra [[processo|Processi]]
 residenti in [[host]] system diversi. Si chiama logico perché è un astrazione per i sistemi applicativi che fanno comunicare i processi come se fossero direttamente collegati.
 
-Offre dei servizi allo strato di applicazione che possono trasmettere o ricevere dati mediante uno stile di trasporto che preferisce che possono essere:
+Offre dei servizi allo [[strato]] di applicazione che possono trasmettere o ricevere dati mediante uno stile di trasporto che preferisce che possono essere:
 - Sequenza di messaggi singoli
 - Una sequenza continua di byte
 
 Il programma applicativo passa i dati nella forma richiesta al livello di trasporto per la consegna.
 
-Utilizza i servizi dello strato di rete. Il livello di rete si occupa della comunicazione tra host mentre il [[protocollo]] di rete consegna il datagramma all'host destinatario (e non al processo).
+Utilizza i servizi dello strato di rete. Il [[livello di rete]] si occupa della comunicazione tra host mentre il [[protocollo]] di rete consegna il datagramma all'host destinatario (e non al processo).
 
 Possiamo dividere lo strato di trasporto in:
 - Servizio privo di connessione: Non vengono date garanzia di né di consegna e né di ordine, ma il mittente consegna i messaggi uno ad uno e tratta ogni messaggio come entità singola senza mantenere alcuna relazione fra di essi (Protocollo UDP)

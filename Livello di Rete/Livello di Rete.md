@@ -1,9 +1,9 @@
-Responsabile della consegna dei [[Datagramma IP|datagrammi]] tra gli host. Offre servizi allo [[Livello di Trasporto]] e utilizza i servizi dello strato collegamento.
+Responsabile della consegna dei [[Datagramma IP|datagrammi]] tra gli [[host]]. Offre servizi allo [[Livello di Trasporto]] e utilizza i servizi del [[livello collegamento]].
 
 La comunicazione a livello di rete avviene con:
-1. L'entità a livello di rete riceve i segmenti dal livello di trasporto nell'host mittente e incapsula i segmenti in datagrammi
+1. L'entità a livello di rete riceve i segmenti dal [[livello di trasporto]] nell'host mittente e incapsula i segmenti in datagrammi
 2. I datagrammi sono inoltrati al prossimo nodo
-3. Il router esamina i campi intestazione in tutti i datagrammi IP che lo attraversano e li inoltra da un collegamento in ingresso ad un collegamento in uscita
+3. Il [[router]] esamina i campi intestazione in tutti i datagrammi IP che lo attraversano e li inoltra da un collegamento in ingresso ad un collegamento in uscita
 4. Sul lato destinatario, consegna i segmenti al livello di trasporto
 
 ![[Screenshot 2023-11-22 115646.png]]
@@ -16,7 +16,7 @@ Le differenze principali con il livello di trasporto sono:
 Le funzioni fondamentali del livello di rete sono:
 - Suddivisione in pacchetti
 - [[Routing]] (Instradamento)
-- Forwarding ([[Forwarding]])
+- [[Forwarding]] ([[Forwarding]])
 
 Per implementare queste funzioni bisogna implementare dei [[Meccanismi IP]].
 
@@ -28,8 +28,8 @@ Le caratteristiche dello strato di rete sono:
 
 Questo modello continua a evolversi con le nuove tecnologie e le esigenze crescenti delle reti di comunicazione.
 
-Il protocollo usato è l'[[Internet Protocol]] che non ha sistemi di gestione degli errori che vengono quindi implementati da [[ICMP]].
+Il [[protocollo]] usato è l'[[Internet Protocol]] che non ha sistemi di gestione degli errori che vengono quindi implementati da [[ICMP]].
 
-Inoltre anche a livello di rete si usa il multiplexing per combinare flussi di dati provenienti da diverse sorgenti in un unico canale, utilizzando l'indirizzamento IP e le porte di trasporto e il demultiplexing per separare e indirizzare correttamente i pacchetti in base a tali informazioni, consentendo la comunicazione efficiente tra dispositivi su una rete.
+Inoltre anche a livello di rete si usa il multiplexing per combinare flussi di dati provenienti da diverse sorgenti in un unico canale, utilizzando l'indirizzamento IP e le porte di trasporto e il demultiplexing per separare e indirizzare correttamente i pacchetti in base a tali informazioni, consentendo la comunicazione [[efficiente]] tra dispositivi su una rete.
 
 ![[Pasted image 20231122122540.png]]

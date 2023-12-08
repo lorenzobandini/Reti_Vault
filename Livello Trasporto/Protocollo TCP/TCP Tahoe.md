@@ -1,4 +1,4 @@
-TCP Tahoe è una delle prime implementazioni del controllo di congestione in [[TCP]], un protocollo utilizzato per trasmettere dati su reti informatiche. TCP Tahoe introduceva un meccanismo di controllo della congestione per regolare la velocità di trasmissione dei dati e prevenire la congestione e la perdita di pacchetti nella rete.
+TCP Tahoe è una delle prime implementazioni del controllo di congestione in [[TCP]], un [[protocollo]] utilizzato per trasmettere dati su reti informatiche. TCP Tahoe introduceva un meccanismo di controllo della congestione per regolare la [[velocità di trasmissione]] dei dati e prevenire la congestione e la perdita di pacchetti nella rete.
 
 Il funzionamento di TCP Tahoe si basa su alcuni concetti chiave:
 

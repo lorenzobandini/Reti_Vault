@@ -1,4 +1,4 @@
-Un segmento può essere smarrito o corrotto. TCP crea un servizio di trasferimento dati affidabile sul servizio inaffidabile di IP mediante l'utilizzo di Checksum, controlli obbligatori che scartano segmenti corrotti e dei riscontri, processi di conferma della ricezione dei dati da parte del destinatario. In particolare il riscontro funziona che dopo aver ricevuto ciascun segmento, il destinatario invia un messaggio di riscontro _ACK_ al mittente per confermare la ricezione corretta del [[Segmento TCP]]. Questo messaggio di riscontro contiene il numero di sequenza del prossimo segmento che il destinatario si aspetta di ricevere. Questo processo assicura che i dati siano stati ricevuti senza errori.
+Un segmento può essere smarrito o corrotto. [[TCP]] crea un servizio di trasferimento dati affidabile sul servizio inaffidabile di IP mediante l'utilizzo di Checksum, controlli obbligatori che scartano segmenti corrotti e dei riscontri, processi di conferma della ricezione dei dati da parte del destinatario. In particolare il riscontro funziona che dopo aver ricevuto ciascun segmento, il destinatario invia un messaggio di riscontro _ACK_ al mittente per confermare la ricezione corretta del [[Segmento TCP]]. Questo messaggio di riscontro contiene il numero di sequenza del prossimo segmento che il destinatario si aspetta di ricevere. Questo processo assicura che i dati siano stati ricevuti senza errori.
 
 ![[Pasted image 20231027152809.png]]
 
@@ -16,7 +16,7 @@ La ritrasmissione avviene in caso di:
 - Ricezione di tre *ACK* duplicati: se il mittente riceve tre *ACK* duplicati, il segmento successivo a quello riscontrato è andato perso. Quindi viene fatta una ritrasmissione veloce prima della scadenza del timer.
 
 I dati a volte possono arrivare fuori sequenza ed essere temporaneamente memorizzati dall'entità TCP destinataria. Il TCP non dice come il destinatario deve gestire i pacchetti fuori sequenza dipendentemente dall'implementazione.
-Nelle versioni più recenti si implementa la Selective _ACK_ (_SACK_), i pacchetti ricevuti fuori sequenza vengono memorizzati e il riscontro di pacchetti fuori sequenza e duplicati viene inviato in _OPTIONS_
+Nelle versioni più recenti si implementa la Selective _ACK_ (_SACK_), i pacchetti ricevuti fuori sequenza vengono memorizzati e il riscontro di pacchetti fuori sequenza e duplicati viene inviato in _[[OPTIONS]]_
 
 ![[Pasted image 20231025145713.png]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Applicativo/FTP/FTP.md",
+                "file": "Livello Collegamento/Ethernet.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Applicativo/FTP/FTP.md",
+                "file": "Livello Collegamento/Ethernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Applicativo/FTP/FTP.md",
+                "file": "Livello Collegamento/Ethernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Applicativo/FTP/FTP.md"
+                "file": "Livello Collegamento/Ethernet.md"
               }
             }
           },
@@ -173,32 +173,32 @@
   },
   "active": "751df4e0552e6898",
   "lastOpenFiles": [
-    "Livello Applicativo/FTP/Data Connection.md",
-    "Livello Applicativo/FTP/Control Connection.md",
-    "Livello Applicativo/Telnet/Remote Login.md",
-    "Livello Applicativo/Telnet/Local Login.md",
-    "Livello Applicativo/Telnet/Network Virtual Terminal (NVT).md",
-    "Livello Applicativo/Telnet/Telnet.md",
-    "Livello Applicativo/Telnet/Secure Shell (SSH).md",
-    "Livello Applicativo/Uniform Resource/URN.md",
-    "Livello Applicativo/Uniform Resource/URI.md",
-    "Livello Applicativo/Uniform Resource/URL.md",
-    "Livello Applicativo/Livello Applicativo.md",
-    "Livello Applicativo/HTTP/API REST.md",
-    "Livello Applicativo/HTTP/Server Proxy.md",
-    "Livello Applicativo/HTTP/Pipelining.md",
-    "Livello Applicativo/HTTP/Header HTTP.md",
-    "Livello Applicativo/HTTP/HTTP Response Message.md",
-    "Livello Applicativo/HTTP/HTTP Request Message.md",
-    "Livello Applicativo/HTTP/Metodi HTTP.md",
-    "Livello Applicativo/HTTP/Messaggi HTTP.md",
-    "Livello Applicativo/HTTP/Cookie.md",
-    "Livello Applicativo/HTTP/HTTP.md",
-    "Livello Applicativo/Posta SMTP/Protocollo SMTP.md",
-    "Livello Applicativo/Posta SMTP/POP3.md",
-    "Livello Applicativo/Posta SMTP/Indirizzo Email.md",
-    "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
-    "Definizioni/Host.md",
+    "Livello Collegamento/VLAN.md",
+    "Livello di Rete/Routing/Routing.md",
+    "Livello di Rete/Routing/Algoritmo Link-State.md",
+    "Livello di Rete/Routing/Algoritmo Distance Vector.md",
+    "Livello di Rete/Routing/OSPF.md",
+    "Livello di Rete/Routing/BGP.md",
+    "Livello di Rete/Routing/Sistemi Autonomi.md",
+    "Livello di Rete/Routing/Architettura di un Router.md",
+    "Livello di Rete/Routing/Router.md",
+    "Livello di Rete/Routing/Protocolli di Routing.md",
+    "Livello di Rete/Routing/RIP.md",
+    "Livello di Rete/Traceroute.md",
+    "Definizioni/Processo.md",
+    "Livello di Rete/Ping.md",
+    "Livello di Rete/ICMP.md",
+    "Livello di Rete/NAT.md",
+    "Livello di Rete/Forwarding.md",
+    "Livello di Rete/Livello di Rete.md",
+    "Livello di Rete/Internet Protocol/Datagramma IP.md",
+    "Livello di Rete/Internet Protocol/Meccanismi IP.md",
+    "Livello di Rete/Internet Protocol/Frammentazione.md",
+    "Livello di Rete/Internet Protocol/Indirizzo IP.md",
+    "Livello di Rete/Internet Protocol/Forwarding Indiretto IP.md",
+    "Livello di Rete/Internet Protocol/Indirizzi IPv4.md",
+    "Livello di Rete/Internet Protocol/Indirizzi IPv6.md",
+    "Livello di Rete/Internet Protocol/DHCP.md",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",

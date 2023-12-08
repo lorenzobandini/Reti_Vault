@@ -2,7 +2,7 @@ Gli indirizzi IP sono costituiti da 32 bit (4 byte), rappresentati in notazione 
 
 ![[Pasted image 20231124141759.png]]
 
-Ogni [[host]] ha un indirizzo univoco diviso in due parti, Network ID + Host ID, che identificano una rete IP su internet e l'host su quella rete IP,
+Ogni [[host]] ha un indirizzo univoco diviso in due parti, Network ID + Host ID, che identificano una rete IP su [[internet]] e l'host su quella rete IP,
 
 ![[Pasted image 20231124141852.png]]
 

@@ -1,7 +1,7 @@
-Acronimo di Internet Control Message Protocol, viene usato da [[host]] e router per scambiarsi messaggi di errore o altre situazioni che richiedono intervento.
-I messaggi ICMP sono incapsulati all'interno di [[Datagramma IP]] ma viene comunque considerato parte integrante dello strato di rete.
+Acronimo di [[Internet]] Control Message Protocol, viene usato da [[host]] e [[router]] per scambiarsi messaggi di errore o altre situazioni che richiedono intervento.
+I messaggi ICMP sono incapsulati all'interno di [[Datagramma IP]] ma viene comunque considerato parte integrante dello [[strato]] di rete.
 
-Quando un router o un host di destinazione devono informare il mittente di errori o di eventi avvenuti nell’inoltro di un pacchetto IP utilizzano questo protocollo.
+Quando un router o un host di destinazione devono informare il mittente di errori o di eventi avvenuti nell’inoltro di un pacchetto IP utilizzano questo [[protocollo]].
 
 I pacchetti ICMP vengono instradati dai router prima dei pacchetti IP ordinari. Alcune caratteristiche sono:
 - Per pacchetti IP frammentati, i messaggi ICMP sono relativi al solo frammento con offset 0 (il primo frammento).

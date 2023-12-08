@@ -18,7 +18,7 @@ Ha un totale di due tipi di connessione, le quali entrambe utilizzano il protoco
 
 ![[Pasted image 20231018161313.png]]
 
-Quando il client attiva la connessione di controllo con il server, usa un numero di porta assegnato localmente in modo casuale e contatta il server ad una porta nota (21).
+Quando il client attiva la connessione di controllo con il server, usa un numero di [[porta]] assegnato localmente in modo casuale e contatta il server ad una porta nota (21).
 FTP usa la connessione di controllo per permettere a client e server di coordinare l'uso delle porte assegnate dinamicamente per il trasferimento dati
 La comunicazione sulla connessione di controllo avviene per mezzo di caratteri con una codifica standard NVT ASCII, sia per i comandi che per le risposte.
 
