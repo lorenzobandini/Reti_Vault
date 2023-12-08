@@ -1,22 +1,72 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "path:Definizioni  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Intro  ",
+      "color": {
+        "a": 1,
+        "rgb": 2303
+      }
+    },
+    {
+      "query": "path:\"Livello Applicativo\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13958912
+      }
+    },
+    {
+      "query": "path:\"Livello Trasporto\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 36637
+      }
+    },
+    {
+      "query": "path: \"Livello di Rete\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
+    },
+    {
+      "query": "path:\"Livello Collegamento\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.391891891891892,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.30899221366861573,
-  "close": false
+  "scale": 0.3233573730379865,
+  "close": true
 }
