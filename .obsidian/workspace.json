@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indice.md",
+                "file": "Livello di Rete/Forwarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Livello di Rete/Forwarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Livello di Rete/Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Livello di Rete/Forwarding.md"
               }
             }
           },
@@ -175,10 +175,10 @@
   },
   "active": "6cea23d18267120b",
   "lastOpenFiles": [
-    "Intro/Reti a commutazione/Commutazione.md",
-    "Indice.md",
-    "Intro/Protocolli Internet/Modelli Stratificati.md",
     "Intro/Internet.md",
+    "Indice.md",
+    "Intro/Reti a commutazione/Commutazione.md",
+    "Intro/Protocolli Internet/Modelli Stratificati.md",
     "Intro/Metriche/Bandwidth.md",
     "Intro/Metriche/Metriche.md",
     "Livello Applicativo/HTTP/Idempotenza.md",
