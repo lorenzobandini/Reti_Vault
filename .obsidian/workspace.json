@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ae490cfee4948082",
+        "id": "f72670bcec0d2e51",
         "type": "tabs",
         "children": [
           {
-            "id": "79839cef2156a571",
+            "id": "6cea23d18267120b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Indice.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -101,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Indice.md"
+              }
             }
           },
           {
@@ -165,9 +173,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89db4f98b68cf97f",
+  "active": "6cea23d18267120b",
   "lastOpenFiles": [
+    "Intro/Reti a commutazione/Commutazione.md",
     "Indice.md",
+    "Intro/Protocolli Internet/Modelli Stratificati.md",
+    "Intro/Internet.md",
+    "Intro/Metriche/Bandwidth.md",
+    "Intro/Metriche/Metriche.md",
     "Livello Applicativo/HTTP/Idempotenza.md",
     "Definizioni/Separation of Concern.md",
     "Definizioni/Information Hiding.md",
@@ -188,11 +201,6 @@
     "Definizioni/Strato.md",
     "Livello Applicativo/DNS/Nome di Dominio.md",
     "Definizioni/Porta.md",
-    "Definizioni/Peer-to-Peer (P2P).md",
-    "Definizioni/Processo.md",
-    "Livello Applicativo/Posta SMTP/Alias.md",
-    "Definizioni/Algoritmo di Dijkstra.md",
-    "Definizioni/Bellman-Ford.md",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",
