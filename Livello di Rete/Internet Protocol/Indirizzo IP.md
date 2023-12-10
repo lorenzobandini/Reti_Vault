@@ -8,7 +8,7 @@ Gli indirizzi si dividono in:
 - [[Indirizzi IPv6]]
 
 Gli indirizzi IP sono gestiti da ICANN e assegnati agli ISP in blocchi.
-Gli [[Internet Service Provider (ISP)]] assegnano ai clienti sottoblocchi di indirizzi in base a:
+Gli [[ISP]] assegnano ai clienti sottoblocchi di indirizzi in base a:
 - Il numero di indirizzi $N$ in ogni subnetwork deve essere una potenza di 2
 - La lunghezza del prefisso di ogni sottorete ($n$) va calcolata con la formula $n=32 - log_2(N)$ dove $N$ è il numero di indirizzi della sottorete
 - Si assegnano blocchi di indirizzi contigui

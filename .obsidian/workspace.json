@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello di Rete/Forwarding.md",
+                "file": "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello di Rete/Forwarding.md",
+                "file": "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello di Rete/Forwarding.md",
+                "file": "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello di Rete/Forwarding.md"
+                "file": "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md"
               }
             }
           },
@@ -175,32 +175,37 @@
   },
   "active": "6cea23d18267120b",
   "lastOpenFiles": [
+    "Intro/Reti a commutazione/Reti a commutazione di circuito.md",
+    "Intro/Reti a commutazione/Frequency Division Multiplexing (FDM).md",
+    "Intro/Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
     "Intro/Internet.md",
+    "Intro/Metriche/Metriche.md",
+    "Intro/Network/ISP.md",
+    "Intro/Network/MAN.md",
+    "Intro/Network/WAN.md",
+    "Intro/Network/LAN.md",
+    "Pasted image 20231210201253.png",
+    "Images/Schermata 2023-12-10 alle 20.12.51.png",
+    "Schermata 2023-12-10 alle 20.12.03.png",
+    "Intro/Network/Rete GARR.md",
+    "Images/Schermata 2023-12-10 alle 20.10.28.png",
+    "Images/Schermata 2023-12-10 alle 20.08.14.png",
+    "Definizioni/Protocollo.md",
+    "Livello di Rete/Forwarding.md",
     "Indice.md",
     "Intro/Reti a commutazione/Commutazione.md",
     "Intro/Protocolli Internet/Modelli Stratificati.md",
     "Intro/Metriche/Bandwidth.md",
-    "Intro/Metriche/Metriche.md",
     "Livello Applicativo/HTTP/Idempotenza.md",
     "Definizioni/Separation of Concern.md",
     "Definizioni/Information Hiding.md",
     "Definizioni/Interfaccia.md",
-    "Definizioni/Protocollo.md",
     "Definizioni/Server.md",
     "Definizioni/Client.md",
     "Definizioni/Connection-Less.md",
     "Definizioni/Connection-Oriented.md",
     "Definizioni/Connessione persistente.md",
     "Definizioni/Connessione.md",
-    "Definizioni/Connessione non persistente.md",
-    "Definizioni/Incapsulamento dei Dati.md",
-    "Definizioni/Stream.md",
-    "Definizioni/Internet Service Provider (ISP).md",
-    "Livello Applicativo/HTTP/Content Negotiation.md",
-    "Definizioni/Internet eXchange Point (IXP).md",
-    "Definizioni/Strato.md",
-    "Livello Applicativo/DNS/Nome di Dominio.md",
-    "Definizioni/Porta.md",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",
@@ -212,11 +217,6 @@
     "Images/Pasted image 20230927115422.png",
     "Images/Pasted image 20230926151915.png",
     "Images/Pasted image 20230930173710.png",
-    "Images/Pasted image 20230930173317.png",
-    "Images/Schermata 2023-10-08 alle 22.39.44.png",
-    "Images/Schermata 2023-10-08 alle 20.19.18.png",
-    "Images/Pasted image 20231015143237.png",
-    "Images/Pasted image 20231015143212.png",
     "Livello Applicativo",
     "Livello Trasporto",
     "Intro",
