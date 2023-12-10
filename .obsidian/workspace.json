@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Intro/Reti a commutazione/Commutazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d696a40ed7bb8df9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro/Reti a commutazione/Reti a commutazione di circuito.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73fdbf17b7e72cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
                 "mode": "source",
                 "source": false
@@ -94,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
+                "file": "Intro/Reti a commutazione/Commutazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
+                "file": "Intro/Reti a commutazione/Commutazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md"
+                "file": "Intro/Reti a commutazione/Commutazione.md"
               }
             }
           },
@@ -176,8 +200,14 @@
   "active": "6cea23d18267120b",
   "lastOpenFiles": [
     "Intro/Reti a commutazione/Reti a commutazione di circuito.md",
-    "Intro/Reti a commutazione/Frequency Division Multiplexing (FDM).md",
+    "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
+    "Images/Schermata 2023-12-10 alle 20.26.11.png",
+    "Images/Schermata 2023-12-10 alle 20.24.26.png",
+    "Intro/Reti a commutazione/Commutazione.md",
     "Intro/Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
+    "Intro/Reti a commutazione/Time Division Multiplexing (TDM).md",
+    "Intro/Reti a commutazione/Frequency Division Multiplexing (FDM).md",
+    "Indice.md",
     "Intro/Internet.md",
     "Intro/Metriche/Metriche.md",
     "Intro/Network/ISP.md",
@@ -192,8 +222,6 @@
     "Images/Schermata 2023-12-10 alle 20.08.14.png",
     "Definizioni/Protocollo.md",
     "Livello di Rete/Forwarding.md",
-    "Indice.md",
-    "Intro/Reti a commutazione/Commutazione.md",
     "Intro/Protocolli Internet/Modelli Stratificati.md",
     "Intro/Metriche/Bandwidth.md",
     "Livello Applicativo/HTTP/Idempotenza.md",
@@ -203,9 +231,6 @@
     "Definizioni/Server.md",
     "Definizioni/Client.md",
     "Definizioni/Connection-Less.md",
-    "Definizioni/Connection-Oriented.md",
-    "Definizioni/Connessione persistente.md",
-    "Definizioni/Connessione.md",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",
@@ -215,8 +240,6 @@
     "Images/Pasted image 20230930152619.png",
     "Images/Pasted image 20230930152247.png",
     "Images/Pasted image 20230927115422.png",
-    "Images/Pasted image 20230926151915.png",
-    "Images/Pasted image 20230930173710.png",
     "Livello Applicativo",
     "Livello Trasporto",
     "Intro",
