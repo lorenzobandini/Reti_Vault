@@ -1,0 +1,3 @@
+
+Con HTTP/1.1 venivano fatte più [[GET]] in pipeline su una singola connessione [[TCP]] così che il server rispondesse in ordine (FCFS: first-come-first-served scheduling) ma il problema è che un oggetto più piccolo dovesse attendere la trasmissione dietro a oggetti di grandi dimensioni (HOL: head of line blocking) ed il ripristino delle perdite per i [[Segmento TCP|Segmenti TCP]] persi introduceva un altro ritardo.
+Un altra soluzione con HTTP1.1 i browser iniziarono ad instaurare più connessioni TCP in parallelo con un massimo di 6 connessioni contemporanee causando però un comportamento non più equo e poco efficace per il controllo della gestione.

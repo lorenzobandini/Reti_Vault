@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "74fd085a590a6faf",
+        "id": "d49d655d5cd114f2",
         "type": "tabs",
         "children": [
           {
-            "id": "0fd88d18584f5aee",
+            "id": "75432b4910d0e082",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Applicativo/HTTP/HTTP.md",
+                "file": "Livello Applicativo/Posta SMTP/SMTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7172ee0b5ef71cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello Applicativo/Posta SMTP/POP3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b3b83679511cddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello Applicativo/Posta SMTP/Protocollo SMTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "260c9085c545a092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Applicativo/HTTP/HTTP.md",
+                "file": "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Applicativo/HTTP/HTTP.md",
+                "file": "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Applicativo/HTTP/HTTP.md"
+                "file": "Livello Applicativo/Posta SMTP/Handshake SMTP.md"
               }
             }
           },
@@ -174,34 +211,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89db4f98b68cf97f",
+  "active": "260c9085c545a092",
   "lastOpenFiles": [
-    "Livello Applicativo/HTTP/Messaggi HTTP.md",
-    "Livello Applicativo/HTTP/HTTP Request Message.md",
-    "Livello Applicativo/HTTP/Header HTTP.md",
+    "Livello Applicativo/Posta SMTP/Protocollo SMTP.md",
+    "Livello Applicativo/Posta SMTP/POP3.md",
+    "Livello Applicativo/Posta SMTP/SMTP.md",
+    "Indice.md",
+    "Livello Applicativo/Telnet/Telnet.md",
+    "Livello Applicativo/Telnet/Network Virtual Terminal (NVT).md",
     "Livello Applicativo/HTTP/HTTP.md",
+    "Livello Applicativo/HTTP/Versioni HTTP",
+    "Livello Applicativo/HTTP/Versioni HTTP/HTTP-3.md",
+    "Livello Applicativo/HTTP/Versioni HTTP/HTTP-2.md",
+    "Livello Trasporto/QUIC.md",
+    "Livello Applicativo/HTTP/Versioni HTTP/HTTP-1.1.md",
+    "Livello Applicativo/HTTP/Header HTTP.md",
+    "Livello Applicativo/HTTP/Metodi HTTP/GET.md",
+    "Livello Applicativo/HTTP/HTTP Request Message.md",
+    "Livello Applicativo/HTTP/HTTP Response Message.md",
+    "Livello Applicativo/HTTP/Messaggi HTTP.md",
+    "Livello Applicativo/HTTP/Metodi HTTP.md",
+    "Livello Applicativo/HTTP/Metodi HTTP/PUT.md",
+    "Livello Applicativo/HTTP/Metodi HTTP/POST.md",
+    "Livello Applicativo/HTTP/Metodi HTTP/HEAD.md",
+    "Livello Applicativo/HTTP/Server Proxy.md",
     "Livello Trasporto/Protocollo TCP/TCP.md",
     "Intro/Network/World Wide Web.md",
     "Livello Applicativo/Livello Applicativo.md",
     "Livello Applicativo/Interfaccia socket.md",
     "Definizioni/API.md",
-    "Definizioni/Processo.md",
-    "Definizioni/Client-Server.md",
-    "Livello Applicativo/Indirizzare Processi.md",
-    "Livello Applicativo/Uniform Resource/URL.md",
-    "Intro/Protocolli Internet/Modello ISO-OSI.md",
-    "Intro/Protocolli Internet/Open System Interconnector (OSI).md",
-    "Intro/Protocolli Internet/Percorso dati TCP-IP.md",
-    "Intro/Protocolli Internet/Sistemi Aperti.md",
-    "Intro/Protocolli Internet/Uso dei servizi di trasporto.md",
-    "Intro/Protocolli Internet/Stack Protocollare TCP-IP.md",
-    "Intro/Protocolli Internet/Modelli Stratificati.md",
-    "Intro/Protocolli Internet/Sistemi Chiusi.md",
-    "Indice.md",
-    "README.md",
-    "Intro/Protocolli Internet/Modello a Strati.md",
-    "Definizioni/Strato.md",
-    "Intro/Metriche/Metriche.md",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
     "Images/Schermata 2023-12-10 alle 20.24.26.png",
@@ -221,7 +259,6 @@
     "Images/Pasted image 20230930173710.png",
     "Livello Applicativo",
     "Livello Trasporto",
-    "Intro",
     "Senza nome.canvas"
   ]
 }

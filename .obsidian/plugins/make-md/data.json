@@ -53,8 +53,8 @@
       "Livello di Rete/Routing/Routing",
       "Livello Collegamento/Protocolli MAC/Rotazione",
       "Livello Collegamento/Protocolli MAC/Suddivisione del canale",
-      "Intro",
-      "Livello Applicativo"
+      "Livello Applicativo",
+      "Livello Applicativo/Posta SMTP"
     ]
   },
   "expandedSpaces": [
@@ -92,7 +92,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1702292026741,
+  "spacesAutoBackupLast": 1702294616479,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
