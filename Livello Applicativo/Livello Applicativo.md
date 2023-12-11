@@ -4,13 +4,13 @@ All'interno dello stesso [[host]], due processi possono comunicare, due processi
 Il [[Protocollo]] dello strato di applicazione definisce i tipi di messaggi scambiati a livello applicativo, la sintassi, la semantica e le regole per determinare quando e come un processo invia e risponde ai messaggi.
 
 Per ogni applicazione bisogna decidere il paradigmi del livello applicazione adatto tra i seguenti:
--  [[Client-Server]]
+- [[Client-Server]]
 - [[Peer-to-Peer (P2P)]]
 - Misto
 
 Ogni applicazione di rete ha più componenti. Due esempi possono essere:
 - **Web**
-	-  browser sul [[client]]
+	- browser sul [[client]]
 	- [[server]] web
 	- standard per il formato dei documenti
 	- protocollo [[HTTP]]

@@ -2,4 +2,4 @@ Per ricevere messaggi, un [[Processo]] deve avere un identificatore che include 
 
 ![[Pasted image 20230930173710.png]]
 
-Gli indirizzi poi vengono trasmessi attraverso l'[[Uso dei servizi di trasporto]] per fornire servizio agli utenti di [[internet]].
+Gli indirizzi poi vengono trasmessi attraverso l'uso dei servizi di trasporto per fornire servizio agli utenti di [[internet]].

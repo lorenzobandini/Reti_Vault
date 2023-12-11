@@ -1,2 +1,2 @@
-Programma in esecuzione.
+I processi sono programmi in esecuzione su dispositivi terminali di una rete.
 Più precisamente, esso rappresenta un'istanza attiva di un'applicazione o di un servizio, caratterizzata dalla sua esecuzione in memoria e dalla gestione delle risorse di sistema. Un processo è composto da uno o più thread, lo stato corrente, le risorse allocate come memoria e file aperti, e altre informazioni contestuali necessarie per l'esecuzione del software. 

@@ -4,31 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "730551de70dc5697",
+        "id": "74fd085a590a6faf",
         "type": "tabs",
         "children": [
           {
-            "id": "1351b7195ac7147b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "98683c93e5b37c0d",
+            "id": "c5916b1fd33e4d38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Applicativo/Indirizzare Processi.md",
+                "file": "Livello Applicativo/Livello Applicativo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "376939148076db24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definizioni/Processo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Applicativo/Indirizzare Processi.md",
+                "file": "Livello Applicativo/Livello Applicativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Applicativo/Indirizzare Processi.md",
+                "file": "Livello Applicativo/Livello Applicativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Applicativo/Indirizzare Processi.md"
+                "file": "Livello Applicativo/Livello Applicativo.md"
               }
             }
           },
@@ -168,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +185,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98683c93e5b37c0d",
+  "active": "c5916b1fd33e4d38",
   "lastOpenFiles": [
+    "Definizioni/Client-Server.md",
     "Livello Applicativo/Livello Applicativo.md",
+    "Definizioni/Processo.md",
     "Livello Applicativo/Indirizzare Processi.md",
+    "Livello Applicativo/Uniform Resource/URL.md",
     "Intro/Protocolli Internet/Modello ISO-OSI.md",
     "Intro/Protocolli Internet/Open System Interconnector (OSI).md",
     "Intro/Protocolli Internet/Percorso dati TCP-IP.md",
@@ -206,9 +213,6 @@
     "Intro/Metriche/Jitter.md",
     "Intro/Metriche/Throughput.md",
     "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
-    "Intro/Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
-    "Livello Collegamento/Switch.md",
-    "Intro/Reti a commutazione/Reti a commutazione di circuito.md",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
     "Images/Schermata 2023-12-10 alle 20.24.26.png",
