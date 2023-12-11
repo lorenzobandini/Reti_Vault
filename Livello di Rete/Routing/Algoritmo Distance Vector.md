@@ -1,4 +1,4 @@
-Algoritmo iterativo, distribuito cioè ciascun nodo riceve parte delle informazioni da uno o più nodi direttamente connessi, effettuando calcoli e comunicando i risultati ai vicini in modo asincrono cioè senza la necessita di richiedere che tutti i nodi operino al passo con gli altri.
+Algoritmo iterativo e distribuito, cioè ciascun nodo riceve parte delle informazioni da uno o più nodi direttamente connessi, effettuando calcoli e comunicando i risultati ai vicini in modo asincrono cioè senza la necessità di richiedere che tutti i nodi operino al passo con gli altri.
 
 Questo algoritmo si basa sull'equazione di [[Bellman-Ford]].
 

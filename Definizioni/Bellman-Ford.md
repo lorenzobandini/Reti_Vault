@@ -3,5 +3,6 @@ Formula che enuncia che per trovare il percorso a costo minimo tra un nodo sorge
 - Distanza minima tra vicino $z$ e destinazione $y$ sia nota ($d_{zy}$)
 
 L'equazione è:
+se $d_{xy}$ := costo del cammino a costo minimo da $x$ a $y$ allora 
 
-se $d_{xy}$ := costo del cammino a costo minimo da $x$ a $y$ allora $$d_{xy}=min_v\{c(x,v)+d_{vy}\}$$
+$$d_{xy}=min_v\{c(x,v)+d_{vy}\}$$
