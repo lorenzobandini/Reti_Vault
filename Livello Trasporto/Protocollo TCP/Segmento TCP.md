@@ -1,6 +1,6 @@
 Partizioni del flusso di byte inviati nel buffer.
 [[TCP]] numera i byte, anziché i segmenti ed associa un **numero di sequenza** ad ogni segmento che è uguale al numero (nel flusso) del primo byte del segmento. In genere si parte a contare da un initial sequence number generato in modo casuale (e quindi $\neq$ 0).
-Il **numero di riscontro** _(Ack, "acknowledgment" )_ è il numero dell'ultimo byte correttamente ricevuto +1 ($Ack=y$ vuol dire che ho aspetto byte $y$ ed ho ricevuto tutti i byte fino a $y-1$ incluso).
+Il **numero di riscontro** _(Ack, "acknowledgment" )_ è il numero dell'ultimo byte correttamente ricevuto +1 ($Ack=y$ vuol dire che aspetto byte $y$ ed ho ricevuto tutti i byte fino a $y-1$ incluso).
 
 Header del segmento:
 

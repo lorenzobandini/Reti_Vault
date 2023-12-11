@@ -55,7 +55,8 @@
       "Livello Collegamento/Protocolli MAC/Suddivisione del canale",
       "Livello Applicativo/FTP",
       "Livello Applicativo/DNS",
-      "Livello Trasporto"
+      "Livello Trasporto",
+      "Livello Trasporto/Protocollo TCP"
     ]
   },
   "expandedSpaces": [

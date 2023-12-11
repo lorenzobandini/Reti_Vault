@@ -21,9 +21,9 @@ Nelle versioni più recenti si implementa la Selective _ACK_ (_SACK_), i pacchet
 ![[Pasted image 20231025145713.png]]
 
 
-In lato destinatario:
+In lato **destinatario**:
 - Tutti i segmenti inviati per trasmettere dati includono _ACK_
-- Se destinatario non ha dati da inviare e riceve segmento "in ordine" ritarda invio di _ACL_ di 500ms a meno che non riceva nuovo segmento
+- Se destinatario non ha dati da inviare e riceve segmento "in ordine" ritarda invio di _ACK_ di 500ms a meno che non riceva nuovo segmento
 - Se destinatario riceve segmento atteso e precedente non è stato riscontrato allora invia immediatamente _ACK_
 - Se destinatario riceve segmento fuori sequenza oppure mancante oppure duplicato allora invia un segmento _ACK_ indicando il prossimo numero atteso
 

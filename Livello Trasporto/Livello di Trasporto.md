@@ -10,8 +10,8 @@ Il programma applicativo passa i dati nella forma richiesta al livello di traspo
 Utilizza i servizi dello strato di rete. Il [[livello di rete]] si occupa della comunicazione tra host mentre il [[protocollo]] di rete consegna il datagramma all'host destinatario (e non al processo).
 
 Possiamo dividere lo strato di trasporto in:
-- [[Connection-Oriented]] con utili
-- [[Connection-Less]]
+- [[Connection-Oriented]] con utilizzo di [[TCP]]
+- [[Connection-Less]] con utilizzo di [[UDP]]
 
 Le azioni del livello di trasporto sono
 Mittente:
