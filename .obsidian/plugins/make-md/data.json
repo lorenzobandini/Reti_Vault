@@ -53,7 +53,8 @@
       "Livello di Rete/Routing/Routing",
       "Livello Collegamento/Protocolli MAC/Rotazione",
       "Livello Collegamento/Protocolli MAC/Suddivisione del canale",
-      "Livello Applicativo"
+      "Livello Applicativo",
+      "Livello Applicativo/FTP"
     ]
   },
   "expandedSpaces": [

@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d49d655d5cd114f2",
+        "id": "d33a50847a9de5c7",
         "type": "tabs",
         "children": [
           {
-            "id": "75432b4910d0e082",
+            "id": "9afb6b0949c91eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indice.md",
+                "file": "Livello Applicativo/DNS/DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cc4fb5cb40006ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello di Rete/Internet Protocol/Indirizzo IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Livello Applicativo/DNS/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Livello Applicativo/DNS/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Livello Applicativo/DNS/DNS.md"
               }
             }
           },
@@ -173,12 +186,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75432b4910d0e082",
+  "active": "9afb6b0949c91eeb",
   "lastOpenFiles": [
+    "Livello di Rete/Internet Protocol/Indirizzo IP.md",
+    "Livello Applicativo/DNS/DNS.md",
+    "Livello Applicativo/FTP/FTP.md",
+    "Indice.md",
     "Livello Applicativo/Posta SMTP/Protocollo SMTP.md",
     "Livello Applicativo/Posta SMTP/SMTP.md",
     "Livello Applicativo/Posta SMTP/Posta Elettronica.md",
-    "Indice.md",
     "Livello Applicativo/Posta SMTP/Alias.md",
     "Livello Applicativo/Posta SMTP/Mail Server.md",
     "Livello Applicativo/Posta SMTP/POP3.md",
@@ -199,9 +215,6 @@
     "Livello Applicativo/HTTP/Messaggi HTTP.md",
     "Livello Applicativo/HTTP/Metodi HTTP.md",
     "Livello Applicativo/HTTP/Metodi HTTP/PUT.md",
-    "Livello Applicativo/HTTP/Metodi HTTP/POST.md",
-    "Livello Applicativo/HTTP/Metodi HTTP/HEAD.md",
-    "Livello Applicativo/HTTP/Server Proxy.md",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
     "Images/Schermata 2023-12-10 alle 20.24.26.png",

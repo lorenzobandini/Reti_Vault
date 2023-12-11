@@ -13,8 +13,8 @@ Ma FTP fornisce funzionalità aggiuntive rispetto al semplice trasferimento file
 
 Il modello FTP è un [[Protocollo]] Stateful in quando il server deve tenere traccia dello stato dell'utente (connessione di controllo associata ad un account, directory attuale, ecc...)
 Ha un totale di due tipi di connessione, le quali entrambe utilizzano il protocollo di trasporto TCP:
-- [[Control Connection]]
-- [[Data Connection]]
+- [[Control Connection]]: scambio di comandi
+- [[Data Connection]]: scambio dati
 
 ![[Pasted image 20231018161313.png]]
 
