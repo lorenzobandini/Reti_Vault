@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Applicativo/DNS/DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cc4fb5cb40006ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello di Rete/Internet Protocol/Indirizzo IP.md",
+                "file": "Livello Trasporto/Livello di Trasporto.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "53",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -90,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Applicativo/DNS/DNS.md",
+                "file": "Livello Trasporto/Livello di Trasporto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Applicativo/DNS/DNS.md",
+                "file": "Livello Trasporto/Livello di Trasporto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Applicativo/DNS/DNS.md"
+                "file": "Livello Trasporto/Livello di Trasporto.md"
               }
             }
           },
@@ -188,8 +175,21 @@
   },
   "active": "9afb6b0949c91eeb",
   "lastOpenFiles": [
-    "Livello di Rete/Internet Protocol/Indirizzo IP.md",
+    "Definizioni/Connection-Oriented.md",
+    "Livello Trasporto/Livello di Trasporto.md",
+    "Livello Trasporto/Concetto di Multiplexing-Demultiplexing.md",
     "Livello Applicativo/DNS/DNS.md",
+    "Livello di Rete/Internet Protocol/Datagramma IP.md",
+    "Livello Trasporto/Protocollo TCP/ECN.md",
+    "Livello Applicativo/DNS/Messaggi DNS.md",
+    "Livello Applicativo/DNS/Gerarchia dei Server.md",
+    "Livello Applicativo/DNS/Name Servers.md",
+    "Livello Applicativo/DNS/Record DNS.md",
+    "Definizioni/Porta.md",
+    "Livello Applicativo/DNS/Nome di Dominio.md",
+    "Livello Applicativo/DNS/Dominio.md",
+    "Livello Applicativo/DNS/Servizi DNS.md",
+    "Livello di Rete/Internet Protocol/Indirizzo IP.md",
     "Livello Applicativo/FTP/FTP.md",
     "Indice.md",
     "Livello Applicativo/Posta SMTP/Protocollo SMTP.md",
@@ -201,20 +201,7 @@
     "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
     "Livello Applicativo/Posta SMTP/MIME.md",
     "Livello Applicativo/Telnet/Telnet.md",
-    "Livello Applicativo/Telnet/Network Virtual Terminal (NVT).md",
-    "Livello Applicativo/HTTP/HTTP.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
-    "Livello Applicativo/HTTP/Versioni HTTP/HTTP-3.md",
-    "Livello Applicativo/HTTP/Versioni HTTP/HTTP-2.md",
-    "Livello Trasporto/QUIC.md",
-    "Livello Applicativo/HTTP/Versioni HTTP/HTTP-1.1.md",
-    "Livello Applicativo/HTTP/Header HTTP.md",
-    "Livello Applicativo/HTTP/Metodi HTTP/GET.md",
-    "Livello Applicativo/HTTP/HTTP Request Message.md",
-    "Livello Applicativo/HTTP/HTTP Response Message.md",
-    "Livello Applicativo/HTTP/Messaggi HTTP.md",
-    "Livello Applicativo/HTTP/Metodi HTTP.md",
-    "Livello Applicativo/HTTP/Metodi HTTP/PUT.md",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
     "Images/Schermata 2023-12-10 alle 20.24.26.png",

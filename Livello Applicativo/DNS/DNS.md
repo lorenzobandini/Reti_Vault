@@ -20,22 +20,23 @@ Esso è costituito essenzialmente da:
 - Un **database distribuito** contenente i nomi e le corrispondenze con gli [[Indirizzo IP|Indirizzi IP]] implementando una gerarchia di name server
 - Un [[Protocollo]] per la distribuzione delle informazioni sui nomi tra name server. Host e name server comunicano per risolvere nomi utilizzando [[UDP]] sulla porta 53 (oppure [[TCP]])
 
+I pacchetti scambiati sono su questa porta sono [[Messaggi DNS]] che contengono al loro interno anche i record DNS.
 Il DNS offre anche dei [[Servizi DNS]].
 
-La conversione da nome di [[Dominio]] a [[Indirizzo IP]] viene gestita da dei [[Name Servers]].
+La conversione da nome di [[Dominio]] a [[Indirizzo IP]] viene gestita da dei [[Name Servers]] che sono strutturati in una [[Gerarchia dei Server]].
 
 
 Il DNS è un database distribuito di [[Record DNS]].
-Il comando `dig` (domain information groper) è uno strumento per interrogare il DNS [[name servers]] 
+Il comando `dig` (domain information groper) è uno strumento per interrogare il DNS [[name servers]]-
 ```dns
 [dig @server name type]
 
 dig unipi.it MX @8.8.8.8
 ``` 
 Dove:
-- server: è il nome o l'indirizzo IP del name server a cui fare la query
-- name: è il nome del record che stiamo cercando
-- type: indica il tipo di query richiesta, se non esplicitata è A
+- `server`: è il nome o l'indirizzo IP del name server a cui fare la query
+- `name`: è il nome del record che stiamo cercando
+- `type`: indica il tipo di query richiesta, se non esplicitata è A
 
 Ogni organizzazione dotata di host internet pubblicamente accessibili deve fornire i [[Record DNS]] al pubblico dominio che mappano i nomi di tali host in indirizzi IP.
 Tali record possono essere mantenuti in un proprio DNS o tramite un gestore di servizi.

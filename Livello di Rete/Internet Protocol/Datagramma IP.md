@@ -11,7 +11,7 @@ I campi sono:
 - **Hlen (lunghezza dell'header, 4 bit)**: lunghezza dell'intestazione espressa in parole da 32 bit. Tipicamente vale 0101 ovvero 20 Byte.
 - **Tipo di servizio (8 bit)**: serve per decorare il datagramma con vari tipi di servizi:
 	- 6 bit per Differentiated Services: I pacchetti vengono marcati in base alla classe di servizio (telefonata, controllo, multimedia ...) e trattati con differenti politiche di accodamento ai [[router]]
-	- 2 bit di [[Explicit Congestion Notification]]: supporto a [[livello di rete]] e trasporto per la notifica di eventi di congestione.
+	- 2 bit di [[ECN]]: supporto a [[livello di rete]] e trasporto per la notifica di eventi di congestione.
 - **Lunghezza del datagramma (16 bit)**: è la lunghezza di tutto il datagramma in byte, header incluso. (Dim. MAX = 65535)
 - **Identificatore, flag, offset (32 bit)**: sono campi per la [[frammentazione]]
 - **Tempo di vita (8 bit)**: ad ogni passaggio da router viene decrementato, quando raggiunge lo zero viene scartato. Assicura che eventuali percorsi ad anello non provochino traffico perpetuo nella rete

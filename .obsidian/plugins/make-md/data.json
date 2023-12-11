@@ -53,8 +53,9 @@
       "Livello di Rete/Routing/Routing",
       "Livello Collegamento/Protocolli MAC/Rotazione",
       "Livello Collegamento/Protocolli MAC/Suddivisione del canale",
-      "Livello Applicativo",
-      "Livello Applicativo/FTP"
+      "Livello Applicativo/FTP",
+      "Livello Applicativo/DNS",
+      "Livello Trasporto"
     ]
   },
   "expandedSpaces": [
@@ -92,7 +93,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1702294616479,
+  "spacesAutoBackupLast": 1702306608635,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

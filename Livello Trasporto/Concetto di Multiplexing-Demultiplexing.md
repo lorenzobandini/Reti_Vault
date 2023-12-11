@@ -1,4 +1,4 @@
-Lo [[strato]] trasporto provvede allo "smistamento" dei pacchetti e le applicazioni seguendo il concetto di demultiplexing per dirigere ogni pacchetto dati che riceve in un processo.
+Il [[Livello di Trasporto]] provvede allo "smistamento" dei pacchetti e le applicazioni seguendo il concetto di demultiplexing per dirigere ogni pacchetto dati che riceve in un processo.
 
 ![[Pasted image 20231023134930.png]]
 
@@ -12,12 +12,12 @@ Il demultiplexing funziona con l'[[host]] che riceve il [[datagramma IP]], ogni 
 
 Ogni comunicazione di trasporto ([[TCP]] o [[UDP]] che sia) è identificata in maniera univoca grazie alle coppie [[Indirizzo IP]]/[[Porta]] degli host.
 
-Il demultiplexing fatto senza connessione avviene attraverso il protocollo UDP. Lo strato di trasporto dell'host ricevente consegna il segmento UDP alla socket identificata da IP e porta destinazione. Il socket UDP è identificato dalla coppia (IP/Porta). I datagrammi con IP e/o porta mittente differenti ma stessi IP e porta destinatari vengono consegnati alla stessa socket.
+Il demultiplexing [[Connection-Less]] avviene attraverso il protocollo UDP. Lo strato di trasporto dell'host ricevente consegna il [[Datagramma UDP]] alla socket identificata da IP e porta destinazione. Il socket UDP è identificato dalla coppia (IP/Porta). I datagrammi con IP e/o porta mittente differenti ma stessi IP e porta destinatari vengono consegnati alla stessa socket.
 
 ![[Screenshot 2023-10-23 140922.png]]
 
-Il demultiplexing orientato alla connessione avviene attraverso il protocollo TCP connessa è identificata da 4 parametri:
-- Idirizzo IP di origine
+Il demultiplexing [[Connection-Oriented]] avviene attraverso il protocollo TCP connessa è identificata da 4 parametri:
+- Indirizzo IP di origine
 - Numero di porta di origine
 - Indirizzo IP di destinazione
 - Numero di porta di destinazione
