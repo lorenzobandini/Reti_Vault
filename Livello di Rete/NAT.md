@@ -6,4 +6,4 @@ Il router di accesso ha in memoria una tabella di traduzione NAT, le cui righe c
 
 ![[Pasted image 20231129113225.png]]
 
-Per analizzare i protocolli di rete si utilizza Wireshark
+Per analizzare i protocolli di rete si utilizza WireShark.

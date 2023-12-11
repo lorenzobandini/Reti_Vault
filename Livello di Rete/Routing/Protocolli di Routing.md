@@ -27,5 +27,4 @@ Robustezza in caso di malfunzionamenti:
 - DV: un nodo può comunicare cammini a costo minimo errati a tutte le destinazioni. La tabella di ciascun nodo può essere usata dagli altri e un calcolo errato si può diffondere in tutta la rete.
 - LS: un router può comunicare via broadcast un costo sbagliato per uno dei suoi collegamenti connessi ma non per gli altri. I nodi si occupano di calcolare soltanto le proprie tabelle.
 
-
 La visione di una rete costituita da un insieme di router omogenei interconnessi è semplicistica. Nella realtà i router sono organizzati in [[Sistemi Autonomi]].

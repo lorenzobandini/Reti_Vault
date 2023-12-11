@@ -33,3 +33,5 @@ Il [[protocollo]] usato è l'[[Internet Protocol]] che non ha sistemi di gestion
 Inoltre anche a livello di rete si usa il multiplexing per combinare flussi di dati provenienti da diverse sorgenti in un unico canale, utilizzando l'indirizzamento IP e le porte di trasporto e il demultiplexing per separare e indirizzare correttamente i pacchetti in base a tali informazioni, consentendo la comunicazione [[efficiente]] tra dispositivi su una rete.
 
 ![[Pasted image 20231122122540.png]]
+
+Un insieme di reti e router sotto il controllo di una singola entità amministrativa che segue una politica di routing coerente si chiama [[Sistemi Autonomi|sistema autonomo]].

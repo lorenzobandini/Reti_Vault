@@ -1,4 +1,5 @@
-Il [[Routing]] Information Protocol (RIP) è un [[protocollo]] di routing che viene utilizzato per scambiare informazioni sulla rete tra i router all'interno di [[Sistemi Autonomi]] (Intra-AS). Il suo obiettivo principale è quello di determinare il percorso ottimale per inviare i pacchetti da una sorgente a una destinazione attraverso una rete IP. RIP utilizza [[Algoritmo Distance Vector]], che calcola il percorso in base alla "distanza" metrica tra i router che è massimo 15 inclusa la rete dove si trova la destinazione.
+Il [[Routing]] Information Protocol (RIP) è un [[protocollo]] di routing che viene utilizzato per scambiare informazioni sulla rete tra i router all'interno di [[Sistemi Autonomi]] (Intra-AS). Il suo obiettivo principale è quello di determinare il percorso ottimale per inviare i pacchetti da una sorgente a una destinazione attraverso una rete IP.
+RIP utilizza [[Algoritmo Distance Vector]], che calcola il percorso in base alla "distanza" metrica tra i router che è massimo 15 inclusa la rete dove si trova la destinazione (hop-count).
 
 ![[Pasted image 20231202170929.png]]
 
@@ -8,3 +9,5 @@ Il nuovo percorso da $R$ a $Y$ viene inserito in tabella se:
 - Se è un percorso non presente nella tabella e quindi viene aggiunto
 - Se $D_V[Y]+1<D_{Rold}[Y]$ costo ricevuto inferiore a quello del vecchio percorso
 - Se V è nextHop del vecchio e nuovo percorso, ma il costo è cambiato
+
+In poche parole questo algoritmo di routing ha l'obiettivo di scegliere la strada tra un router e un altro con il minor numero di hop possibili cercando anche di gestire il flusso di più messaggi in contemporanea sulla rete.
