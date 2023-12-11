@@ -1,5 +1,5 @@
 Il flusso di dati punto-punto viene suddiviso in pacchetti che condividono le risorse di rete.
-La [[commutazione]] del pacchetto poi continua con una trasmissione store and forward nella quale lo [[Switch]] deve ricevere l'intero pacchetto prima di poter cominciare a tramettere il primo bit del pacchetto sul collegamento in uscita creando un primo ritardo.
+La [[commutazione]] del pacchetto poi continua con una trasmissione store and forward nella quale il commutatore deve ricevere l'intero pacchetto prima di poter cominciare a tramettere il primo bit del pacchetto sul collegamento in uscita creando un primo ritardo.
 
 ![[Schermata 2023-12-10 alle 20.26.11.png]]
 

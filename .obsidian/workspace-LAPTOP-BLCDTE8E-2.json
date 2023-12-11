@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5ca4622d93f0338b",
+        "id": "f72670bcec0d2e51",
         "type": "tabs",
         "children": [
           {
-            "id": "a150ec9601c45ef9",
+            "id": "6cea23d18267120b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro/Metriche/Metriche.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8de8fad6d740495",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro/Metriche/Throughput.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01e3e5ed23b19138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro/Metriche/Bitrate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d34ff171ebc1caf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro/Metriche/Bandwidth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dd1d2fadbbc8d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro/Metriche/Velocità di trasmissione.md",
+                "file": "Livello di Rete/Forwarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -143,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro/Metriche/Metriche.md",
+                "file": "Livello di Rete/Forwarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro/Metriche/Metriche.md",
+                "file": "Livello di Rete/Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro/Metriche/Metriche.md"
+                "file": "Livello di Rete/Forwarding.md"
               }
             }
           },
@@ -222,25 +173,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a150ec9601c45ef9",
+  "active": "89db4f98b68cf97f",
   "lastOpenFiles": [
-    "Intro/Metriche/Velocità di trasmissione.md",
-    "Intro/Metriche/Bandwidth.md",
-    "Intro/Metriche/Bitrate.md",
-    "Intro/Metriche/Throughput.md",
-    "Intro/Metriche/Metriche.md",
-    "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
-    "Intro/Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
-    "Livello Collegamento/Switch.md",
-    "Intro/Reti a commutazione/Reti a commutazione di circuito.md",
-    "Intro/Internet.md",
-    "Livello Collegamento/Livello Collegamento.md",
-    "Livello Collegamento/Ethernet.md",
-    "Intro/Reti a commutazione/Commutazione.md",
-    "Intro/Reti a commutazione/Time Division Multiplexing (TDM).md",
-    "Intro/Reti a commutazione/Frequency Division Multiplexing (FDM).md",
-    "Livello di Rete/Forwarding.md",
-    "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
     "Images/Schermata 2023-12-10 alle 20.24.26.png",
     "Images/Schermata 2023-12-10 alle 20.12.51.png",
@@ -249,13 +183,28 @@
     "Intro/Network/ISP.md",
     "Intro/Network/MAN.md",
     "Intro/Network/WAN.md",
+    "Intro/Internet.md",
     "Indice.md",
+    "Intro/Reti a commutazione/Commutazione.md",
     "Intro/Protocolli Internet/Modelli Stratificati.md",
+    "Intro/Metriche/Bandwidth.md",
+    "Intro/Metriche/Metriche.md",
     "Livello Applicativo/HTTP/Idempotenza.md",
     "Definizioni/Separation of Concern.md",
     "Definizioni/Information Hiding.md",
     "Definizioni/Interfaccia.md",
     "Definizioni/Protocollo.md",
+    "Definizioni/Server.md",
+    "Definizioni/Client.md",
+    "Definizioni/Connection-Less.md",
+    "Definizioni/Connection-Oriented.md",
+    "Definizioni/Connessione persistente.md",
+    "Definizioni/Connessione.md",
+    "Definizioni/Connessione non persistente.md",
+    "Definizioni/Incapsulamento dei Dati.md",
+    "Definizioni/Stream.md",
+    "Definizioni/Internet Service Provider (ISP).md",
+    "Livello Applicativo/HTTP/Content Negotiation.md",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",
@@ -267,9 +216,11 @@
     "Images/Pasted image 20230927115422.png",
     "Images/Pasted image 20230926151915.png",
     "Images/Pasted image 20230930173710.png",
+    "Images/Pasted image 20230930173317.png",
     "Livello Applicativo",
     "Livello Trasporto",
     "Intro",
+    "Livello di Rete",
     "Senza nome.canvas"
   ]
 }
