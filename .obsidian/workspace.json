@@ -44,24 +44,24 @@
             }
           },
           {
-            "id": "7cfbeefcd37d2746",
+            "id": "0f9b7f64f2dffa58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/Controllo del flusso TCP.md",
+                "file": "Livello Trasporto/Protocollo TCP/AIMD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "66aa1f5e921bf433",
+            "id": "960cb3230d675ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md"
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md"
               }
             }
           },
@@ -222,14 +222,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66aa1f5e921bf433",
+  "active": "960cb3230d675ee7",
   "lastOpenFiles": [
-    "Livello Trasporto/Protocollo TCP/TCP.md",
+    "Livello Trasporto/Protocollo TCP/AIMD.md",
     "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
-    "Livello Trasporto/Protocollo TCP/ECN.md",
-    "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
-    "Livello Trasporto/Livello di Trasporto.md",
+    "Livello Trasporto/Protocollo TCP/TCP RENO.md",
+    "Livello Trasporto/Protocollo TCP/TCP Tahoe.md",
+    "Livello Trasporto/Protocollo TCP/TCP CUBIC.md",
     "Livello Trasporto/Protocollo TCP/Controllo del flusso TCP.md",
+    "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
+    "Livello Trasporto/Protocollo TCP/TCP.md",
+    "Livello Trasporto/Protocollo TCP/ECN.md",
+    "Livello Trasporto/Livello di Trasporto.md",
     "Livello Trasporto/Protocollo TCP/Handshake TCP.md",
     "Livello Trasporto/Protocollo TCP/Segmento TCP.md",
     "Livello Trasporto/Protocollo UDP/UDP.md",
@@ -246,10 +250,6 @@
     "Livello Applicativo/DNS/Nome di Dominio.md",
     "Livello Applicativo/DNS/Dominio.md",
     "Livello Applicativo/DNS/Servizi DNS.md",
-    "Livello di Rete/Internet Protocol/Indirizzo IP.md",
-    "Livello Applicativo/FTP/FTP.md",
-    "Indice.md",
-    "Livello Applicativo/Posta SMTP/Protocollo SMTP.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
