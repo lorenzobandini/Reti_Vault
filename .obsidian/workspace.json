@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d33a50847a9de5c7",
+        "id": "e39cdb70a3240292",
         "type": "tabs",
         "children": [
           {
-            "id": "9afb6b0949c91eeb",
+            "id": "190513a1e8797447",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Trasporto/Livello di Trasporto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dc4b03204cab501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b582cec510a57e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f9b7f64f2dffa58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Trasporto/Protocollo TCP/AIMD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "960cb3230d675ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,21 +165,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "960cb3230d675ee7",
+  "active": "190513a1e8797447",
   "lastOpenFiles": [
-    "Livello Trasporto/Protocollo TCP/AIMD.md",
+    "Livello Trasporto/Protocollo TCP/ECN.md",
+    "Livello Trasporto/Livello di Trasporto.md",
+    "Livello Trasporto/Protocollo UDP/UDP.md",
+    "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
+    "Livello Trasporto/Protocollo TCP/TCP.md",
     "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
+    "Livello Trasporto/Protocollo TCP/AIMD.md",
     "Livello Trasporto/Protocollo TCP/TCP RENO.md",
     "Livello Trasporto/Protocollo TCP/TCP Tahoe.md",
     "Livello Trasporto/Protocollo TCP/TCP CUBIC.md",
     "Livello Trasporto/Protocollo TCP/Controllo del flusso TCP.md",
     "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
-    "Livello Trasporto/Protocollo TCP/TCP.md",
-    "Livello Trasporto/Protocollo TCP/ECN.md",
-    "Livello Trasporto/Livello di Trasporto.md",
     "Livello Trasporto/Protocollo TCP/Handshake TCP.md",
     "Livello Trasporto/Protocollo TCP/Segmento TCP.md",
-    "Livello Trasporto/Protocollo UDP/UDP.md",
     "Intro/Protocolli Internet/Stack Protocollare TCP-IP.md",
     "Definizioni/Connection-Oriented.md",
     "Livello Trasporto/Concetto di Multiplexing-Demultiplexing.md",
@@ -249,7 +193,6 @@
     "Definizioni/Porta.md",
     "Livello Applicativo/DNS/Nome di Dominio.md",
     "Livello Applicativo/DNS/Dominio.md",
-    "Livello Applicativo/DNS/Servizi DNS.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",

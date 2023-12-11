@@ -8,7 +8,7 @@ Acronimo per User Datagram Protocol, è un servizio [[internet]] di trasporto da
 Servizio di consegna a massimo sforzo, cioè che UDP farà del suo meglio per inviare i dati il più rapidamente possibile, nel quale però i datagrammi UDP possono essere perduti o consegnati fuori sequenza e l'affidabilità può essere aggiunta a livello applicazione.
 [[Protocollo]] orientato al messaggio poiché ogni [[Datagramma UDP]] è indipendente dall'altro e i processi che lo utilizzano spesso devono inviare messaggi di dimensioni limitate che possono essere incapsulati in un datagramma UDP.
 
-Rispetto al [[TCP]] l’UDP è meno complesso, offre meno servizi, ma è più indicato in contesti dove occorre un completo controllo della temporizzazione.
+Rispetto al [[TCP]], UDP è meno complesso, offre meno servizi, ma è più indicato in contesti dove occorre un completo controllo della temporizzazione.
 
 Le proprietà del servizio UDP sono:
 - [[Connection-Less]] che non quindi non introduce ritardo e quindi rende il protocollo semplice non dovendo gestire lo stato di connessione. Ha un intestazione di soli 8 byte e non ha controllo di congestione e flusso potendo così di mandare dati a raffica.
