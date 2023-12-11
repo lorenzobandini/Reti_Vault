@@ -16,15 +16,16 @@ Un altro algoritmo in contrapposizione, che si basa su [[Algoritmo di Dijkstra]]
 
 Facciamo un confronto tra LS e DV
 Complessità dei messaggi:
-- LS: con $n$ nodi, $E$ collegamenti, implica l'invio di $O(nE)$ messaggi
 - DV: richiede scambi tra nodi adiacenti
+- LS: con $n$ nodi, $E$ collegamenti, implica l'invio di $O(nE)$ messaggi
 
 Velocità di convergenza:
-- LS: l'algoritmo $O(n^2)$ richiede $O(nE)$ messaggi
 - DV: può convergere lentamente. Può presentare cicli d'instradamento. Può presentare il problema del conteggio infinito.
+- LS: l'algoritmo $O(n^2)$ richiede $O(nE)$ messaggi
 
 Robustezza in caso di malfunzionamenti:
-- LS: un router può comunicare via broadcast un costo sbagliato per uno dei suoi collegamenti connessi ma non per gli altri. I nodi si occupano di calcolare soltanto le proprie tabelle.
 - DV: un nodo può comunicare cammini a costo minimo errati a tutte le destinazioni. La tabella di ciascun nodo può essere usata dagli altri e un calcolo errato si può diffondere in tutta la rete.
+- LS: un router può comunicare via broadcast un costo sbagliato per uno dei suoi collegamenti connessi ma non per gli altri. I nodi si occupano di calcolare soltanto le proprie tabelle.
 
-La visione di una rete costituita da un insieme di router omogenei interconnessi è semplicistica. Nella realtà i router sono organizzati in [[Sistemi Autonomi]]
+
+La visione di una rete costituita da un insieme di router omogenei interconnessi è semplicistica. Nella realtà i router sono organizzati in [[Sistemi Autonomi]].

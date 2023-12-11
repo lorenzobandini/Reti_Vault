@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "7d53cf0235020def",
+            "id": "15e5921ddd898322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello di Rete/Routing/Routing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8efe46da3ae4700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello di Rete/Routing/Protocolli di Routing.md",
+                "file": "Livello di Rete/Forwarding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "53",
+                "query": "gerarchi",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -99,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello di Rete/Routing/Protocolli di Routing.md",
+                "file": "Livello di Rete/Forwarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello di Rete/Routing/Protocolli di Routing.md",
+                "file": "Livello di Rete/Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello di Rete/Routing/Protocolli di Routing.md"
+                "file": "Livello di Rete/Forwarding.md"
               }
             }
           },
@@ -199,22 +187,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8efe46da3ae4700",
+  "active": "15e5921ddd898322",
   "lastOpenFiles": [
-    "Livello di Rete/Routing/Algoritmo Distance Vector.md",
-    "Definizioni/Bellman-Ford.md",
+    "Livello di Rete/Internet Protocol/Forwarding Indiretto IP.md",
+    "Livello di Rete/Internet Protocol/Forwarding Diretto IP.md",
+    "Livello di Rete/Forwarding.md",
+    "Livello di Rete/Livello di Rete.md",
+    "Livello di Rete/Routing/Sistemi Autonomi.md",
     "Livello di Rete/Routing/Protocolli di Routing.md",
     "Livello di Rete/Routing/Routing.md",
-    "Livello di Rete/Livello di Rete.md",
+    "Livello di Rete/Routing/Router.md",
+    "Livello di Rete/Routing/Algoritmo Link-State.md",
+    "Livello di Rete/Routing/Algoritmo Distance Vector.md",
+    "Definizioni/Bellman-Ford.md",
     "Livello di Rete/Ping.md",
     "Livello di Rete/ICMP.md",
     "Livello di Rete/Internet Protocol/Frammentazione.md",
     "Livello di Rete/Internet Protocol/Datagramma IP.md",
     "Livello di Rete/Internet Protocol/Meccanismi IP.md",
     "Livello di Rete/Internet Protocol/Indirizzo IP.md",
-    "Livello di Rete/Forwarding.md",
     "Livello di Rete/NAT.md",
-    "Livello di Rete/Internet Protocol/Forwarding Diretto IP.md",
     "Livello di Rete/Internet Protocol/Internet Protocol.md",
     "Livello di Rete/Internet Protocol/DHCP.md",
     "Livello Trasporto/Protocollo TCP/ECN.md",
@@ -223,10 +215,6 @@
     "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
     "Livello Trasporto/Protocollo TCP/TCP.md",
     "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
-    "Livello Trasporto/Protocollo TCP/AIMD.md",
-    "Livello Trasporto/Protocollo TCP/TCP RENO.md",
-    "Livello Trasporto/Protocollo TCP/TCP Tahoe.md",
-    "Livello Trasporto/Protocollo TCP/TCP CUBIC.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
