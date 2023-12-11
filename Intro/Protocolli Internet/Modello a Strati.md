@@ -1,2 +1,0 @@
-Uno [[Strato]] fornisce servizi allo strato superiore e riceve servizi dallo strato inferiore attraverso un'[[Interfaccia]].
-Lo strato n-esimo di una entità può anche comunicare con  lo strato n-esimo di un0altra entità secondo un [[Protocollo]] assegnato.

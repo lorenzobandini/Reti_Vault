@@ -20,7 +20,7 @@ Ogni applicazione di rete ha più componenti. Due esempi possono essere:
 	- server di posta di [[Internet]]
 	- protocolli [[SMTP]], [[POP3]], ecc.
 
-Alcune terminologie delle applicazioni di rete sono  [[API]] e poi [[Interfaccia socket]].
+Alcune terminologie delle applicazioni di rete sono [[API]] e poi [[Interfaccia socket]].
 
 In qualche modo bisogna anche [[Indirizzare Processi]] e per farlo utilizziamo le famiglie di [[Protocollo|Protocolli]] come [[Modello ISO-OSI]] e [[Stack Protocollare TCP-IP]].
 

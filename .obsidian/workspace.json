@@ -4,70 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5ca4622d93f0338b",
+        "id": "730551de70dc5697",
         "type": "tabs",
         "children": [
           {
-            "id": "a150ec9601c45ef9",
+            "id": "1351b7195ac7147b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro/Metriche/Metriche.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c8de8fad6d740495",
+            "id": "98683c93e5b37c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro/Metriche/Throughput.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01e3e5ed23b19138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro/Metriche/Bitrate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d34ff171ebc1caf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro/Metriche/Bandwidth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dd1d2fadbbc8d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro/Metriche/Velocità di trasmissione.md",
+                "file": "Livello Applicativo/Indirizzare Processi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -143,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro/Metriche/Metriche.md",
+                "file": "Livello Applicativo/Indirizzare Processi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro/Metriche/Metriche.md",
+                "file": "Livello Applicativo/Indirizzare Processi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro/Metriche/Metriche.md"
+                "file": "Livello Applicativo/Indirizzare Processi.md"
               }
             }
           },
@@ -208,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,40 +181,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a150ec9601c45ef9",
+  "active": "98683c93e5b37c0d",
   "lastOpenFiles": [
-    "Intro/Metriche/Velocità di trasmissione.md",
-    "Intro/Metriche/Bandwidth.md",
-    "Intro/Metriche/Bitrate.md",
-    "Intro/Metriche/Throughput.md",
+    "Livello Applicativo/Livello Applicativo.md",
+    "Livello Applicativo/Indirizzare Processi.md",
+    "Intro/Protocolli Internet/Modello ISO-OSI.md",
+    "Intro/Protocolli Internet/Open System Interconnector (OSI).md",
+    "Intro/Protocolli Internet/Percorso dati TCP-IP.md",
+    "Intro/Protocolli Internet/Sistemi Aperti.md",
+    "Intro/Protocolli Internet/Uso dei servizi di trasporto.md",
+    "Intro/Protocolli Internet/Stack Protocollare TCP-IP.md",
+    "Intro/Protocolli Internet/Modelli Stratificati.md",
+    "Intro/Protocolli Internet/Sistemi Chiusi.md",
+    "Indice.md",
+    "README.md",
+    "Intro/Protocolli Internet/Modello a Strati.md",
+    "Definizioni/Strato.md",
     "Intro/Metriche/Metriche.md",
+    "Intro/Metriche/Latenza.md",
+    "Intro/Metriche/Bitrate.md",
+    "Intro/Metriche/Bandwidth.md",
+    "Intro/Metriche/Velocità di trasmissione.md",
+    "Intro/Metriche/Prodotto Rate-Ritardo.md",
+    "Intro/Metriche/Jitter.md",
+    "Intro/Metriche/Throughput.md",
     "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
     "Intro/Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
     "Livello Collegamento/Switch.md",
     "Intro/Reti a commutazione/Reti a commutazione di circuito.md",
-    "Intro/Internet.md",
-    "Livello Collegamento/Livello Collegamento.md",
-    "Livello Collegamento/Ethernet.md",
-    "Intro/Reti a commutazione/Commutazione.md",
-    "Intro/Reti a commutazione/Time Division Multiplexing (TDM).md",
-    "Intro/Reti a commutazione/Frequency Division Multiplexing (FDM).md",
-    "Livello di Rete/Forwarding.md",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
     "Images/Schermata 2023-12-10 alle 20.24.26.png",
     "Images/Schermata 2023-12-10 alle 20.12.51.png",
     "Images/Schermata 2023-12-10 alle 20.10.28.png",
     "Images/Schermata 2023-12-10 alle 20.08.14.png",
-    "Intro/Network/ISP.md",
-    "Intro/Network/MAN.md",
-    "Intro/Network/WAN.md",
-    "Indice.md",
-    "Intro/Protocolli Internet/Modelli Stratificati.md",
-    "Livello Applicativo/HTTP/Idempotenza.md",
-    "Definizioni/Separation of Concern.md",
-    "Definizioni/Information Hiding.md",
-    "Definizioni/Interfaccia.md",
-    "Definizioni/Protocollo.md",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",

@@ -12,6 +12,6 @@ Principi base di come stratificare sono:
 
 Ogni livello logico di astrazione è realizzato in un apposito strato e ne viene creato uno nuovo quando si rende necessario un diverso grado di astrazione. 
 
-Prima si usavano dei [[Sistemi Chiusi]], poi  l'[[International Organization for Standards (ISO)]]ha introdotto i [[Sistemi Aperti]] con l'[[Open System Interconnector (OSI)]] creando il [[Modello ISO-OSI]]
+Prima si usavano dei [[Sistemi Chiusi]], poi l'[[International Organization for Standards (ISO)]]ha introdotto i [[Sistemi Aperti]] con l'[[Open System Interconnector (OSI)]] creando il [[Modello ISO-OSI]]
 
 Dalla controparte abbiamo [[Stack Protocollare TCP-IP]] con cui possiamo fare un confronto [[ISO-OSI vs TCP-IP]]

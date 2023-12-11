@@ -1,4 +1,4 @@
-Prevede di dividere le funzionalità del [[Protocollo]] di telecomunicazione in strati o layers ognuno dei quali svolge una parte piccola e indipendente dalle altre allo scopo di permettere una realizzazione o revisione delle singole funzionalità senza dovere toccare le altre o anche di permettere una compatibilità a livelli diversi tra diverse implementazioni.([[Modello a Strati]])
+Prevede di dividere le funzionalità del [[Protocollo]] di telecomunicazione in strati o layers ognuno dei quali svolge una parte piccola e indipendente dalle altre allo scopo di permettere una realizzazione o revisione delle singole funzionalità senza dovere toccare le altre o anche di permettere una compatibilità a livelli diversi tra diverse implementazioni.
 La comunicazione tra i vari livelli è assicurata da chiamate standard; ogni livello è tenuto a rispondere in maniera corretta alle chiamate che gli competono e che verranno generate dai due livello ad esso adiacenti.([[Interfaccia]])
 La modalità con cui le funzioni competenti ad un livello vengono svolte non è visibile dall'esterno che ne è così svincolato.([[Incapsulamento dei Dati]])
 
@@ -23,7 +23,7 @@ In particolare:
 	- si occupa di formare i dati da inviare attraverso il livello fisico incapsulando i dati in un pacchetto provvisto di header (intestazione) e tail (coda), chiamato frame
 - Strato di rete:
 	- deve far giungere i "pacchetti" a destinazione
-	- si occupa dell'instradamento ("routing") dei pacchetti cioè di determinare la sequenza di collegamenti punto-punto necessari per trasmettere un pacchetto da un nodo generico della rete a un altro
+	- si occupa dell'instradamento ("[[routing]]") dei pacchetti cioè di determinare la sequenza di collegamenti punto-punto necessari per trasmettere un pacchetto da un nodo generico della rete a un altro
 - Strato di trasporto:
 	- questo strato fornisce un servizio di trasferimento dati end-to-end
 	- si occupa di instaurare, mantenere e terminare una connessione
