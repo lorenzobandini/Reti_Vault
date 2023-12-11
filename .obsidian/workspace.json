@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5916b1fd33e4d38",
+            "id": "0fd88d18584f5aee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Applicativo/Livello Applicativo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "376939148076db24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definizioni/Processo.md",
+                "file": "Livello Applicativo/HTTP/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -106,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Applicativo/Livello Applicativo.md",
+                "file": "Livello Applicativo/HTTP/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Applicativo/Livello Applicativo.md",
+                "file": "Livello Applicativo/HTTP/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Applicativo/Livello Applicativo.md"
+                "file": "Livello Applicativo/HTTP/HTTP.md"
               }
             }
           },
@@ -185,11 +174,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5916b1fd33e4d38",
+  "active": "89db4f98b68cf97f",
   "lastOpenFiles": [
-    "Definizioni/Client-Server.md",
+    "Livello Applicativo/HTTP/Messaggi HTTP.md",
+    "Livello Applicativo/HTTP/HTTP Request Message.md",
+    "Livello Applicativo/HTTP/Header HTTP.md",
+    "Livello Applicativo/HTTP/HTTP.md",
+    "Livello Trasporto/Protocollo TCP/TCP.md",
+    "Intro/Network/World Wide Web.md",
     "Livello Applicativo/Livello Applicativo.md",
+    "Livello Applicativo/Interfaccia socket.md",
+    "Definizioni/API.md",
     "Definizioni/Processo.md",
+    "Definizioni/Client-Server.md",
     "Livello Applicativo/Indirizzare Processi.md",
     "Livello Applicativo/Uniform Resource/URL.md",
     "Intro/Protocolli Internet/Modello ISO-OSI.md",
@@ -205,14 +202,6 @@
     "Intro/Protocolli Internet/Modello a Strati.md",
     "Definizioni/Strato.md",
     "Intro/Metriche/Metriche.md",
-    "Intro/Metriche/Latenza.md",
-    "Intro/Metriche/Bitrate.md",
-    "Intro/Metriche/Bandwidth.md",
-    "Intro/Metriche/Velocità di trasmissione.md",
-    "Intro/Metriche/Prodotto Rate-Ritardo.md",
-    "Intro/Metriche/Jitter.md",
-    "Intro/Metriche/Throughput.md",
-    "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
     "Images/Schermata 2023-12-10 alle 20.24.26.png",
