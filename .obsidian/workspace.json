@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello di Rete/Routing/Algoritmo Link-State.md",
+                "file": "Livello Collegamento/ARP.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello di Rete/Routing/Algoritmo Link-State.md",
+                "file": "Livello Collegamento/ARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello di Rete/Routing/Algoritmo Link-State.md",
+                "file": "Livello Collegamento/ARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello di Rete/Routing/Algoritmo Link-State.md"
+                "file": "Livello Collegamento/ARP.md"
               }
             }
           },
@@ -173,13 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76d18310b3f0c4fe",
+  "active": "89db4f98b68cf97f",
   "lastOpenFiles": [
+    "Livello di Rete/Routing/BGP.md",
     "Livello di Rete/Routing/Algoritmo Link-State.md",
     "Livello di Rete/Routing/Sistemi Autonomi.md",
     "Livello di Rete/Internet Protocol/Indirizzi IPv6.md",
     "Livello di Rete/Internet Protocol/Indirizzi IPv4.md",
-    "Livello di Rete/Routing/BGP.md",
     "Livello di Rete/Routing/OSPF.md",
     "Livello di Rete/Routing/RIP.md",
     "Livello di Rete/Livello di Rete.md",
