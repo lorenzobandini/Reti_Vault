@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e7bb3b8118514e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello di Rete/Routing/OSPF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e432f0b66d8458f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello di Rete/Routing/RIP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello di Rete/Routing/RIP.md",
+                "file": "Livello di Rete/Routing/Sistemi Autonomi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello di Rete/Routing/RIP.md",
+                "file": "Livello di Rete/Routing/Sistemi Autonomi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello di Rete/Routing/RIP.md"
+                "file": "Livello di Rete/Routing/Sistemi Autonomi.md"
               }
             }
           },
@@ -199,10 +174,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e432f0b66d8458f",
+  "active": "673a6de206ab1d4f",
   "lastOpenFiles": [
-    "Livello di Rete/Routing/OSPF.md",
+    "Livello di Rete/Internet Protocol/Indirizzi IPv6.md",
+    "Livello di Rete/Internet Protocol/Indirizzi IPv4.md",
     "Livello di Rete/Routing/Sistemi Autonomi.md",
+    "Livello di Rete/Routing/BGP.md",
+    "Livello di Rete/Routing/OSPF.md",
+    "Livello di Rete/Routing/Algoritmo Link-State.md",
     "Livello di Rete/Routing/RIP.md",
     "Livello di Rete/Livello di Rete.md",
     "Livello di Rete/Routing/Protocolli di Routing.md",
@@ -212,7 +191,6 @@
     "Livello di Rete/Internet Protocol/Forwarding Diretto IP.md",
     "Livello di Rete/Routing/Routing.md",
     "Livello di Rete/Routing/Router.md",
-    "Livello di Rete/Routing/Algoritmo Link-State.md",
     "Livello di Rete/Routing/Algoritmo Distance Vector.md",
     "Definizioni/Bellman-Ford.md",
     "Livello di Rete/Ping.md",
@@ -224,9 +202,6 @@
     "Livello di Rete/Internet Protocol/Internet Protocol.md",
     "Livello di Rete/Internet Protocol/DHCP.md",
     "Livello Trasporto/Protocollo TCP/ECN.md",
-    "Livello Trasporto/Livello di Trasporto.md",
-    "Livello Trasporto/Protocollo UDP/UDP.md",
-    "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
