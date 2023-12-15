@@ -1,5 +1,4 @@
-Richiede solo le opzioni di comunicazione associate ad un [[URL]]
-o al [[server]] stesso (le sue capacità, metodi esposti, ecc.).
+Richiede solo le opzioni di comunicazione associate ad un [[URL]] o al [[server]] stesso (le sue capacità, metodi esposti, ecc.).
 
 ```http
 OPTIONS http://192.168.11.66/manual/index.html HTTP/1.1

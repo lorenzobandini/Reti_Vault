@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5d1fde43d5a3477b",
+        "id": "50293746b64e4ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "00d6d24eeb52b253",
+            "id": "ad393e384923e75c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Applicativo/HTTP/HTTP Response Message.md",
+                "file": "Livello di Rete/ICMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49d055db457e93ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello Applicativo/Posta SMTP/MIME.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2xx",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Applicativo/HTTP/HTTP Response Message.md",
+                "file": "Livello Applicativo/Posta SMTP/MIME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Applicativo/HTTP/HTTP Response Message.md",
+                "file": "Livello Applicativo/Posta SMTP/MIME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Applicativo/HTTP/HTTP Response Message.md"
+                "file": "Livello Applicativo/Posta SMTP/MIME.md"
               }
             }
           },
@@ -173,34 +186,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00d6d24eeb52b253",
+  "active": "49d055db457e93ad",
   "lastOpenFiles": [
-    "Livello Applicativo/HTTP/Metodi HTTP/GET.md",
-    "Livello di Rete/Routing/Algoritmo Distance Vector.md",
-    "Livello di Rete/Routing/BGP.md",
-    "Livello Collegamento/Protocolli MAC/Protocolli MAC.md",
-    "Livello Collegamento/Protocolli MAC/Pacchetto ARP.md",
-    "Livello Collegamento/Protocolli MAC/Indirizzo MAC.md",
-    "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
-    "Livello Collegamento/Protocolli MAC/Forwarding indiretto MAC.md",
-    "Livello Collegamento/Switch.md",
-    "Livello Collegamento/Livello Collegamento.md",
-    "Livello Collegamento/ARP.md",
-    "Intro/Metriche/Latenza.md",
-    "Intro/Reti a commutazione/Reti a commutazione di circuito.md",
+    "Livello Applicativo/Posta SMTP/Mail Server.md",
+    "Livello Applicativo/Posta SMTP/Indirizzo Email.md",
+    "Intro/Network/LAN.md",
+    "Intro/Protocolli Internet/Modelli Stratificati.md",
+    "Intro/Protocolli Internet/Stack Protocollare TCP-IP.md",
+    "Intro/Protocolli Internet/Sistemi Aperti.md",
+    "Intro/Protocolli Internet/Modello ISO-OSI.md",
+    "Intro/Protocolli Internet/ISO-OSI vs TCP-IP.md",
+    "Intro/Reti a commutazione/Time Division Multiplexing (TDM).md",
     "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
-    "Livello Trasporto/Protocollo TCP/ECN.md",
-    "Livello Collegamento/Ethernet.md",
-    "Livello di Rete/Internet Protocol/DHCP.md",
-    "Livello di Rete/Routing/RIP.md",
-    "Livello di Rete/Routing/OSPF.md",
-    "Definizioni/Bellman-Ford.md",
-    "Livello di Rete/Routing/Algoritmo Link-State.md",
+    "Intro/Reti a commutazione/Frequency Division Multiplexing (FDM).md",
+    "Intro/Reti a commutazione/Circuit-Switching vs Packet-Switching.md",
+    "Intro/Reti a commutazione/Reti a commutazione di circuito.md",
+    "Intro/Metriche/Latenza.md",
     "Livello di Rete/ICMP.md",
-    "Livello di Rete/Internet Protocol/Datagramma IP.md",
-    "Livello di Rete/Internet Protocol/Indirizzo IP.md",
-    "Livello di Rete/Internet Protocol/Indirizzi IPv4.md",
-    "Livello di Rete/Internet Protocol/Classless Adressing (CIDR).md",
+    "Livello di Rete/NAT.md",
+    "Livello di Rete/Forwarding.md",
+    "Livello di Rete/Internet Protocol/Forwarding Diretto IP.md",
+    "Livello di Rete/Internet Protocol/Forwarding Indiretto IP.md",
+    "Livello di Rete/Livello di Rete.md",
+    "Livello Trasporto/Livello di Trasporto.md",
+    "Livello Trasporto/Protocollo UDP/UDP.md",
+    "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
+    "Livello Trasporto/Protocollo UDP/Attacco UDP Flood.md",
+    "Livello Trasporto/Protocollo UDP/Attacco UDP Amplification.md",
+    "Livello Trasporto/Protocollo TCP/Controllo del flusso TCP.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
