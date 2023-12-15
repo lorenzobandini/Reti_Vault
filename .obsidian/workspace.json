@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Applicativo/DNS/Record DNS.md",
+                "file": "Livello Applicativo/Posta SMTP/SMTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tld",
+                "query": "top level",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Applicativo/DNS/Record DNS.md",
+                "file": "Livello Applicativo/Posta SMTP/SMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Applicativo/DNS/Record DNS.md",
+                "file": "Livello Applicativo/Posta SMTP/SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Applicativo/DNS/Record DNS.md"
+                "file": "Livello Applicativo/Posta SMTP/SMTP.md"
               }
             }
           },
@@ -173,8 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53a1ce07b32683b9",
+  "active": "a30d0674635b5214",
   "lastOpenFiles": [
+    "Livello Applicativo/DNS/Record DNS.md",
+    "Livello Applicativo/DNS/Dominio.md",
     "Livello Applicativo/HTTP/Metodi HTTP.md",
     "Intro/Metriche/Metriche.md",
     "Livello Applicativo/HTTP/HTTP Request Message.md",
@@ -199,8 +202,6 @@
     "Livello di Rete/Routing/Routing.md",
     "Livello di Rete/Routing/Router.md",
     "Livello di Rete/Routing/Algoritmo Distance Vector.md",
-    "Definizioni/Bellman-Ford.md",
-    "Livello di Rete/Ping.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
