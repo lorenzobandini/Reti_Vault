@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
+                "file": "Livello di Rete/Internet Protocol/DHCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1ff5713e0371e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello di Rete/Internet Protocol/Indirizzo IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36bd3673ee934ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello di Rete/ICMP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cir",
+                "query": "hlen",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -107,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
+                "file": "Livello di Rete/ICMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
+                "file": "Livello di Rete/ICMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md"
+                "file": "Livello di Rete/ICMP.md"
               }
             }
           },
@@ -186,8 +210,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53a1ce07b32683b9",
+  "active": "36bd3673ee934ee4",
   "lastOpenFiles": [
+    "Livello di Rete/Internet Protocol/Datagramma IP.md",
+    "Livello di Rete/Internet Protocol/Indirizzo IP.md",
+    "Livello di Rete/Internet Protocol/Indirizzi IPv4.md",
+    "Livello di Rete/Internet Protocol/DHCP.md",
+    "Livello di Rete/Internet Protocol/Classless Adressing (CIDR).md",
+    "Livello Trasporto/Protocollo TCP/TCP RENO.md",
     "Livello Trasporto/Protocollo TCP/Controllo del flusso TCP.md",
     "Livello Trasporto/Protocollo TCP/Segmento TCP.md",
     "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
@@ -208,12 +238,6 @@
     "Intro/Metriche/Velocità di trasmissione.md",
     "Intro/Metriche/Bandwidth.md",
     "Livello Collegamento/ARP.md",
-    "Livello di Rete/Routing/BGP.md",
-    "Livello di Rete/Routing/Algoritmo Link-State.md",
-    "Livello di Rete/Routing/Sistemi Autonomi.md",
-    "Livello di Rete/Internet Protocol/Indirizzi IPv6.md",
-    "Livello di Rete/Internet Protocol/Indirizzi IPv4.md",
-    "Livello di Rete/Routing/OSPF.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",

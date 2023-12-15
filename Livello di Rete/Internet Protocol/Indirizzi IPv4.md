@@ -19,6 +19,6 @@ In particolare:
 
 Il vantaggio di questo adressing è il fatto che sia facile risalire all'indirizzo di rete ma poco flessibile nell'utilizzo dello scarso range di indirizzi disponibili
 
-Per questo come soluzione si utilizza il [[Classless Adressing]] e gli [[Indirizzi IPv6]] di 128 bit anziché 32.
+Per questo come soluzione si utilizza il [[Classless Adressing (CIDR)]] e gli [[Indirizzi IPv6]] di 128 bit anziché 32.
 
 `
