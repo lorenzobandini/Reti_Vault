@@ -56,7 +56,8 @@
       "Livello Applicativo/FTP",
       "Livello Applicativo/DNS",
       "Livello di Rete/Routing",
-      "Livello Collegamento"
+      "Livello Collegamento",
+      "Livello Collegamento/Protocolli MAC"
     ]
   },
   "expandedSpaces": [
