@@ -7,7 +7,7 @@ Il protocollo si basa sull'algoritmo per cui un nodo invia la tabella di inoltro
 Un nodo $R$ riceve advertisement da vicino $V$ con $D_V[Y]$ e allora $D_R[Y]=1+D_V[Y]$ cioè viene aggiunto un hop $c(x,v)$ e considera come next-hop $V$.
 Il nuovo percorso da $R$ a $Y$ viene inserito in tabella se:
 - Se è un percorso non presente nella tabella e quindi viene aggiunto
-- Se $D_V[Y]+1<D_{Rold}[Y]$ costo ricevuto inferiore a quello del vecchio percorso
+- Se $D_V[Y]+1<D_{R_{old}}[Y]$ costo ricevuto inferiore a quello del vecchio percorso
 - Se V è nextHop del vecchio e nuovo percorso, ma il costo è cambiato
 
 In poche parole questo algoritmo di routing ha l'obiettivo di scegliere la strada tra un router e un altro con il minor numero di hop possibili cercando anche di gestire il flusso di più messaggi in contemporanea sulla rete.
