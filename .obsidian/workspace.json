@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cir",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -189,10 +188,10 @@
   },
   "active": "53a1ce07b32683b9",
   "lastOpenFiles": [
+    "Livello Trasporto/Protocollo TCP/Controllo del flusso TCP.md",
     "Livello Trasporto/Protocollo TCP/Segmento TCP.md",
     "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
     "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
-    "Livello Trasporto/Protocollo TCP/Controllo del flusso TCP.md",
     "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
     "Livello Trasporto/Protocollo TCP/AIMD.md",
     "Livello Trasporto/Protocollo TCP/ECN.md",
