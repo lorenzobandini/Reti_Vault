@@ -55,10 +55,8 @@
       "Livello Collegamento/Protocolli MAC/Suddivisione del canale",
       "Livello Collegamento/Protocolli MAC",
       "Livello Applicativo/HTTP/Versioni HTTP",
-      "Intro",
       "Livello Applicativo/FTP",
-      "Livello di Rete",
-      "Livello Collegamento",
+      "Livello Collegamento/Protocolli MAC/Suddivisione del canale",
       "Livello Collegamento/Protocolli MAC/Suddivisione del canale"
     ]
   },
@@ -97,7 +95,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1702631152834,
+  "spacesAutoBackupLast": 1702642977466,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
