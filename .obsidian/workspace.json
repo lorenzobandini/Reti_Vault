@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Collegamento/Switch.md",
+                "file": "Intro/Metriche/Latenza.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Collegamento/Switch.md",
+                "file": "Intro/Metriche/Latenza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Collegamento/Switch.md",
+                "file": "Intro/Metriche/Latenza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Collegamento/Switch.md"
+                "file": "Intro/Metriche/Latenza.md"
               }
             }
           },
@@ -175,12 +175,14 @@
   },
   "active": "1cb5ead73fe71e00",
   "lastOpenFiles": [
+    "Livello Collegamento/Switch.md",
+    "Intro/Reti a commutazione/Reti a commutazione di circuito.md",
+    "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
     "Livello Collegamento/Livello Collegamento.md",
     "Livello Collegamento/ARP.md",
     "Livello Trasporto/Protocollo TCP/ECN.md",
     "Livello Collegamento/Ethernet.md",
     "Livello di Rete/Internet Protocol/DHCP.md",
-    "Livello Collegamento/Switch.md",
     "Livello di Rete/Routing/RIP.md",
     "Livello di Rete/Routing/OSPF.md",
     "Definizioni/Bellman-Ford.md",
@@ -199,8 +201,6 @@
     "Livello Trasporto/Protocollo TCP/AIMD.md",
     "Livello Trasporto/Protocollo TCP/Handshake TCP.md",
     "Livello Trasporto/Protocollo TCP/TCP.md",
-    "Livello Applicativo/Posta SMTP/SMTP.md",
-    "Livello Applicativo/DNS/Record DNS.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
