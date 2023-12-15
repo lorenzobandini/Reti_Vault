@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Applicativo/Posta SMTP/SMTP.md",
+                "file": "Livello Trasporto/Protocollo TCP/Controllo del flusso TCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b255c02b85c6d525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "top level",
+                "query": "cw",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,12 +87,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Applicativo/Posta SMTP/SMTP.md",
+                "file": "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Applicativo/Posta SMTP/SMTP.md",
+                "file": "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Applicativo/Posta SMTP/SMTP.md"
+                "file": "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md"
               }
             }
           },
@@ -174,8 +186,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a30d0674635b5214",
+  "active": "b255c02b85c6d525",
   "lastOpenFiles": [
+    "Livello Trasporto/Protocollo TCP/Controllo del flusso TCP.md",
+    "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
+    "Livello Trasporto/Protocollo TCP/AIMD.md",
+    "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
+    "Livello Trasporto/Protocollo TCP/ECN.md",
+    "Livello Trasporto/Protocollo TCP/Handshake TCP.md",
+    "Livello Trasporto/Protocollo TCP/Segmento TCP.md",
+    "Livello Trasporto/Protocollo TCP/TCP.md",
+    "Livello Applicativo/Posta SMTP/SMTP.md",
     "Livello Applicativo/DNS/Record DNS.md",
     "Livello Applicativo/DNS/Dominio.md",
     "Livello Applicativo/HTTP/Metodi HTTP.md",
@@ -193,15 +214,6 @@
     "Livello di Rete/Internet Protocol/Indirizzi IPv4.md",
     "Livello di Rete/Routing/OSPF.md",
     "Livello di Rete/Routing/RIP.md",
-    "Livello di Rete/Livello di Rete.md",
-    "Livello di Rete/Routing/Protocolli di Routing.md",
-    "Livello di Rete/NAT.md",
-    "Livello di Rete/Forwarding.md",
-    "Livello di Rete/Internet Protocol/Forwarding Indiretto IP.md",
-    "Livello di Rete/Internet Protocol/Forwarding Diretto IP.md",
-    "Livello di Rete/Routing/Routing.md",
-    "Livello di Rete/Routing/Router.md",
-    "Livello di Rete/Routing/Algoritmo Distance Vector.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
