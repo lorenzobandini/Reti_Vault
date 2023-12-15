@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md"
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md"
               }
             }
           },
@@ -186,15 +187,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b255c02b85c6d525",
+  "active": "53a1ce07b32683b9",
   "lastOpenFiles": [
+    "Livello Trasporto/Protocollo TCP/Segmento TCP.md",
+    "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
+    "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
     "Livello Trasporto/Protocollo TCP/Controllo del flusso TCP.md",
     "Livello Trasporto/Protocollo TCP/Trasporto affidabile TCP.md",
     "Livello Trasporto/Protocollo TCP/AIMD.md",
-    "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
     "Livello Trasporto/Protocollo TCP/ECN.md",
     "Livello Trasporto/Protocollo TCP/Handshake TCP.md",
-    "Livello Trasporto/Protocollo TCP/Segmento TCP.md",
     "Livello Trasporto/Protocollo TCP/TCP.md",
     "Livello Applicativo/Posta SMTP/SMTP.md",
     "Livello Applicativo/DNS/Record DNS.md",
@@ -213,7 +215,6 @@
     "Livello di Rete/Internet Protocol/Indirizzi IPv6.md",
     "Livello di Rete/Internet Protocol/Indirizzi IPv4.md",
     "Livello di Rete/Routing/OSPF.md",
-    "Livello di Rete/Routing/RIP.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
