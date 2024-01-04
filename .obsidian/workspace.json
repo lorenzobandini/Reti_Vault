@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Collegamento/Switch.md",
+                "file": "Definizioni/Peer-to-Peer (P2P).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "peer",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Collegamento/Switch.md",
+                "file": "Definizioni/Peer-to-Peer (P2P).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Collegamento/Switch.md",
+                "file": "Definizioni/Peer-to-Peer (P2P).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Collegamento/Switch.md"
+                "file": "Definizioni/Peer-to-Peer (P2P).md"
               }
             }
           },
@@ -175,8 +175,11 @@
   },
   "active": "58a63852634733ad",
   "lastOpenFiles": [
-    "Livello Trasporto/Protocollo TCP/TCP RENO.md",
+    "Livello Applicativo/Livello Applicativo.md",
+    "Definizioni/Peer-to-Peer (P2P).md",
+    "Intro/Internet.md",
     "Livello Collegamento/Switch.md",
+    "Livello Trasporto/Protocollo TCP/TCP RENO.md",
     "Livello Trasporto/Protocollo TCP/TCP.md",
     "Livello di Rete/Routing/Algoritmo Distance Vector.md",
     "Livello di Rete/Routing/Protocolli di Routing.md",
@@ -201,9 +204,6 @@
     "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
     "Livello Collegamento/Protocolli MAC/Pacchetto ARP.md",
     "Livello Collegamento/Protocolli MAC/Suddivisione del canale/TDMA.md",
-    "Livello di Rete/Internet Protocol/Classless Adressing (CIDR).md",
-    "Livello Collegamento/Protocolli MAC/Forwarding indiretto MAC.md",
-    "Livello Collegamento/VLAN.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
