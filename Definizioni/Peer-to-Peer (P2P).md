@@ -16,4 +16,4 @@ Tutti i nodi (peer) hanno la stessa importanza e ogni nodo ha funzione sia di cl
 
 I sistemi sono altamente distribuiti e il numero dei nodi può essere dell'ordine delle centinaia di migliaia ma rimanendo dinamici e indipendenti entrando o uscendo dalla rete P2P in qualsiasi momento secondo operazioni di ingresso e uscita.
 
-Un problema che si presenta dal fatto che le coppie di peer comunicano direttamente tra loro è che ogni peer non è necessariamente sempre attivo e può cambiare indirizzo IP ogni volta che si connette,q
+Un problema che si presenta dal fatto che le coppie di peer comunicano direttamente tra loro è che ogni peer non è necessariamente sempre attivo e può cambiare indirizzo IP ogni volta che si connette, quindi c'è bisogno di un metodo per trovare i peer e tenere traccia dei file disponibili nei vari peer.
