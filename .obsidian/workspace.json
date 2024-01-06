@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reti non Strutturate.md",
+                "file": "Definizioni/Peer-to-Peer (P2P).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reti non Strutturate.md",
+                "file": "Definizioni/Peer-to-Peer (P2P).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reti non Strutturate.md",
+                "file": "Definizioni/Peer-to-Peer (P2P).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reti non Strutturate.md"
+                "file": "Definizioni/Peer-to-Peer (P2P).md"
               }
             }
           },
@@ -176,8 +176,10 @@
   },
   "active": "58a63852634733ad",
   "lastOpenFiles": [
-    "Definizioni/Peer-to-Peer (P2P).md",
     "Reti non Strutturate.md",
+    "Schermata 2024-01-06 alle 12.30.19.png",
+    "Schermata 2024-01-06 alle 12.29.23.png",
+    "Definizioni/Peer-to-Peer (P2P).md",
     "Livello Applicativo/Livello Applicativo.md",
     "Intro/Internet.md",
     "Livello Collegamento/Switch.md",
@@ -204,7 +206,6 @@
     "Livello Collegamento/Protocolli MAC/Suddivisione del canale/FDMA.md",
     "Livello Collegamento/Livello Collegamento.md",
     "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
-    "Livello Collegamento/Protocolli MAC/Pacchetto ARP.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
@@ -218,8 +219,6 @@
     "Livello Applicativo/FTP",
     "Livello Applicativo/Telnet",
     "Livello Applicativo/Uniform Resource",
-    "Images/Pasted image 20230930152619.png",
-    "Images/Pasted image 20230930152247.png",
     "Livello Applicativo",
     "Livello Trasporto",
     "Senza nome.canvas"
