@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58a63852634733ad",
+            "id": "77221143d42d2db1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/Peer-to-Peer (P2P).md",
+                "file": "Definizioni/Reti Strutturate.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Peer-to-Peer (P2P).md",
+                "file": "Definizioni/Reti Strutturate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Peer-to-Peer (P2P).md",
+                "file": "Definizioni/Reti Strutturate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Peer-to-Peer (P2P).md"
+                "file": "Definizioni/Reti Strutturate.md"
               }
             }
           },
@@ -174,12 +173,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58a63852634733ad",
+  "active": "77221143d42d2db1",
   "lastOpenFiles": [
-    "Reti non Strutturate.md",
-    "Schermata 2024-01-06 alle 12.30.19.png",
+    "Images/Schermata 2024-01-06 alle 15.05.53.png",
+    "Images/Schermata 2024-01-06 alle 12.30.19.png",
     "Schermata 2024-01-06 alle 12.29.23.png",
+    "Definizioni/Reti Strutturate.md",
     "Definizioni/Peer-to-Peer (P2P).md",
+    "Definizioni/Reti non Strutturate.md",
     "Livello Applicativo/Livello Applicativo.md",
     "Intro/Internet.md",
     "Livello Collegamento/Switch.md",
@@ -205,14 +206,12 @@
     "Livello Collegamento/ARP.md",
     "Livello Collegamento/Protocolli MAC/Suddivisione del canale/FDMA.md",
     "Livello Collegamento/Livello Collegamento.md",
-    "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
     "Images/Schermata 2023-12-10 alle 20.24.26.png",
     "Images/Schermata 2023-12-10 alle 20.12.51.png",
     "Images/Schermata 2023-12-10 alle 20.10.28.png",
-    "Images/Schermata 2023-12-10 alle 20.08.14.png",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",

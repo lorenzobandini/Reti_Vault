@@ -24,5 +24,14 @@ Per cui vengono usate **reti decentralizzate** in un cui non c'è un servizio di
 - [[Reti non Strutturate]]
 - [[Reti Strutturate]]
 
-Per combinare al meglio i diversi approcci di directory centralizzata o reti decentralizzate si adotta una copertura gerarchica in cui non ci sono server con tutti i contenuti ma nemmeno abbiamo peer tutti uguali.
-Ogni peer infatti o è un group leader se ha abbastanza banda o risorse oppure viene assegnato ad un group leader per poi instaurare le connessioni TCP tra peer e il suo group leader e tra varie coppie di group leader.
+Per combinare al meglio i diversi approcci di directory centralizzata o reti decentralizzate si adotta una **copertura gerarchica** in cui non ci sono server con tutti i contenuti ma nemmeno abbiamo peer tutti uguali.
+Ogni peer infatti o è un group leader se ha abbastanza banda o risorse oppure viene assegnato ad un group leader per poi instaurare le connessioni TCP tra peer e il suo group leader e tra varie coppie di group leader. Il group leader tiene traccia del contenuto dei suoi figli.
+Ogni file è associato con un suo hash e un suo descrittore.
+Il protocollo segue i passi:
+1. Il client invia una query di keyword al suo group leader
+2. il group leader risponde con dei match del tipo _\< hash del file, indirizzo IP \>_
+3. Il client sceglie quindi i file da scaricare
+
+Quando un group leader si disconnette, i peer di quel group leader devono essere assegnati ad un altro group leader.
+
+![[Schermata 2024-01-06 alle 15.05.53.png]]
