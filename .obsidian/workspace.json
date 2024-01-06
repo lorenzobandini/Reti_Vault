@@ -11,8 +11,12 @@
             "id": "0c85528572df89a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sicurezza di Rete.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sicurezza di Rete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -101,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sicurezza di Rete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sicurezza di Rete.md"
+              }
             }
           },
           {
@@ -167,6 +175,7 @@
   },
   "active": "0c85528572df89a4",
   "lastOpenFiles": [
+    "Sicurezza di Rete.md",
     "Livello Trasporto/Protocollo UDP/Attacco UDP Flood.md",
     "Livello Trasporto/Protocollo UDP/UDP.md",
     "Livello Applicativo/Peer To Peer/Peer-to-Peer (P2P).md",
@@ -197,7 +206,6 @@
     "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
     "Indice.md",
     "Livello Collegamento/Protocolli MAC/Protocolli MAC.md",
-    "Livello Collegamento/Protocolli MAC/Rotazione/Token Passing.md",
     "Images/Pasted image 20231215132256.png",
     "Images/Screenshot 2023-12-15 132124.png",
     "Pasted image 20231215132206.png",
