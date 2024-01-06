@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58d39b49a88aeabc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definizioni/BitTorrent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Reti Strutturate.md",
+                "file": "Definizioni/BitTorrent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Reti Strutturate.md",
+                "file": "Definizioni/BitTorrent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Reti Strutturate.md"
+                "file": "Definizioni/BitTorrent.md"
               }
             }
           },
@@ -173,16 +187,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77221143d42d2db1",
+  "active": "89db4f98b68cf97f",
   "lastOpenFiles": [
-    "Definizioni/Reti non Strutturate.md",
+    "Livello Applicativo/Livello Applicativo.md",
+    "Definizioni/Peer-to-Peer (P2P).md",
+    "Definizioni/BitTorrent.md",
+    "Intro/Internet.md",
+    "Images/Schermata 2024-01-06 alle 17.25.32.png",
     "Definizioni/Reti Strutturate.md",
+    "Definizioni/Reti non Strutturate.md",
     "Images/Schermata 2024-01-06 alle 15.05.53.png",
     "Images/Schermata 2024-01-06 alle 12.30.19.png",
     "Schermata 2024-01-06 alle 12.29.23.png",
-    "Definizioni/Peer-to-Peer (P2P).md",
-    "Livello Applicativo/Livello Applicativo.md",
-    "Intro/Internet.md",
     "Livello Collegamento/Switch.md",
     "Livello Trasporto/Protocollo TCP/TCP RENO.md",
     "Livello Trasporto/Protocollo TCP/TCP.md",
@@ -205,13 +221,11 @@
     "Pasted image 20231215132206.png",
     "Livello Collegamento/ARP.md",
     "Livello Collegamento/Protocolli MAC/Suddivisione del canale/FDMA.md",
-    "Livello Collegamento/Livello Collegamento.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
     "Images/Schermata 2023-12-10 alle 20.24.26.png",
     "Images/Schermata 2023-12-10 alle 20.12.51.png",
-    "Images/Schermata 2023-12-10 alle 20.10.28.png",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",

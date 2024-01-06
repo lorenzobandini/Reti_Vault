@@ -1,6 +1,6 @@
 Internet è un interconnessione di [[sistemi autonomi]] di reti più piccole.
 Se un sistema si vuole aggiungere ad Internet basta che si adegui all'[[Internet Protocol]].
-I protocolli sono dappertutto, dall'invio e ricezione dei messaggi fino ai servizi [[HTTP]], streaming video, [[Ethernet]]...
+I protocolli sono dappertutto, dall'invio e ricezione dei messaggi fino ai servizi [[HTTP]], streaming video, [[Ethernet]], etc.
 
 Internet è composto da:
 - Dispositivi connessi (hosts o sistemi terminali):
