@@ -17,3 +17,7 @@ Tutti i nodi (peer) hanno la stessa importanza e ogni nodo ha funzione sia di cl
 I sistemi sono altamente distribuiti e il numero dei nodi può essere dell'ordine delle centinaia di migliaia ma rimanendo dinamici e indipendenti entrando o uscendo dalla rete P2P in qualsiasi momento secondo operazioni di ingresso e uscita.
 
 Un problema che si presenta dal fatto che le coppie di peer comunicano direttamente tra loro è che ogni peer non è necessariamente sempre attivo e può cambiare indirizzo IP ogni volta che si connette, quindi c'è bisogno di un metodo per trovare i peer e tenere traccia dei file disponibili nei vari peer.
+Usando una directory centralizzata i problemi sono l'unico punto di fallimento, il collo di bottiglia per performance e la facilità con cui potrebbe essere oscurata.
+Per cui vengono usate reti decentralizzate in un cui non c'è un servizio di directory centralizzato e i peer si organizzano in una overlay network. Ne esistono di due categorie:
+- [[Reti non Strutturate]]
+- [[Reti Strutturate]]

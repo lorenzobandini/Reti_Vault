@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/Peer-to-Peer (P2P).md",
+                "file": "Reti non Strutturate.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Peer-to-Peer (P2P).md",
+                "file": "Reti non Strutturate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Peer-to-Peer (P2P).md",
+                "file": "Reti non Strutturate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Peer-to-Peer (P2P).md"
+                "file": "Reti non Strutturate.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "58a63852634733ad",
   "lastOpenFiles": [
-    "Livello Applicativo/Livello Applicativo.md",
     "Definizioni/Peer-to-Peer (P2P).md",
+    "Reti non Strutturate.md",
+    "Livello Applicativo/Livello Applicativo.md",
     "Intro/Internet.md",
     "Livello Collegamento/Switch.md",
     "Livello Trasporto/Protocollo TCP/TCP RENO.md",
@@ -204,7 +205,6 @@
     "Livello Collegamento/Livello Collegamento.md",
     "Livello Collegamento/Protocolli MAC/Forwarding diretto MAC.md",
     "Livello Collegamento/Protocolli MAC/Pacchetto ARP.md",
-    "Livello Collegamento/Protocolli MAC/Suddivisione del canale/TDMA.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
