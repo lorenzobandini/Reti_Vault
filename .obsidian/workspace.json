@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "905dfe9dfaea9a67",
+            "id": "1fa61598b236ee67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAs.md",
+                "file": "ESP.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAs.md",
+                "file": "ESP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAs.md",
+                "file": "ESP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAs.md"
+                "file": "ESP.md"
               }
             }
           },
@@ -199,11 +199,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "905dfe9dfaea9a67",
+  "active": "1fa61598b236ee67",
   "lastOpenFiles": [
     "IPSec.md",
-    "SAs.md",
+    "Schermata 2024-01-07 alle 21.41.22.png",
+    "ESP.md",
+    "Schermata 2024-01-07 alle 21.37.45.png",
+    "Livello di Rete/ICMP.md",
     "Sicurezza di Rete.md",
+    "SAs.md",
+    "Schermata 2024-01-07 alle 21.23.19.png",
     "Schermata 2024-01-07 alle 19.27.05.png",
     "Schermata 2024-01-07 alle 19.25.47.png",
     "Schermata 2024-01-07 alle 19.25.18.png",
@@ -212,8 +217,6 @@
     "Schermata 2024-01-07 alle 18.15.00.png",
     "Schermata 2024-01-07 alle 17.52.26.png",
     "Schermata 2024-01-06 alle 18.51.15.png",
-    "Schermata 2024-01-06 alle 18.50.37.png",
-    "Schermata 2024-01-07 alle 17.39.42.png",
     "Message Authentication Code.md",
     "Message Digest.md",
     "Cifratura a chiave asimmetrica.md",
@@ -228,16 +231,12 @@
     "Livello Applicativo/Peer To Peer/BitTorrent.md",
     "Livello Applicativo/Livello Applicativo.md",
     "Intro/Internet.md",
-    "Images/Schermata 2024-01-06 alle 17.25.32.png",
     "Livello Applicativo/Peer To Peer/Reti non Strutturate.md",
     "Livello Collegamento/Switch.md",
     "Livello Trasporto/Protocollo TCP/TCP RENO.md",
     "Livello Trasporto/Protocollo TCP/TCP.md",
     "Livello di Rete/Routing/Algoritmo Distance Vector.md",
     "Livello di Rete/Routing/Protocolli di Routing.md",
-    "Livello di Rete/Routing/Algoritmo Link-State.md",
-    "Livello di Rete/Routing/Routing.md",
-    "Livello Applicativo/DNS/Record DNS.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Livello di Rete/Internet Protocol",

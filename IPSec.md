@@ -8,3 +8,11 @@ Da un punto di vista più ampio:
 ![[Schermata 2024-01-07 alle 19.27.05.png]]
 
 Per definire i parametri necessari per proteggere il traffico tra due [[Router]] su una rete IP e le politiche di sicurezza si utilizzano le Security Associations ([[SAs]]).
+
+I protocolli principali di IPSec sono:
+- Encapsulating Security Payload ([[ESP]])
+- Authenticathor Header ([[AH]])
+
+Dopo questi passaggi il datagramma IPSec è della forma:
+
+![[Schermata 2024-01-07 alle 21.41.22.png]]
