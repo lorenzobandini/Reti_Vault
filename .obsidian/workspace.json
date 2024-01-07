@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1dbd3b6a0a2670b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cifratura a chiave simmetrica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cifratura a chiave simmetrica.md",
+                "file": "Sicurezza di Rete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cifratura a chiave simmetrica.md",
+                "file": "Sicurezza di Rete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cifratura a chiave simmetrica.md"
+                "file": "Sicurezza di Rete.md"
               }
             }
           },
@@ -186,12 +173,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1dbd3b6a0a2670b0",
+  "active": "0c85528572df89a4",
   "lastOpenFiles": [
+    "Cifratura a chiave simmetrica.md",
     "Schermata 2024-01-06 alle 18.51.15.png",
     "Schermata 2024-01-06 alle 18.50.37.png",
     "Sicurezza di Rete.md",
-    "Cifratura a chiave simmetrica.md",
     "Livello Trasporto/Protocollo UDP/Attacco UDP Flood.md",
     "Livello Trasporto/Protocollo UDP/UDP.md",
     "Livello Applicativo/Peer To Peer/Peer-to-Peer (P2P).md",
@@ -226,7 +213,6 @@
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Images/Schermata 2023-12-10 alle 20.26.11.png",
-    "Images/Schermata 2023-12-10 alle 20.24.26.png",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",
