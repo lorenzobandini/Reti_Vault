@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6dc60bf03e092e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cifratura a chiave simmetrica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sicurezza di Rete.md",
+                "file": "Cifratura a chiave simmetrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sicurezza di Rete.md",
+                "file": "Cifratura a chiave simmetrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sicurezza di Rete.md"
+                "file": "Cifratura a chiave simmetrica.md"
               }
             }
           },
@@ -173,12 +186,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c85528572df89a4",
+  "active": "6dc60bf03e092e08",
   "lastOpenFiles": [
+    "Sicurezza di Rete.md",
     "Cifratura a chiave simmetrica.md",
     "Schermata 2024-01-06 alle 18.51.15.png",
     "Schermata 2024-01-06 alle 18.50.37.png",
-    "Sicurezza di Rete.md",
     "Livello Trasporto/Protocollo UDP/Attacco UDP Flood.md",
     "Livello Trasporto/Protocollo UDP/UDP.md",
     "Livello Applicativo/Peer To Peer/Peer-to-Peer (P2P).md",
