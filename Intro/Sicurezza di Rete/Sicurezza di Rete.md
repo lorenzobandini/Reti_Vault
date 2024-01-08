@@ -16,5 +16,5 @@ I concetti generali della sicurezza quindi sono:
 	- [[Message Digest]]
 	- [[Message Authentication Code]]
 	- [[Firma Digitale]]
-- Sicurezza a livello di rete:
+- Sicurezza a [[livello di rete]]:
 	- [[IPSec]]

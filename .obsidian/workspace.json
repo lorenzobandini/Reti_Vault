@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sicurezza di Rete.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1924226c66c1b12f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IPSec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fa61598b236ee67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESP.md",
+                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a5433327233dd63b",
@@ -120,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESP.md",
+                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,14 +106,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESP.md",
+                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -160,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESP.md"
+                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md"
               }
             }
           },
@@ -180,13 +154,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,28 +171,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1fa61598b236ee67",
+  "active": "0c85528572df89a4",
   "lastOpenFiles": [
-    "IPSec.md",
-    "Schermata 2024-01-07 alle 21.41.22.png",
-    "ESP.md",
-    "Schermata 2024-01-07 alle 21.37.45.png",
+    "Intro/Sicurezza di Rete/Cifratura/Cifratura a chiave asimmetrica.md",
+    "Intro/Sicurezza di Rete/Cifratura/Cifratura a chiave simmetrica.md",
+    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Authentication Code.md",
+    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Firma Digitale.md",
+    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Digest.md",
+    "Intro/Sicurezza di Rete/ESP.md",
+    "Intro/Sicurezza di Rete/IPSec.md",
+    "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
+    "Intro/Sicurezza di Rete/SAs.md",
+    "Intro/Sicurezza di Rete/Integrità ed autenticazione",
+    "Intro/Sicurezza di Rete/Cifratura",
+    "Intro/Sicurezza di Rete",
+    "AH.md",
+    "Images/Pasted image 20240108113102.png",
+    "Images/Schermata 2024-01-07 alle 21.41.22.png",
+    "Images/Schermata 2024-01-07 alle 21.37.45.png",
     "Livello di Rete/ICMP.md",
-    "Sicurezza di Rete.md",
-    "SAs.md",
-    "Schermata 2024-01-07 alle 21.23.19.png",
-    "Schermata 2024-01-07 alle 19.27.05.png",
-    "Schermata 2024-01-07 alle 19.25.47.png",
-    "Schermata 2024-01-07 alle 19.25.18.png",
-    "Firma Digitale.md",
-    "Schermata 2024-01-07 alle 19.22.46.png",
-    "Schermata 2024-01-07 alle 18.15.00.png",
-    "Schermata 2024-01-07 alle 17.52.26.png",
-    "Schermata 2024-01-06 alle 18.51.15.png",
-    "Message Authentication Code.md",
-    "Message Digest.md",
-    "Cifratura a chiave asimmetrica.md",
-    "Cifratura a chiave simmetrica.md",
+    "Images/Schermata 2024-01-07 alle 21.23.19.png",
+    "Images/Schermata 2024-01-07 alle 19.27.05.png",
+    "Images/Schermata 2024-01-07 alle 19.25.47.png",
+    "Images/Schermata 2024-01-07 alle 19.25.18.png",
+    "Images/Schermata 2024-01-07 alle 19.22.46.png",
+    "Images/Schermata 2024-01-07 alle 18.15.00.png",
+    "Images/Schermata 2024-01-07 alle 17.52.26.png",
     "Livello Trasporto/Protocollo UDP/Attacco UDP Flood.md",
     "Livello Trasporto/Protocollo UDP/UDP.md",
     "Livello Applicativo/Peer To Peer/Peer-to-Peer (P2P).md",
@@ -236,16 +212,12 @@
     "Livello Trasporto/Protocollo TCP/TCP RENO.md",
     "Livello Trasporto/Protocollo TCP/TCP.md",
     "Livello di Rete/Routing/Algoritmo Distance Vector.md",
-    "Livello di Rete/Routing/Protocolli di Routing.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Livello di Rete/Internet Protocol",
     "Livello di Rete/Routing",
     "Livello Applicativo/HTTP",
     "Livello Applicativo/FTP",
-    "Livello Applicativo/Telnet",
-    "Livello Applicativo/Uniform Resource",
-    "Livello Applicativo",
     "Senza nome.canvas"
   ]
 }
