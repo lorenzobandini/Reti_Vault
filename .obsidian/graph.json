@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path:Intro  ",
-      "color": {
-        "a": 1,
-        "rgb": 2303
-      }
-    },
-    {
       "query": "path:\"Livello Applicativo\"  ",
       "color": {
         "a": 1,
@@ -50,10 +43,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Intro  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 255
+      }
+    },
+    {
+      "query": "file:Indice",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3122049419073415,
-  "close": false
+  "scale": 0.759466177137037,
+  "close": true
 }

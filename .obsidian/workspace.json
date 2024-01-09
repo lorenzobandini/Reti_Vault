@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "82aeb577efcf41b3",
+        "id": "c42404ac91fe7a1c",
         "type": "tabs",
         "children": [
           {
-            "id": "073c75e6e16b07e6",
+            "id": "5afa0e479ac989bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Intro/Internet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Intro/Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -101,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Intro/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Intro/Internet.md"
+              }
             }
           },
           {
@@ -164,8 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "073c75e6e16b07e6",
+  "active": "5afa0e479ac989bc",
   "lastOpenFiles": [
+    "Livello di Rete/Routing/Sistemi Autonomi.md",
+    "Intro/Internet.md",
+    "Indice.md",
     "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
     "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
     "Definizioni/Connection-Oriented.md",
@@ -202,10 +213,7 @@
     "Livello Applicativo/Peer To Peer/Reti Strutturate.md",
     "Livello Applicativo/Peer To Peer/BitTorrent.md",
     "Livello Applicativo/Livello Applicativo.md",
-    "Intro/Internet.md",
     "Livello Applicativo/Peer To Peer/Reti non Strutturate.md",
-    "Livello Collegamento/Switch.md",
-    "Livello Trasporto/Protocollo TCP/TCP RENO.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Livello di Rete/Internet Protocol",
