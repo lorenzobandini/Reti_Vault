@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8223056a15c3680d",
+        "id": "82aeb577efcf41b3",
         "type": "tabs",
         "children": [
           {
-            "id": "9d6f068455ea7d80",
+            "id": "073c75e6e16b07e6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d6f068455ea7d80",
+  "active": "073c75e6e16b07e6",
   "lastOpenFiles": [
+    "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
+    "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
+    "Definizioni/Connection-Oriented.md",
     "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
     "Intro/Sicurezza di Rete/Cifratura/Cifratura a chiave asimmetrica.md",
     "Intro/Sicurezza di Rete/Cifratura/Cifratura a chiave simmetrica.md",
@@ -202,8 +206,6 @@
     "Livello Applicativo/Peer To Peer/Reti non Strutturate.md",
     "Livello Collegamento/Switch.md",
     "Livello Trasporto/Protocollo TCP/TCP RENO.md",
-    "Livello Trasporto/Protocollo TCP/TCP.md",
-    "Livello di Rete/Routing/Algoritmo Distance Vector.md",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
     "Livello di Rete/Internet Protocol",
