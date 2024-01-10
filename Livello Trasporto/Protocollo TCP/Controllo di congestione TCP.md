@@ -14,7 +14,7 @@ Per il controllo della congestione, il mittente [[TCP]] deve regolare la propria
 3. **Fast Recovery**: Durante questa fase, TCP invia pacchetti aggiuntivi per riempire la pipeline, ma con una finestra di congestione ridotta. In seguito, ritorna alla modalità di Congestion Avoidance.
 4. **Reazione ai time-out**: Quando avviene un time-out, indica che un pacchetto non è stato confermato entro un tempo specifico. In risposta, TCP esegue una ritrasmissione del pacchetto persosi e riduce drasticamente la finestra di congestione a un valore minimo, comportandosi come se fosse nella fase iniziale di Slow Start. Questo serve a evitare ulteriori congestioni a causa di problemi nella rete.
 
-La finestra di congestione (_cwnd_) impone un vincola alla frequenza di immissione del traffico sulla rete in base alla congestione percepita. Solitamente la frequenza di invio dati non super $cwnd/RTT$
+La finestra di congestione (_cwnd_) impone un vincola alla frequenza di immissione del traffico sulla rete in base alla congestione percepita. Solitamente la frequenza di invio dati non super $\frac{cwnd}{RTT}$
 
 La finestra di congestion (_cwnd_) si misura tipicamente in $MSS$ (Maximum Segment Size) dove 1 $MSS$ è la quantità massima di dati trasportabili da un segmento ed è determinato in base alla $MTU$ (unità trasmissiva massima) cioè la lunghezza massima del payload del frame di collegamento inviabile dall'[[host]] mittente. Viene scelto in modo tale che il [[Segmento TCP]], incapsulato in pacchetto [[Indirizzo IP|IP]] stia dentro un singolo frame di collegamento.
 
