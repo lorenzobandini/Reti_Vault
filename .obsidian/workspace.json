@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f2e235ef926cf7",
+        "id": "a0a6630521fba569",
         "type": "tabs",
         "children": [
           {
-            "id": "7be0f8c02cd44f18",
+            "id": "e16187a77ac0bbf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello di Rete/Internet Protocol/Datagramma IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64607d56924c6678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello di Rete/Internet Protocol/Frammentazione.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello di Rete/Internet Protocol/Frammentazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello di Rete/Internet Protocol/Frammentazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Livello di Rete/Internet Protocol/Frammentazione.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,9 +164,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64607d56924c6678",
+  "active": "e16187a77ac0bbf2",
   "lastOpenFiles": [
+    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Digest.md",
+    "Intro/Sicurezza di Rete/ESP.md",
     "Livello di Rete/Internet Protocol/Datagramma IP.md",
+    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Authentication Code.md",
+    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Firma Digitale.md",
+    "Livello di Rete/Internet Protocol/Frammentazione.md",
     "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
     "Livello Trasporto/Protocollo TCP/ECN.md",
     "Livello di Rete/Internet Protocol/Indirizzo IP.md",
@@ -200,10 +184,6 @@
     "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
     "Intro/Sicurezza di Rete/Cifratura/Cifratura a chiave asimmetrica.md",
     "Intro/Sicurezza di Rete/Cifratura/Cifratura a chiave simmetrica.md",
-    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Authentication Code.md",
-    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Firma Digitale.md",
-    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Digest.md",
-    "Intro/Sicurezza di Rete/ESP.md",
     "Intro/Sicurezza di Rete/IPSec.md",
     "Intro/Sicurezza di Rete/SAs.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione",
@@ -225,7 +205,6 @@
     "Livello Trasporto/Protocollo UDP/UDP.md",
     "Livello Applicativo/Peer To Peer/Peer-to-Peer (P2P).md",
     "Definizioni/Connessione persistente.md",
-    "Definizioni/Connessione non persistente.md",
     "Livello Applicativo/Peer To Peer",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
