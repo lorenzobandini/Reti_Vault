@@ -11,8 +11,12 @@
             "id": "e16187a77ac0bbf2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rtt",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -101,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md"
+              }
             }
           },
           {
@@ -166,13 +174,19 @@
   },
   "active": "e16187a77ac0bbf2",
   "lastOpenFiles": [
+    "Livello Trasporto/Protocollo UDP/UDP.md",
+    "Senza nome.md",
+    "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
+    "Livello di Rete/Internet Protocol/DHCP.md",
+    "Livello Trasporto/Protocollo TCP/TCP RENO.md",
+    "Livello Collegamento/Livello Collegamento.md",
+    "Livello di Rete/ICMP.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Digest.md",
     "Intro/Sicurezza di Rete/ESP.md",
     "Livello di Rete/Internet Protocol/Datagramma IP.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Authentication Code.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione/Firma Digitale.md",
     "Livello di Rete/Internet Protocol/Frammentazione.md",
-    "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
     "Livello Trasporto/Protocollo TCP/ECN.md",
     "Livello di Rete/Internet Protocol/Indirizzo IP.md",
     "Intro/Internet.md",
@@ -189,11 +203,9 @@
     "Intro/Sicurezza di Rete/Integrità ed autenticazione",
     "Intro/Sicurezza di Rete/Cifratura",
     "Intro/Sicurezza di Rete",
-    "AH.md",
     "Images/Pasted image 20240108113102.png",
     "Images/Schermata 2024-01-07 alle 21.41.22.png",
     "Images/Schermata 2024-01-07 alle 21.37.45.png",
-    "Livello di Rete/ICMP.md",
     "Images/Schermata 2024-01-07 alle 21.23.19.png",
     "Images/Schermata 2024-01-07 alle 19.27.05.png",
     "Images/Schermata 2024-01-07 alle 19.25.47.png",
@@ -201,10 +213,6 @@
     "Images/Schermata 2024-01-07 alle 19.22.46.png",
     "Images/Schermata 2024-01-07 alle 18.15.00.png",
     "Images/Schermata 2024-01-07 alle 17.52.26.png",
-    "Livello Trasporto/Protocollo UDP/Attacco UDP Flood.md",
-    "Livello Trasporto/Protocollo UDP/UDP.md",
-    "Livello Applicativo/Peer To Peer/Peer-to-Peer (P2P).md",
-    "Definizioni/Connessione persistente.md",
     "Livello Applicativo/Peer To Peer",
     "Livello Applicativo/HTTP/Versioni HTTP",
     "Context/spacesLastSync-LAPTOP-BLCDTE8E.log",
