@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro/Sicurezza di Rete/IPSec.md",
+                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro/Sicurezza di Rete/IPSec.md",
+                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro/Sicurezza di Rete/IPSec.md",
+                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro/Sicurezza di Rete/IPSec.md"
+                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md"
               }
             }
           },
@@ -174,6 +174,13 @@
   },
   "active": "29bba372e5360c62",
   "lastOpenFiles": [
+    "Indice.md",
+    "README.md",
+    "Livello Applicativo/Peer To Peer/Peer-to-Peer (P2P).md",
+    "Livello Applicativo/Peer To Peer/Reti non Strutturate.md",
+    "Livello Applicativo/Peer To Peer/Reti Strutturate.md",
+    "Livello Applicativo/Peer To Peer/BitTorrent.md",
+    "Intro/Sicurezza di Rete/IPSec.md",
     "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
     "Livello Applicativo/Telnet/Telnet.md",
     "Livello Applicativo/Telnet/Secure Shell (SSH).md",
@@ -193,13 +200,6 @@
     "Livello Trasporto/Protocollo TCP/ECN.md",
     "Livello di Rete/Internet Protocol/Indirizzo IP.md",
     "Intro/Internet.md",
-    "Indice.md",
-    "Livello di Rete/Routing/Sistemi Autonomi.md",
-    "Livello Applicativo/Posta SMTP/Handshake SMTP.md",
-    "Intro/Reti a commutazione/Reti a commutazione di pacchetto.md",
-    "Definizioni/Connection-Oriented.md",
-    "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
-    "Intro/Sicurezza di Rete/Cifratura/Cifratura a chiave asimmetrica.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione",
     "Intro/Sicurezza di Rete/Cifratura",
     "Intro/Sicurezza di Rete",

@@ -1,5 +1,5 @@
 Protocollo molto diffuso per la distribuzione di file in [[Internet]], in particolare un _torrent_ è un processo collaborativo di condivisione di un file.
-L'idea di base è dividere un file in pazzi (_chunk_) di 256Kb e far ridistribuire ad ogni peer i dati ricevuti, fornendoli a nuovi destinatari in modo da:
+L'idea di base è dividere un file in pezzi (_chunk_) di 256Kb e far ridistribuire ad ogni peer i dati ricevuti, fornendoli a nuovi destinatari in modo da:
 - Ridurre il carico ad ogni sorgente
 - Ridurre la dipendenza dal distributore originare
 - Fornire ridondanza
@@ -13,5 +13,5 @@ Un peer quando entra a far parte di un torrent per la prima volta, non ha chunk 
 ![[Schermata 2024-01-06 alle 17.25.32.png]]
 
 Le strategie principali di BitTorrent sono:
-- "Rarest Chunk First": priorizza il download dei chunk di file meno diffusi tra i peer, promuovendo una distribuzione equilibrata e efficiente delle parti del file nella rete.
-- "Tit for tat": inviare dati ai peer che inviano dati scegliendo quelli che stanno inciando dati a frequenza maggiore.
+- "Rarest Chunk First": prioritizza il download dei chunk di file meno diffusi tra i peer, promuovendo una distribuzione equilibrata e efficiente delle parti del file nella rete.
+- "Tit for tat": inviare dati ai peer che inviano dati scegliendo quelli che stanno inviando dati a frequenza maggiore.
