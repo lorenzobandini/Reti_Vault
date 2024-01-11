@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a6630521fba569",
+        "id": "1d69a4db9930e853",
         "type": "tabs",
         "children": [
           {
-            "id": "e16187a77ac0bbf2",
+            "id": "29bba372e5360c62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
+                "file": "Intro/Sicurezza di Rete/IPSec.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rtt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
+                "file": "Intro/Sicurezza di Rete/IPSec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md",
+                "file": "Intro/Sicurezza di Rete/IPSec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Trasporto/Protocollo TCP/TCP RENO.md"
+                "file": "Intro/Sicurezza di Rete/IPSec.md"
               }
             }
           },
@@ -172,17 +172,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e16187a77ac0bbf2",
+  "active": "29bba372e5360c62",
   "lastOpenFiles": [
+    "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
+    "Livello Applicativo/Telnet/Telnet.md",
+    "Livello Applicativo/Telnet/Secure Shell (SSH).md",
+    "Intro/Sicurezza di Rete/ESP.md",
     "Livello Trasporto/Protocollo UDP/UDP.md",
+    "Livello Trasporto/Protocollo TCP/TCP RENO.md",
     "Senza nome.md",
     "Livello Trasporto/Protocollo TCP/Controllo di congestione TCP.md",
     "Livello di Rete/Internet Protocol/DHCP.md",
-    "Livello Trasporto/Protocollo TCP/TCP RENO.md",
     "Livello Collegamento/Livello Collegamento.md",
     "Livello di Rete/ICMP.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Digest.md",
-    "Intro/Sicurezza di Rete/ESP.md",
     "Livello di Rete/Internet Protocol/Datagramma IP.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Authentication Code.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione/Firma Digitale.md",
@@ -197,9 +200,6 @@
     "Definizioni/Connection-Oriented.md",
     "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
     "Intro/Sicurezza di Rete/Cifratura/Cifratura a chiave asimmetrica.md",
-    "Intro/Sicurezza di Rete/Cifratura/Cifratura a chiave simmetrica.md",
-    "Intro/Sicurezza di Rete/IPSec.md",
-    "Intro/Sicurezza di Rete/SAs.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione",
     "Intro/Sicurezza di Rete/Cifratura",
     "Intro/Sicurezza di Rete",

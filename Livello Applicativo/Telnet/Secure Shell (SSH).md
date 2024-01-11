@@ -1,1 +1,1 @@
-Architettura di [[Protocollo|protocolli]] nata per sostituire [[Telnet]] e risolvere i suoi problemi di sicurezza che permetta la login remota e altri servizi di rete, rendendoli sicuri attraverso tecniche di cifratura.
+Architettura di [[Protocollo|protocolli]] nata per sostituire [[Telnet]] e risolvere i suoi problemi di sicurezza che permetta la login remota e altri servizi di rete, rendendoli sicuri attraverso tecniche di cifratura (TLS).
