@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0042f8943ed71bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro/Sicurezza di Rete/IPSec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "checksum",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
+                "file": "Intro/Sicurezza di Rete/IPSec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
+                "file": "Intro/Sicurezza di Rete/IPSec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro/Sicurezza di Rete/Sicurezza di Rete.md"
+                "file": "Intro/Sicurezza di Rete/IPSec.md"
               }
             }
           },
@@ -172,15 +185,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29bba372e5360c62",
+  "active": "0042f8943ed71bd7",
   "lastOpenFiles": [
+    "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
+    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Firma Digitale.md",
+    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Authentication Code.md",
+    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Digest.md",
+    "Livello di Rete/Internet Protocol/Datagramma IP.md",
+    "Intro/Sicurezza di Rete/IPSec.md",
     "Indice.md",
     "README.md",
     "Livello Applicativo/Peer To Peer/Peer-to-Peer (P2P).md",
     "Livello Applicativo/Peer To Peer/Reti non Strutturate.md",
     "Livello Applicativo/Peer To Peer/Reti Strutturate.md",
     "Livello Applicativo/Peer To Peer/BitTorrent.md",
-    "Intro/Sicurezza di Rete/IPSec.md",
     "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
     "Livello Applicativo/Telnet/Telnet.md",
     "Livello Applicativo/Telnet/Secure Shell (SSH).md",
@@ -192,14 +210,9 @@
     "Livello di Rete/Internet Protocol/DHCP.md",
     "Livello Collegamento/Livello Collegamento.md",
     "Livello di Rete/ICMP.md",
-    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Digest.md",
-    "Livello di Rete/Internet Protocol/Datagramma IP.md",
-    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Authentication Code.md",
-    "Intro/Sicurezza di Rete/Integrità ed autenticazione/Firma Digitale.md",
     "Livello di Rete/Internet Protocol/Frammentazione.md",
     "Livello Trasporto/Protocollo TCP/ECN.md",
     "Livello di Rete/Internet Protocol/Indirizzo IP.md",
-    "Intro/Internet.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione",
     "Intro/Sicurezza di Rete/Cifratura",
     "Intro/Sicurezza di Rete",

@@ -2,7 +2,7 @@ Anche chiamato MAC, è un tipo di codice di autenticazione dei messaggi, che vie
 Il MAC è generato tramite l'utilizzo di una chiave segreta condivisa tra mittente e destinatario ed è implementato utilizzando algoritmi di hash crittografici insieme a una chiave segreta.
 
 Il mittente:
-- Prdcuce MAC dala funzione hash $H(M+K)$
+- Produce MAC dalla funzione hash $H(M+K)$
 - Invia M e Mac su canale non sicuro
 
 Il destinatario:
