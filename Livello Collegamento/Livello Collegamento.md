@@ -11,7 +11,7 @@ Un datagramma può essere gestito da diversi protocolli su collegamenti differen
 
 I collegamenti possono essere:
 - Punto-Punto: collegamento dedicato a due soli dispositivi come [[WAN|WAN]] o switched [[LAN|LAN]] ethernet
-- Broadcast: collegamento condiviso tra più dispositivi. Quando un nodo trasmette un frame, il canale lo diffonde e tutti gli altri nodi ricevono una copia come Wireless [[LAN|LAN]] 
+- Broadcast: collegamento condiviso tra più dispositivi. Quando un nodo trasmette un frame, il canale lo diffonde e tutti gli altri nodi ricevono una copia come Wireless LAN
 
 I servizi solitamente offerti sono:
 - Framing
