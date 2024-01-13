@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d69a4db9930e853",
+        "id": "377b5178db785b0c",
         "type": "tabs",
         "children": [
           {
-            "id": "29bba372e5360c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Collegamento/Livello Collegamento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae5f997fc0fd98e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Collegamento/Protocolli MAC/Protocolli MAC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10f0f2079005bf0f",
+            "id": "e08ab389aa7b1132",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "903819c3bd29df90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Collegamento/Ethernet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "306b305a033423b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello Applicativo/FTP/FTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f17b40406161411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livello di Rete/NAT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello Collegamento/Ethernet.md",
+                "file": "Livello Applicativo/HTTP/Metodi HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello Collegamento/Ethernet.md",
+                "file": "Livello Applicativo/HTTP/Metodi HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello Collegamento/Ethernet.md"
+                "file": "Livello Applicativo/HTTP/Metodi HTTP.md"
               }
             }
           },
@@ -233,15 +172,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "903819c3bd29df90",
+  "active": "e08ab389aa7b1132",
   "lastOpenFiles": [
-    "Livello Applicativo/HTTP/Metodi HTTP.md",
-    "Livello Applicativo/HTTP/Idempotenza.md",
-    "Livello di Rete/ICMP.md",
-    "Livello Applicativo/FTP/FTP.md",
+    "Livello Applicativo/HTTP/HTTP.md",
     "Livello di Rete/NAT.md",
+    "Livello Applicativo/FTP/FTP.md",
     "Livello Collegamento/Livello Collegamento.md",
     "Livello Collegamento/Protocolli MAC/Protocolli MAC.md",
+    "Livello Applicativo/HTTP/Metodi HTTP.md",
+    "Livello Collegamento/Ethernet.md",
+    "Livello Collegamento/Switch.md",
+    "Livello di Rete/Routing/RIP.md",
+    "Livello di Rete/Routing/Algoritmo Link-State.md",
+    "Livello di Rete/Routing/Algoritmo Distance Vector.md",
+    "Definizioni/Algoritmo di Dijkstra.md",
+    "Livello Applicativo/HTTP/Idempotenza.md",
+    "Livello di Rete/ICMP.md",
     "Livello Collegamento/Protocolli MAC/Accesso Random/CSMA-CD.md",
     "Livello Collegamento/Protocolli MAC/Accesso Random/CSMA.md",
     "Livello Collegamento/Protocolli MAC/Suddivisione del canale/FDMA.md",
@@ -254,13 +200,6 @@
     "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Authentication Code.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione/Message Digest.md",
     "Livello di Rete/Internet Protocol/Datagramma IP.md",
-    "Indice.md",
-    "README.md",
-    "Livello Applicativo/Peer To Peer/Peer-to-Peer (P2P).md",
-    "Livello Applicativo/Peer To Peer/Reti non Strutturate.md",
-    "Livello Applicativo/Peer To Peer/Reti Strutturate.md",
-    "Livello Applicativo/Peer To Peer/BitTorrent.md",
-    "Livello Trasporto/Protocollo UDP/Datagramma UDP.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione",
     "Intro/Sicurezza di Rete/Cifratura",
     "Intro/Sicurezza di Rete",
