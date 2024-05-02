@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dde4dd7e7d8c3df7",
+        "id": "cd5366876b0e166c",
         "type": "tabs",
         "children": [
           {
-            "id": "891ab45137802926",
+            "id": "7b0675a834d9e906",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indice.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Indice.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,11 +165,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "891ab45137802926",
+  "active": "7b0675a834d9e906",
   "lastOpenFiles": [
+    "Livello Collegamento/ARP.md",
+    "Livello Collegamento/VLAN.md",
+    "Livello Applicativo/Livello Applicativo.md",
+    "Livello Applicativo/Interfaccia socket.md",
+    "Definizioni/API.md",
+    "Indice.md",
     "Livello Applicativo/Indirizzare Processi.md",
     "Definizioni/Processo.md",
-    "Livello Applicativo/Interfaccia socket.md",
     "Intro/Protocolli Internet/Stack Protocollare TCP-IP.md",
     "Livello Applicativo/HTTP/Metodi HTTP.md",
     "Livello Applicativo/HTTP/HTTP.md",
@@ -196,11 +193,6 @@
     "Livello Collegamento/Protocolli MAC/Accesso Random/CSMA-CD.md",
     "Livello Collegamento/Protocolli MAC/Accesso Random/CSMA.md",
     "Livello Collegamento/Protocolli MAC/Suddivisione del canale/FDMA.md",
-    "Intro/Reti a commutazione/Frequency Division Multiplexing (FDM).md",
-    "Intro/Reti a commutazione/Time Division Multiplexing (TDM).md",
-    "Livello Collegamento/Protocolli MAC/Suddivisione del canale/TDMA.md",
-    "Intro/Sicurezza di Rete/Sicurezza di Rete.md",
-    "Intro/Sicurezza di Rete/IPSec.md",
     "Intro/Sicurezza di Rete/Integrità ed autenticazione",
     "Intro/Sicurezza di Rete/Cifratura",
     "Intro/Sicurezza di Rete",

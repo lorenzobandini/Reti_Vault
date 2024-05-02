@@ -53,7 +53,9 @@
       "Livello di Rete/Routing/Routing",
       "Livello Collegamento/Protocolli MAC/Rotazione",
       "Livello Applicativo/HTTP/Versioni HTTP",
-      "Intro/Reti a commutazione"
+      "Intro/Reti a commutazione",
+      "Livello Applicativo",
+      "Livello Collegamento"
     ]
   },
   "expandedSpaces": [
